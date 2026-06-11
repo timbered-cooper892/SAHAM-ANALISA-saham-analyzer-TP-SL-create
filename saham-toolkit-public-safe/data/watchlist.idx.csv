@@ -1,0 +1,958 @@
+﻿ticker,company,aliases,country,sector,idx_code,idx_board,listed_shares,listing_date_raw
+AALI.JK,Astra Agro Lestari Tbk.,AALI;AALI.JK;Astra Agro Lestari Tbk.;Astra Agro Lestari,Indonesia,,AALI,Utama,1924688333,09 Des 1997
+ABBA.JK,Mahaka Media Tbk.,ABBA;ABBA.JK;Mahaka Media Tbk.;Mahaka Media,Indonesia,,ABBA,Pemantauan Khusus,3935892857,03 Apr 2002
+ABDA.JK,Asuransi Bina Dana Arta Tbk.,ABDA;ABDA.JK;Asuransi Bina Dana Arta Tbk.;Asuransi Bina Dana Arta,Indonesia,,ABDA,Pengembangan,620806680,06 Jul 1989
+ABMM.JK,ABM Investama Tbk.,ABMM;ABMM.JK;ABM Investama Tbk.;ABM Investama,Indonesia,,ABMM,Utama,2753165000,06 Des 2011
+ACES.JK,Aspirasi Hidup Indonesia Tbk.,ACES;ACES.JK;Aspirasi Hidup Indonesia Tbk.;Aspirasi Hidup Indonesia,Indonesia,,ACES,Utama,17120389700,06 Nov 2007
+ACST.JK,Acset Indonusa Tbk.,ACST;ACST.JK;Acset Indonusa Tbk.;Acset Indonusa,Indonesia,,ACST,Pemantauan Khusus,17675160000,24 Jun 2013
+ADES.JK,Akasha Wira International Tbk.,ADES;ADES.JK;Akasha Wira International Tbk.;Akasha Wira International,Indonesia,,ADES,Utama,589896800,13 Jun 1994
+ADHI.JK,Adhi Karya (Persero) Tbk.,ADHI;ADHI.JK;Adhi Karya (Persero) Tbk.;Adhi Karya (),Indonesia,,ADHI,Utama,8407608979,18 Mar 2004
+AISA.JK,FKS Food Sejahtera Tbk.,AISA;AISA.JK;FKS Food Sejahtera Tbk.;FKS Food Sejahtera,Indonesia,,AISA,Utama,9311800000,11 Jun 1997
+AKKU.JK,Anugerah Kagum Karya Utama Tbk,AKKU;AKKU.JK;Anugerah Kagum Karya Utama Tbk;Anugerah Kagum Karya Utama,Indonesia,,AKKU,Pemantauan Khusus,6449463636,01 Nov 2004
+AKPI.JK,Argha Karya Prima Industry Tbk,AKPI;AKPI.JK;Argha Karya Prima Industry Tbk;Argha Karya Prima Industry,Indonesia,,AKPI,Pengembangan,612248000,18 Des 1992
+AKRA.JK,AKR Corporindo Tbk.,AKRA;AKRA.JK;AKR Corporindo Tbk.;AKR Corporindo,Indonesia,,AKRA,Utama,20073474600,03 Okt 1994
+AKSI.JK,Mineral Sumberdaya Mandiri Tbk,AKSI;AKSI.JK;Mineral Sumberdaya Mandiri Tbk;Mineral Sumberdaya Mandiri,Indonesia,,AKSI,Pengembangan,720000000,13 Jul 2001
+ALDO.JK,Alkindo Naratama Tbk.,ALDO;ALDO.JK;Alkindo Naratama Tbk.;Alkindo Naratama,Indonesia,,ALDO,Utama,2700713744,12 Jul 2011
+ALKA.JK,Alakasa Industrindo Tbk,ALKA;ALKA.JK;Alakasa Industrindo Tbk;Alakasa Industrindo,Indonesia,,ALKA,Pengembangan,507665055,12 Jul 1990
+ALMI.JK,Alumindo Light Metal Industry,ALMI;ALMI.JK;Alumindo Light Metal Industry,Indonesia,,ALMI,Pemantauan Khusus,3816000000,02 Jan 1997
+ALTO.JK,Tri Banyan Tirta Tbk.,ALTO;ALTO.JK;Tri Banyan Tirta Tbk.;Tri Banyan Tirta,Indonesia,,ALTO,Pemantauan Khusus,2191870558,10 Jul 2012
+AMAG.JK,Asuransi Multi Artha Guna Tbk.,AMAG;AMAG.JK;Asuransi Multi Artha Guna Tbk.;Asuransi Multi Artha Guna,Indonesia,,AMAG,Utama,5001552516,23 Des 2005
+AMFG.JK,Asahimas Flat Glass Tbk.,AMFG;AMFG.JK;Asahimas Flat Glass Tbk.;Asahimas Flat Glass,Indonesia,,AMFG,Pengembangan,434000000,08 Nov 1995
+AMIN.JK,Ateliers Mecaniques D Indonesi,AMIN;AMIN.JK;Ateliers Mecaniques D Indonesi,Indonesia,,AMIN,Pengembangan,1080000000,10 Des 2015
+AMRT.JK,Sumber Alfaria Trijaya Tbk.,AMRT;AMRT.JK;Sumber Alfaria Trijaya Tbk.;Sumber Alfaria Trijaya,Indonesia,,AMRT,Utama,41524501700,15 Jan 2009
+ANJT.JK,Austindo Nusantara Jaya Tbk.,ANJT;ANJT.JK;Austindo Nusantara Jaya Tbk.;Austindo Nusantara Jaya,Indonesia,,ANJT,Pengembangan,3354175000,08 Mei 2013
+ANTM.JK,Aneka Tambang Tbk.,ANTM;ANTM.JK;Aneka Tambang Tbk.;Aneka Tambang,Indonesia,,ANTM,Utama,24030764725,27 Nov 1997
+APEX.JK,Apexindo Pratama Duta Tbk.,APEX;APEX.JK;Apexindo Pratama Duta Tbk.;Apexindo Pratama Duta,Indonesia,,APEX,Pengembangan,3546466661,05 Jun 2013
+APIC.JK,Pacific Strategic Financial Tb,APIC;APIC.JK;Pacific Strategic Financial Tb,Indonesia,,APIC,Pengembangan,11766313488,18 Des 2002
+APII.JK,Arita Prima Indonesia Tbk.,APII;APII.JK;Arita Prima Indonesia Tbk.;Arita Prima Indonesia,Indonesia,,APII,Pengembangan,1075760000,29 Okt 2013
+APLI.JK,Asiaplast Industries Tbk.,APLI;APLI.JK;Asiaplast Industries Tbk.;Asiaplast Industries,Indonesia,,APLI,Pengembangan,1362671400,01 Mei 2000
+APLN.JK,Agung Podomoro Land Tbk.,APLN;APLN.JK;Agung Podomoro Land Tbk.;Agung Podomoro Land,Indonesia,,APLN,Utama,22699326779,11 Nov 2010
+ARGO.JK,Argo Pantes Tbk,ARGO;ARGO.JK;Argo Pantes Tbk;Argo Pantes,Indonesia,,ARGO,Pengembangan,3174339029,07 Jan 1991
+ARII.JK,Atlas Resources Tbk.,ARII;ARII.JK;Atlas Resources Tbk.;Atlas Resources,Indonesia,,ARII,Pengembangan,3750000000,08 Nov 2011
+ARNA.JK,Arwana Citramulia Tbk.,ARNA;ARNA.JK;Arwana Citramulia Tbk.;Arwana Citramulia,Indonesia,,ARNA,Utama,7341430976,17 Jul 2001
+ARTA.JK,Arthavest Tbk,ARTA;ARTA.JK;Arthavest Tbk;Arthavest,Indonesia,,ARTA,Pengembangan,446674175,05 Nov 2002
+ARTI.JK,Ratu Prabu Energi Tbk,ARTI;ARTI.JK;Ratu Prabu Energi Tbk;Ratu Prabu Energi,Indonesia,,ARTI,Pemantauan Khusus,7840000000,30 Apr 2003
+ARTO.JK,Bank Jago Tbk.,ARTO;ARTO.JK;Bank Jago Tbk.;Bank Jago,Indonesia,,ARTO,Utama,13722768400,12 Jan 2016
+ASBI.JK,Asuransi Bintang Tbk.,ASBI;ASBI.JK;Asuransi Bintang Tbk.;Asuransi Bintang,Indonesia,,ASBI,Pengembangan,348386472,29 Nov 1989
+ASDM.JK,Asuransi Dayin Mitra Tbk.,ASDM;ASDM.JK;Asuransi Dayin Mitra Tbk.;Asuransi Dayin Mitra,Indonesia,,ASDM,Pengembangan,384000000,15 Des 1989
+ASGR.JK,Astra Graphia Tbk.,ASGR;ASGR.JK;Astra Graphia Tbk.;Astra Graphia,Indonesia,,ASGR,Utama,1348780500,15 Nov 1989
+ASII.JK,Astra International Tbk.,ASII;ASII.JK;Astra International Tbk.;Astra International,Indonesia,,ASII,Utama,40483553140,04 Apr 1990
+ASJT.JK,Asuransi Jasa Tania Tbk.,ASJT;ASJT.JK;Asuransi Jasa Tania Tbk.;Asuransi Jasa Tania,Indonesia,,ASJT,Pengembangan,1400000000,23 Des 2003
+ASMI.JK,Asuransi Maximus Graha Persada,ASMI;ASMI.JK;Asuransi Maximus Graha Persada,Indonesia,,ASMI,Pemantauan Khusus,8958380460,16 Jan 2014
+ASRI.JK,Alam Sutera Realty Tbk.,ASRI;ASRI.JK;Alam Sutera Realty Tbk.;Alam Sutera Realty,Indonesia,,ASRI,Utama,19649411888,18 Des 2007
+ASRM.JK,Asuransi Ramayana Tbk.,ASRM;ASRM.JK;Asuransi Ramayana Tbk.;Asuransi Ramayana,Indonesia,,ASRM,Pengembangan,1277992036,19 Mar 1990
+ASSA.JK,Adi Sarana Armada Tbk.,ASSA;ASSA.JK;Adi Sarana Armada Tbk.;Adi Sarana Armada,Indonesia,,ASSA,Utama,3691137517,12 Nov 2012
+ATIC.JK,Anabatic Technologies Tbk.,ATIC;ATIC.JK;Anabatic Technologies Tbk.;Anabatic Technologies,Indonesia,,ATIC,Pengembangan,2315361355,08 Jul 2015
+AUTO.JK,Astra Otoparts Tbk.,AUTO;AUTO.JK;Astra Otoparts Tbk.;Astra Otoparts,Indonesia,,AUTO,Utama,4819733000,15 Jun 1998
+BABP.JK,Bank MNC Internasional Tbk.,BABP;BABP.JK;Bank MNC Internasional Tbk.;Bank MNC Internasional,Indonesia,,BABP,Pengembangan,44014333126,15 Jul 2002
+BACA.JK,Bank Capital Indonesia Tbk.,BACA;BACA.JK;Bank Capital Indonesia Tbk.;Bank Capital Indonesia,Indonesia,,BACA,Utama,19753494636,04 Okt 2007
+BAJA.JK,Saranacentral Bajatama Tbk.,BAJA;BAJA.JK;Saranacentral Bajatama Tbk.;Saranacentral Bajatama,Indonesia,,BAJA,Pengembangan,1800000000,21 Des 2011
+BALI.JK,Bali Towerindo Sentra Tbk.,BALI;BALI.JK;Bali Towerindo Sentra Tbk.;Bali Towerindo Sentra,Indonesia,,BALI,Utama,3934592500,13 Mar 2014
+BAPA.JK,Bekasi Asri Pemula Tbk.,BAPA;BAPA.JK;Bekasi Asri Pemula Tbk.;Bekasi Asri Pemula,Indonesia,,BAPA,Pengembangan,661784520,14 Jan 2008
+BATA.JK,Sepatu Bata Tbk.,BATA;BATA.JK;Sepatu Bata Tbk.;Sepatu Bata,Indonesia,,BATA,Pemantauan Khusus,1300000000,24 Mar 1982
+BAYU.JK,Bayu Buana Tbk,BAYU;BAYU.JK;Bayu Buana Tbk;Bayu Buana,Indonesia,,BAYU,Utama,353220780,30 Okt 1989
+BBCA.JK,Bank Central Asia Tbk.,BBCA;BBCA.JK;Bank Central Asia Tbk.;Bank Central Asia,Indonesia,,BBCA,Utama,122042299500,31 Mei 2000
+BBHI.JK,Allo Bank Indonesia Tbk.,BBHI;BBHI.JK;Allo Bank Indonesia Tbk.;Allo Bank Indonesia,Indonesia,,BBHI,Utama,21512953877,12 Agt 2015
+BBKP.JK,Bank KB Indonesia Tbk.,BBKP;BBKP.JK;Bank KB Indonesia Tbk.;Bank KB Indonesia,Indonesia,,BBKP,Pengembangan,185819884852,10 Jul 2006
+BBLD.JK,Buana Finance Tbk.,BBLD;BBLD.JK;Buana Finance Tbk.;Buana Finance,Indonesia,,BBLD,Pengembangan,1645796054,07 Mei 1990
+BBMD.JK,Bank Mestika Dharma Tbk.,BBMD;BBMD.JK;Bank Mestika Dharma Tbk.;Bank Mestika Dharma,Indonesia,,BBMD,Utama,4049189100,08 Jul 2013
+BBNI.JK,Bank Negara Indonesia (Persero,BBNI;BBNI.JK;Bank Negara Indonesia (Persero;Bank Negara Indonesia (,Indonesia,,BBNI,Utama,36924339786,25 Nov 1996
+BBRI.JK,Bank Rakyat Indonesia (Persero,BBRI;BBRI.JK;Bank Rakyat Indonesia (Persero;Bank Rakyat Indonesia (,Indonesia,,BBRI,Utama,150043411587,10 Nov 2003
+BBRM.JK,Pelayaran Nasional Bina Buana,BBRM;BBRM.JK;Pelayaran Nasional Bina Buana,Indonesia,,BBRM,Pengembangan,8479490328,09 Jan 2013
+BBTN.JK,Bank Tabungan Negara (Persero),BBTN;BBTN.JK;Bank Tabungan Negara (Persero);Bank Tabungan Negara (),Indonesia,,BBTN,Utama,13894099969,17 Des 2009
+BBYB.JK,Bank Neo Commerce Tbk.,BBYB;BBYB.JK;Bank Neo Commerce Tbk.;Bank Neo Commerce,Indonesia,,BBYB,Utama,13216977523,13 Jan 2015
+BCAP.JK,MNC Kapital Indonesia Tbk.,BCAP;BCAP.JK;MNC Kapital Indonesia Tbk.;MNC Kapital Indonesia,Indonesia,,BCAP,Utama,42618850927,08 Jun 2001
+BCIC.JK,Bank JTrust Indonesia Tbk.,BCIC;BCIC.JK;Bank JTrust Indonesia Tbk.;Bank JTrust Indonesia,Indonesia,,BCIC,Pengembangan,17926071041,25 Jun 1997
+BCIP.JK,Bumi Citra Permai Tbk.,BCIP;BCIP.JK;Bumi Citra Permai Tbk.;Bumi Citra Permai,Indonesia,,BCIP,Pengembangan,1429915525,11 Des 2009
+BDMN.JK,Bank Danamon Indonesia Tbk.,BDMN;BDMN.JK;Bank Danamon Indonesia Tbk.;Bank Danamon Indonesia,Indonesia,,BDMN,Utama,9675817341,06 Des 1989
+BEKS.JK,Bank Pembangunan Daerah Banten,BEKS;BEKS.JK;Bank Pembangunan Daerah Banten,Indonesia,,BEKS,Pemantauan Khusus,51351733883,13 Jul 2001
+BEST.JK,Bekasi Fajar Industrial Estate,BEST;BEST.JK;Bekasi Fajar Industrial Estate,Indonesia,,BEST,Utama,9647311150,10 Apr 2012
+BFIN.JK,BFI Finance Indonesia Tbk.,BFIN;BFIN.JK;BFI Finance Indonesia Tbk.;BFI Finance Indonesia,Indonesia,,BFIN,Utama,15039383620,16 Mei 1990
+BGTG.JK,Bank Ganesha Tbk.,BGTG;BGTG.JK;Bank Ganesha Tbk.;Bank Ganesha,Indonesia,,BGTG,Utama,23731287132,12 Mei 2016
+BHIT.JK,MNC Asia Holding Tbk.,BHIT;BHIT.JK;MNC Asia Holding Tbk.;MNC Asia Holding,Indonesia,,BHIT,Pemantauan Khusus,86068156705,24 Nov 1997
+BIKA.JK,Binakarya Jaya Abadi Tbk.,BIKA;BIKA.JK;Binakarya Jaya Abadi Tbk.;Binakarya Jaya Abadi,Indonesia,,BIKA,Pemantauan Khusus,592280000,14 Jul 2015
+BIMA.JK,Primarindo Asia Infrastructure,BIMA;BIMA.JK;Primarindo Asia Infrastructure,Indonesia,,BIMA,Pemantauan Khusus,608175716,30 Agt 1994
+BINA.JK,Bank Ina Perdana Tbk.,BINA;BINA.JK;Bank Ina Perdana Tbk.;Bank Ina Perdana,Indonesia,,BINA,Utama,6073369498,16 Jan 2014
+BIPI.JK,Astrindo Nusantara Infrastrukt,BIPI;BIPI.JK;Astrindo Nusantara Infrastrukt,Indonesia,,BIPI,Pengembangan,63710196917,11 Feb 2010
+BIPP.JK,Bhuwanatala Indah Permai Tbk.,BIPP;BIPP.JK;Bhuwanatala Indah Permai Tbk.;Bhuwanatala Indah Permai,Indonesia,,BIPP,Pengembangan,5028669376,23 Okt 1995
+BIRD.JK,Blue Bird Tbk.,BIRD;BIRD.JK;Blue Bird Tbk.;Blue Bird,Indonesia,,BIRD,Utama,2502100000,05 Nov 2014
+BISI.JK,BISI International Tbk.,BISI;BISI.JK;BISI International Tbk.;BISI International,Indonesia,,BISI,Utama,3000000000,28 Mei 2007
+BJBR.JK,Bank Pembangunan Daerah Jawa B,BJBR;BJBR.JK;Bank Pembangunan Daerah Jawa B,Indonesia,,BJBR,Utama,10416229249,08 Jul 2010
+BJTM.JK,Bank Pembangunan Daerah Jawa T,BJTM;BJTM.JK;Bank Pembangunan Daerah Jawa T,Indonesia,,BJTM,Utama,14865343101,12 Jul 2012
+BKDP.JK,Bukit Darmo Property Tbk,BKDP;BKDP.JK;Bukit Darmo Property Tbk;Bukit Darmo Property,Indonesia,,BKDP,Pengembangan,7513992252,15 Jun 2007
+BKSL.JK,Sentul City Tbk.,BKSL;BKSL.JK;Sentul City Tbk.;Sentul City,Indonesia,,BKSL,Utama,167708902705,28 Jul 1997
+BKSW.JK,Bank QNB Indonesia Tbk.,BKSW;BKSW.JK;Bank QNB Indonesia Tbk.;Bank QNB Indonesia,Indonesia,,BKSW,Pengembangan,34806467881,21 Nov 2002
+BLTA.JK,Berlian Laju Tanker Tbk,BLTA;BLTA.JK;Berlian Laju Tanker Tbk;Berlian Laju Tanker,Indonesia,,BLTA,Pemantauan Khusus,25940187103,26 Mar 1990
+BLTZ.JK,Graha Layar Prima Tbk.,BLTZ;BLTZ.JK;Graha Layar Prima Tbk.;Graha Layar Prima,Indonesia,,BLTZ,Pemantauan Khusus,873937142,10 Apr 2014
+BMAS.JK,Bank Maspion Indonesia Tbk.,BMAS;BMAS.JK;Bank Maspion Indonesia Tbk.;Bank Maspion Indonesia,Indonesia,,BMAS,Pengembangan,17921635680,11 Jul 2013
+BMRI.JK,Bank Mandiri (Persero) Tbk.,BMRI;BMRI.JK;Bank Mandiri (Persero) Tbk.;Bank Mandiri (),Indonesia,,BMRI,Utama,92399999996,14 Jul 2003
+BMSR.JK,Bintang Mitra Semestaraya Tbk,BMSR;BMSR.JK;Bintang Mitra Semestaraya Tbk;Bintang Mitra Semestaraya,Indonesia,,BMSR,Pengembangan,1159200024,29 Des 1999
+BMTR.JK,Global Mediacom Tbk.,BMTR;BMTR.JK;Global Mediacom Tbk.;Global Mediacom,Indonesia,,BMTR,Utama,16583997586,17 Jul 1995
+BNBA.JK,Bank Bumi Arta Tbk.,BNBA;BNBA.JK;Bank Bumi Arta Tbk.;Bank Bumi Arta,Indonesia,,BNBA,Pengembangan,3354120000,01 Jun 2006
+BNBR.JK,Bakrie & Brothers Tbk,BNBR;BNBR.JK;Bakrie & Brothers Tbk;Bakrie & Brothers,Indonesia,,BNBR,Pengembangan,173416832509,28 Agt 1989
+BNGA.JK,Bank CIMB Niaga Tbk.,BNGA;BNGA.JK;Bank CIMB Niaga Tbk.;Bank CIMB Niaga,Indonesia,,BNGA,Utama,24890783784,29 Nov 1989
+BNII.JK,Bank Maybank Indonesia Tbk.,BNII;BNII.JK;Bank Maybank Indonesia Tbk.;Bank Maybank Indonesia,Indonesia,,BNII,Utama,75357433911,21 Nov 1989
+BNLI.JK,Bank Permata Tbk.,BNLI;BNLI.JK;Bank Permata Tbk.;Bank Permata,Indonesia,,BNLI,Utama,35819545925,15 Jan 1990
+BOLT.JK,Garuda Metalindo Tbk.,BOLT;BOLT.JK;Garuda Metalindo Tbk.;Garuda Metalindo,Indonesia,,BOLT,Pengembangan,2343750000,07 Jul 2015
+BPFI.JK,Woori Finance Indonesia Tbk.,BPFI;BPFI.JK;Woori Finance Indonesia Tbk.;Woori Finance Indonesia,Indonesia,,BPFI,Pengembangan,2673995362,01 Jun 2009
+BPII.JK,Batavia Prosperindo Internasio,BPII;BPII.JK;Batavia Prosperindo Internasio,Indonesia,,BPII,Pengembangan,9884153240,08 Jul 2014
+BRAM.JK,Indo Kordsa Tbk.,BRAM;BRAM.JK;Indo Kordsa Tbk.;Indo Kordsa,Indonesia,,BRAM,Pengembangan,450056980,05 Sep 1990
+BRMS.JK,Bumi Resources Minerals Tbk.,BRMS;BRMS.JK;Bumi Resources Minerals Tbk.;Bumi Resources Minerals,Indonesia,,BRMS,Utama,141784040338,09 Des 2010
+BRNA.JK,Berlina Tbk.,BRNA;BRNA.JK;Berlina Tbk.;Berlina,Indonesia,,BRNA,Pengembangan,979110000,06 Nov 1989
+BRPT.JK,Barito Pacific Tbk.,BRPT;BRPT.JK;Barito Pacific Tbk.;Barito Pacific,Indonesia,,BRPT,Utama,93747218044,01 Okt 1993
+BSDE.JK,Bumi Serpong Damai Tbk.,BSDE;BSDE.JK;Bumi Serpong Damai Tbk.;Bumi Serpong Damai,Indonesia,,BSDE,Utama,21171365812,06 Jun 2008
+BSIM.JK,Bank Sinarmas Tbk.,BSIM;BSIM.JK;Bank Sinarmas Tbk.;Bank Sinarmas,Indonesia,,BSIM,Utama,19517921842,13 Des 2010
+BSSR.JK,Baramulti Suksessarana Tbk.,BSSR;BSSR.JK;Baramulti Suksessarana Tbk.;Baramulti Suksessarana,Indonesia,,BSSR,Utama,2616500000,08 Nov 2012
+BSWD.JK,Bank Of India Indonesia Tbk.,BSWD;BSWD.JK;Bank Of India Indonesia Tbk.;Bank Of India Indonesia,Indonesia,,BSWD,Pemantauan Khusus,3651978177,01 Mei 2002
+BTEK.JK,Bumi Teknokultura Unggul Tbk,BTEK;BTEK.JK;Bumi Teknokultura Unggul Tbk;Bumi Teknokultura Unggul,Indonesia,,BTEK,Pemantauan Khusus,46277496376,14 Mei 2004
+BTEL.JK,Bakrie Telecom Tbk.,BTEL;BTEL.JK;Bakrie Telecom Tbk.;Bakrie Telecom,Indonesia,,BTEL,Pemantauan Khusus,36822665755,03 Feb 2006
+BTON.JK,Betonjaya Manunggal Tbk.,BTON;BTON.JK;Betonjaya Manunggal Tbk.;Betonjaya Manunggal,Indonesia,,BTON,Pengembangan,720000000,18 Jul 2001
+BTPN.JK,Bank SMBC Indonesia Tbk.,BTPN;BTPN.JK;Bank SMBC Indonesia Tbk.;Bank SMBC Indonesia,Indonesia,,BTPN,Utama,10536203690,12 Mar 2008
+BUDI.JK,Budi Starch & Sweetener Tbk.,BUDI;BUDI.JK;Budi Starch & Sweetener Tbk.;Budi Starch & Sweetener,Indonesia,,BUDI,Utama,4498997362,08 Mei 1995
+BUKK.JK,Bukaka Teknik Utama Tbk.,BUKK;BUKK.JK;Bukaka Teknik Utama Tbk.;Bukaka Teknik Utama,Indonesia,,BUKK,Pengembangan,2640452000,29 Jun 2015
+BULL.JK,Buana Lintas Lautan Tbk.,BULL;BULL.JK;Buana Lintas Lautan Tbk.;Buana Lintas Lautan,Indonesia,,BULL,Pengembangan,15494436593,23 Mei 2011
+BUMI.JK,Bumi Resources Tbk.,BUMI;BUMI.JK;Bumi Resources Tbk.;Bumi Resources,Indonesia,,BUMI,Utama,371335392068,30 Jul 1990
+BUVA.JK,Bukit Uluwatu Villa Tbk.,BUVA;BUVA.JK;Bukit Uluwatu Villa Tbk.;Bukit Uluwatu Villa,Indonesia,,BUVA,Pengembangan,24617054642,12 Jul 2010
+BVIC.JK,Bank Victoria International Tb,BVIC;BVIC.JK;Bank Victoria International Tb,Indonesia,,BVIC,Utama,18235266754,30 Jun 1999
+BWPT.JK,Eagle High Plantations Tbk.,BWPT;BWPT.JK;Eagle High Plantations Tbk.;Eagle High Plantations,Indonesia,,BWPT,Utama,31525291000,27 Okt 2009
+BYAN.JK,Bayan Resources Tbk.,BYAN;BYAN.JK;Bayan Resources Tbk.;Bayan Resources,Indonesia,,BYAN,Utama,33333335000,12 Agt 2008
+CANI.JK,Capitol Nusantara Indonesia Tb,CANI;CANI.JK;Capitol Nusantara Indonesia Tb,Indonesia,,CANI,Pemantauan Khusus,833440000,16 Jan 2014
+CASS.JK,Cahaya Aero Services Tbk.,CASS;CASS.JK;Cahaya Aero Services Tbk.;Cahaya Aero Services,Indonesia,,CASS,Utama,2086950000,05 Des 2011
+CEKA.JK,Wilmar Cahaya Indonesia Tbk.,CEKA;CEKA.JK;Wilmar Cahaya Indonesia Tbk.;Wilmar Cahaya Indonesia,Indonesia,,CEKA,Pengembangan,595000000,09 Jul 1996
+CENT.JK,Centratama Telekomunikasi Indo,CENT;CENT.JK;Centratama Telekomunikasi Indo,Indonesia,,CENT,Pengembangan,31183464900,01 Nov 2001
+CFIN.JK,Clipan Finance Indonesia Tbk.,CFIN;CFIN.JK;Clipan Finance Indonesia Tbk.;Clipan Finance Indonesia,Indonesia,,CFIN,Utama,3984520457,27 Agt 1990
+CINT.JK,Chitose Internasional Tbk.,CINT;CINT.JK;Chitose Internasional Tbk.;Chitose Internasional,Indonesia,,CINT,Pengembangan,1000000000,27 Jun 2014
+CITA.JK,Cita Mineral Investindo Tbk.,CITA;CITA.JK;Cita Mineral Investindo Tbk.;Cita Mineral Investindo,Indonesia,,CITA,Utama,3960361250,20 Mar 2002
+CLPI.JK,Colorpak Indonesia Tbk.,CLPI;CLPI.JK;Colorpak Indonesia Tbk.;Colorpak Indonesia,Indonesia,,CLPI,Pengembangan,306338500,30 Nov 2001
+CMNP.JK,Citra Marga Nusaphala Persada,CMNP;CMNP.JK;Citra Marga Nusaphala Persada,Indonesia,,CMNP,Utama,6696354391,10 Jan 1995
+CMPP.JK,AirAsia Indonesia Tbk.,CMPP;CMPP.JK;AirAsia Indonesia Tbk.;AirAsia Indonesia,Indonesia,,CMPP,Pemantauan Khusus,10685124441,08 Des 1994
+CNKO.JK,Exploitasi Energi Indonesia Tb,CNKO;CNKO.JK;Exploitasi Energi Indonesia Tb,Indonesia,,CNKO,Pemantauan Khusus,8956361206,20 Nov 2001
+CNTX.JK,Century Textile Industry Tbk.,CNTX;CNTX.JK;Century Textile Industry Tbk.;Century Textile Industry,Indonesia,,CNTX,Pemantauan Khusus,70000000,22 Mei 1979
+COWL.JK,Cowell Development Tbk.,COWL;COWL.JK;Cowell Development Tbk.;Cowell Development,Indonesia,,COWL,Pemantauan Khusus,4871214021,19 Des 2007
+CPIN.JK,Charoen Pokphand Indonesia Tbk,CPIN;CPIN.JK;Charoen Pokphand Indonesia Tbk;Charoen Pokphand Indonesia,Indonesia,,CPIN,Utama,16398000000,18 Mar 1991
+CPRO.JK,Central Proteina Prima Tbk.,CPRO;CPRO.JK;Central Proteina Prima Tbk.;Central Proteina Prima,Indonesia,,CPRO,Pengembangan,59572382787,28 Nov 2006
+CSAP.JK,Catur Sentosa Adiprana Tbk.,CSAP;CSAP.JK;Catur Sentosa Adiprana Tbk.;Catur Sentosa Adiprana,Indonesia,,CSAP,Pemantauan Khusus,5683175151,12 Des 2007
+CTBN.JK,Citra Tubindo Tbk.,CTBN;CTBN.JK;Citra Tubindo Tbk.;Citra Tubindo,Indonesia,,CTBN,Pengembangan,800371500,28 Nov 1989
+CTRA.JK,Ciputra Development Tbk.,CTRA;CTRA.JK;Ciputra Development Tbk.;Ciputra Development,Indonesia,,CTRA,Utama,18535695255,28 Mar 1994
+CTTH.JK,Citatah Tbk.,CTTH;CTTH.JK;Citatah Tbk.;Citatah,Indonesia,,CTTH,Pengembangan,1230839821,03 Jul 1996
+DART.JK,Duta Anggada Realty Tbk.,DART;DART.JK;Duta Anggada Realty Tbk.;Duta Anggada Realty,Indonesia,,DART,Pengembangan,3141390962,08 Mei 1990
+DEFI.JK,Danasupra Erapacific Tbk.,DEFI;DEFI.JK;Danasupra Erapacific Tbk.;Danasupra Erapacific,Indonesia,,DEFI,Pengembangan,687266666,06 Jul 2001
+DEWA.JK,Darma Henwa Tbk,DEWA;DEWA.JK;Darma Henwa Tbk;Darma Henwa,Indonesia,,DEWA,Utama,40687434244,26 Sep 2007
+DGIK.JK,Nusa Konstruksi Enjiniring Tbk,DGIK;DGIK.JK;Nusa Konstruksi Enjiniring Tbk;Nusa Konstruksi Enjiniring,Indonesia,,DGIK,Pengembangan,5541165000,19 Des 2007
+DILD.JK,Intiland Development Tbk.,DILD;DILD.JK;Intiland Development Tbk.;Intiland Development,Indonesia,,DILD,Utama,10365854185,04 Sep 1991
+DKFT.JK,Central Omega Resources Tbk.,DKFT;DKFT.JK;Central Omega Resources Tbk.;Central Omega Resources,Indonesia,,DKFT,Utama,5638246600,21 Nov 1997
+DLTA.JK,Delta Djakarta Tbk.,DLTA;DLTA.JK;Delta Djakarta Tbk.;Delta Djakarta,Indonesia,,DLTA,Utama,800659050,27 Feb 1984
+DMAS.JK,Puradelta Lestari Tbk.,DMAS;DMAS.JK;Puradelta Lestari Tbk.;Puradelta Lestari,Indonesia,,DMAS,Utama,48198111100,29 Mei 2015
+DNAR.JK,Bank Oke Indonesia Tbk.,DNAR;DNAR.JK;Bank Oke Indonesia Tbk.;Bank Oke Indonesia,Indonesia,,DNAR,Pengembangan,16721891185,11 Jul 2014
+DNET.JK,Indoritel Makmur Internasional,DNET;DNET.JK;Indoritel Makmur Internasional,Indonesia,,DNET,Utama,14184000000,11 Des 2000
+DOID.JK,BUMA Internasional Grup Tbk.,DOID;DOID.JK;BUMA Internasional Grup Tbk.;BUMA Internasional Grup,Indonesia,,DOID,Pengembangan,7651007132,15 Jun 2001
+DPNS.JK,Duta Pertiwi Nusantara Tbk.,DPNS;DPNS.JK;Duta Pertiwi Nusantara Tbk.;Duta Pertiwi Nusantara,Indonesia,,DPNS,Pengembangan,331129952,08 Agt 1990
+DSFI.JK,Dharma Samudera Fishing Indust,DSFI;DSFI.JK;Dharma Samudera Fishing Indust,Indonesia,,DSFI,Pengembangan,1857135500,24 Mar 2000
+DSNG.JK,Dharma Satya Nusantara Tbk.,DSNG;DSNG.JK;Dharma Satya Nusantara Tbk.;Dharma Satya Nusantara,Indonesia,,DSNG,Utama,10599842400,14 Jun 2013
+DSSA.JK,Dian Swastatika Sentosa Tbk,DSSA;DSSA.JK;Dian Swastatika Sentosa Tbk;Dian Swastatika Sentosa,Indonesia,,DSSA,Utama,192638080000,10 Des 2009
+DUTI.JK,Duta Pertiwi Tbk,DUTI;DUTI.JK;Duta Pertiwi Tbk;Duta Pertiwi,Indonesia,,DUTI,Pemantauan Khusus,1850000000,02 Nov 1994
+DVLA.JK,Darya-Varia Laboratoria Tbk.,DVLA;DVLA.JK;Darya-Varia Laboratoria Tbk.;Darya-Varia Laboratoria,Indonesia,,DVLA,Pengembangan,1120000000,11 Nov 1994
+DYAN.JK,Dyandra Media International Tb,DYAN;DYAN.JK;Dyandra Media International Tb,Indonesia,,DYAN,Pengembangan,4272964279,25 Mar 2013
+ECII.JK,Electronic City Indonesia Tbk.,ECII;ECII.JK;Electronic City Indonesia Tbk.;Electronic City Indonesia,Indonesia,,ECII,Pengembangan,1334333000,03 Jul 2013
+EKAD.JK,Ekadharma International Tbk.,EKAD;EKAD.JK;Ekadharma International Tbk.;Ekadharma International,Indonesia,,EKAD,Pengembangan,3493875000,14 Agt 1990
+ELSA.JK,Elnusa Tbk.,ELSA;ELSA.JK;Elnusa Tbk.;Elnusa,Indonesia,,ELSA,Utama,7298500000,06 Feb 2008
+ELTY.JK,Bakrieland Development Tbk.,ELTY;ELTY.JK;Bakrieland Development Tbk.;Bakrieland Development,Indonesia,,ELTY,Pemantauan Khusus,43521913019,30 Okt 1995
+EMDE.JK,Megapolitan Developments Tbk.,EMDE;EMDE.JK;Megapolitan Developments Tbk.;Megapolitan Developments,Indonesia,,EMDE,Pengembangan,3350000000,12 Jan 2011
+EMTK.JK,Elang Mahkota Teknologi Tbk.,EMTK;EMTK.JK;Elang Mahkota Teknologi Tbk.;Elang Mahkota Teknologi,Indonesia,,EMTK,Utama,61426451483,12 Jan 2010
+ENRG.JK,Energi Mega Persada Tbk.,ENRG;ENRG.JK;Energi Mega Persada Tbk.;Energi Mega Persada,Indonesia,,ENRG,Utama,26346230250,07 Jun 2004
+EPMT.JK,Enseval Putera Megatrading Tbk,EPMT;EPMT.JK;Enseval Putera Megatrading Tbk;Enseval Putera Megatrading,Indonesia,,EPMT,Utama,2708640000,01 Agt 1994
+ERAA.JK,Erajaya Swasembada Tbk.,ERAA;ERAA.JK;Erajaya Swasembada Tbk.;Erajaya Swasembada,Indonesia,,ERAA,Utama,15950000000,14 Des 2011
+ERTX.JK,Eratex Djaja Tbk.,ERTX;ERTX.JK;Eratex Djaja Tbk.;Eratex Djaja,Indonesia,,ERTX,Pengembangan,1286539792,21 Agt 1990
+ESSA.JK,ESSA Industries Indonesia Tbk.,ESSA;ESSA.JK;ESSA Industries Indonesia Tbk.;ESSA Industries Indonesia,Indonesia,,ESSA,Utama,17226975700,01 Feb 2012
+ESTI.JK,Ever Shine Tex Tbk.,ESTI;ESTI.JK;Ever Shine Tex Tbk.;Ever Shine Tex,Indonesia,,ESTI,Pengembangan,2015208720,13 Okt 1992
+ETWA.JK,Eterindo Wahanatama Tbk,ETWA;ETWA.JK;Eterindo Wahanatama Tbk;Eterindo Wahanatama,Indonesia,,ETWA,Pemantauan Khusus,4668671400,16 Mei 1997
+EXCL.JK,XLSMART Telecom Sejahtera Tbk.,EXCL;EXCL.JK;XLSMART Telecom Sejahtera Tbk.;XLSMART Telecom Sejahtera,Indonesia,,EXCL,Utama,18199862451,29 Sep 2005
+FAST.JK,Fast Food Indonesia Tbk.,FAST;FAST.JK;Fast Food Indonesia Tbk.;Fast Food Indonesia,Indonesia,,FAST,Pengembangan,4523610492,11 Mei 1993
+FASW.JK,Fajar Surya Wisesa Tbk.,FASW;FASW.JK;Fajar Surya Wisesa Tbk.;Fajar Surya Wisesa,Indonesia,,FASW,Pemantauan Khusus,3221255423,19 Des 1994
+FISH.JK,FKS Multi Agro Tbk.,FISH;FISH.JK;FKS Multi Agro Tbk.;FKS Multi Agro,Indonesia,,FISH,Utama,4800000000,18 Jan 2002
+FMII.JK,Fortune Mate Indonesia Tbk,FMII;FMII.JK;Fortune Mate Indonesia Tbk;Fortune Mate Indonesia,Indonesia,,FMII,Pengembangan,6400000000,30 Jun 2000
+FORU.JK,Fortune Indonesia Tbk,FORU;FORU.JK;Fortune Indonesia Tbk;Fortune Indonesia,Indonesia,,FORU,Pengembangan,465224000,17 Jan 2002
+FPNI.JK,Lotte Chemical Titan Tbk.,FPNI;FPNI.JK;Lotte Chemical Titan Tbk.;Lotte Chemical Titan,Indonesia,,FPNI,Pengembangan,5566414000,21 Mar 2002
+GAMA.JK,Aksara Global Development Tbk.,GAMA;GAMA.JK;Aksara Global Development Tbk.;Aksara Global Development,Indonesia,,GAMA,Pemantauan Khusus,10011027656,11 Jul 2012
+GDST.JK,Gunawan Dianjaya Steel Tbk.,GDST;GDST.JK;Gunawan Dianjaya Steel Tbk.;Gunawan Dianjaya Steel,Indonesia,,GDST,Pengembangan,9242500000,23 Des 2009
+GDYR.JK,Goodyear Indonesia Tbk.,GDYR;GDYR.JK;Goodyear Indonesia Tbk.;Goodyear Indonesia,Indonesia,,GDYR,Pengembangan,410000000,22 Des 1980
+GEMA.JK,Gema Grahasarana Tbk.,GEMA;GEMA.JK;Gema Grahasarana Tbk.;Gema Grahasarana,Indonesia,,GEMA,Pengembangan,1600000000,12 Agt 2002
+GEMS.JK,Golden Energy Mines Tbk.,GEMS;GEMS.JK;Golden Energy Mines Tbk.;Golden Energy Mines,Indonesia,,GEMS,Utama,5882353000,17 Nov 2011
+GGRM.JK,Gudang Garam Tbk.,GGRM;GGRM.JK;Gudang Garam Tbk.;Gudang Garam,Indonesia,,GGRM,Utama,1924088000,27 Agt 1990
+GIAA.JK,Garuda Indonesia (Persero) Tbk,GIAA;GIAA.JK;Garuda Indonesia (Persero) Tbk;Garuda Indonesia (),Indonesia,,GIAA,Pengembangan,407091703837,11 Feb 2011
+GJTL.JK,Gajah Tunggal Tbk.,GJTL;GJTL.JK;Gajah Tunggal Tbk.;Gajah Tunggal,Indonesia,,GJTL,Utama,3484800000,08 Mei 1990
+GLOB.JK,Globe Kita Terang Tbk.,GLOB;GLOB.JK;Globe Kita Terang Tbk.;Globe Kita Terang,Indonesia,,GLOB,Pemantauan Khusus,1111112000,10 Jul 2012
+GMTD.JK,Gowa Makassar Tourism Developm,GMTD;GMTD.JK;Gowa Makassar Tourism Developm,Indonesia,,GMTD,Pengembangan,1015380000,11 Des 2000
+GOLD.JK,Visi Telekomunikasi Infrastruk,GOLD;GOLD.JK;Visi Telekomunikasi Infrastruk,Indonesia,,GOLD,Pengembangan,1277276000,07 Jul 2010
+GOLL.JK,Golden Plantation Tbk.,GOLL;GOLL.JK;Golden Plantation Tbk.;Golden Plantation,Indonesia,,GOLL,Pemantauan Khusus,3665000759,23 Des 2014
+GPRA.JK,Perdana Gapuraprima Tbk.,GPRA;GPRA.JK;Perdana Gapuraprima Tbk.;Perdana Gapuraprima,Indonesia,,GPRA,Pengembangan,4276655336,10 Okt 2007
+GSMF.JK,Equity Development Investment,GSMF;GSMF.JK;Equity Development Investment,Indonesia,,GSMF,Pengembangan,14230399705,23 Okt 1989
+GTBO.JK,Garda Tujuh Buana Tbk,GTBO;GTBO.JK;Garda Tujuh Buana Tbk;Garda Tujuh Buana,Indonesia,,GTBO,Pengembangan,2500000000,09 Jul 2009
+GWSA.JK,Greenwood Sejahtera Tbk.,GWSA;GWSA.JK;Greenwood Sejahtera Tbk.;Greenwood Sejahtera,Indonesia,,GWSA,Pengembangan,7800760000,23 Des 2011
+GZCO.JK,Gozco Plantations Tbk.,GZCO;GZCO.JK;Gozco Plantations Tbk.;Gozco Plantations,Indonesia,,GZCO,Utama,6000000000,15 Mei 2008
+HADE.JK,Himalaya Energi Perkasa Tbk.,HADE;HADE.JK;Himalaya Energi Perkasa Tbk.;Himalaya Energi Perkasa,Indonesia,,HADE,Pemantauan Khusus,2120000000,12 Apr 2004
+HDFA.JK,Radana Bhaskara Finance Tbk.,HDFA;HDFA.JK;Radana Bhaskara Finance Tbk.;Radana Bhaskara Finance,Indonesia,,HDFA,Pengembangan,6542445783,10 Mei 2011
+HERO.JK,DFI Retail Nusantara Tbk.,HERO;HERO.JK;DFI Retail Nusantara Tbk.;DFI Retail Nusantara,Indonesia,,HERO,Utama,4183634000,21 Agt 1989
+HEXA.JK,Hexindo Adiperkasa Tbk.,HEXA;HEXA.JK;Hexindo Adiperkasa Tbk.;Hexindo Adiperkasa,Indonesia,,HEXA,Utama,840000000,13 Feb 1995
+HITS.JK,Humpuss Intermoda Transportasi,HITS;HITS.JK;Humpuss Intermoda Transportasi,Indonesia,,HITS,Pemantauan Khusus,7101084801,15 Des 1997
+HMSP.JK,H.M. Sampoerna Tbk.,HMSP;HMSP.JK;H.M. Sampoerna Tbk.;H.M. Sampoerna,Indonesia,,HMSP,Utama,116318076900,15 Agt 1990
+HOME.JK,Hotel Mandarine Regency Tbk.,HOME;HOME.JK;Hotel Mandarine Regency Tbk.;Hotel Mandarine Regency,Indonesia,,HOME,Pemantauan Khusus,22212194782,17 Jul 2008
+HOTL.JK,Saraswati Griya Lestari Tbk.,HOTL;HOTL.JK;Saraswati Griya Lestari Tbk.;Saraswati Griya Lestari,Indonesia,,HOTL,Pemantauan Khusus,3550001452,10 Jan 2013
+HRUM.JK,Harum Energy Tbk.,HRUM;HRUM.JK;Harum Energy Tbk.;Harum Energy,Indonesia,,HRUM,Utama,13518100000,06 Okt 2010
+IATA.JK,MNC Energy Investments Tbk.,IATA;IATA.JK;MNC Energy Investments Tbk.;MNC Energy Investments,Indonesia,,IATA,Pengembangan,31275829981,13 Sep 2006
+IBFN.JK,Intan Baru Prana Tbk.,IBFN;IBFN.JK;Intan Baru Prana Tbk.;Intan Baru Prana,Indonesia,,IBFN,Pemantauan Khusus,1517332349,22 Des 2014
+IBST.JK,Inti Bangun Sejahtera Tbk.,IBST;IBST.JK;Inti Bangun Sejahtera Tbk.;Inti Bangun Sejahtera,Indonesia,,IBST,Pemantauan Khusus,1350904927,31 Agt 2012
+ICBP.JK,Indofood CBP Sukses Makmur Tbk,ICBP;ICBP.JK;Indofood CBP Sukses Makmur Tbk;Indofood CBP Sukses Makmur,Indonesia,,ICBP,Utama,11661908000,07 Okt 2010
+ICON.JK,Island Concepts Indonesia Tbk.,ICON;ICON.JK;Island Concepts Indonesia Tbk.;Island Concepts Indonesia,Indonesia,,ICON,Pengembangan,1089750000,08 Jul 2005
+IGAR.JK,Champion Pacific Indonesia Tbk,IGAR;IGAR.JK;Champion Pacific Indonesia Tbk;Champion Pacific Indonesia,Indonesia,,IGAR,Pengembangan,927780600,05 Nov 1990
+IIKP.JK,Inti Agri Resources Tbk,IIKP;IIKP.JK;Inti Agri Resources Tbk;Inti Agri Resources,Indonesia,,IIKP,Pemantauan Khusus,33600000000,14 Okt 2002
+IKAI.JK,Intikeramik Alamasri Industri,IKAI;IKAI.JK;Intikeramik Alamasri Industri,Indonesia,,IKAI,Pemantauan Khusus,13305799387,04 Jun 1997
+IKBI.JK,Sumi Indo Kabel Tbk.,IKBI;IKBI.JK;Sumi Indo Kabel Tbk.;Sumi Indo Kabel,Indonesia,,IKBI,Pengembangan,1224000000,21 Jan 1991
+IMAS.JK,Indomobil Sukses Internasional,IMAS;IMAS.JK;Indomobil Sukses Internasional,Indonesia,,IMAS,Utama,3994291039,15 Nov 1993
+IMJS.JK,Indomobil Multi Jasa Tbk.,IMJS;IMJS.JK;Indomobil Multi Jasa Tbk.;Indomobil Multi Jasa,Indonesia,,IMJS,Pengembangan,10849262500,10 Des 2013
+IMPC.JK,Impack Pratama Industri Tbk.,IMPC;IMPC.JK;Impack Pratama Industri Tbk.;Impack Pratama Industri,Indonesia,,IMPC,Utama,54907000000,17 Des 2014
+INAF.JK,Indofarma Tbk.,INAF;INAF.JK;Indofarma Tbk.;Indofarma,Indonesia,,INAF,Pemantauan Khusus,3099267500,17 Apr 2001
+INAI.JK,Indal Aluminium Industry Tbk.,INAI;INAI.JK;Indal Aluminium Industry Tbk.;Indal Aluminium Industry,Indonesia,,INAI,Pengembangan,633600000,05 Des 1994
+INCI.JK,Intanwijaya Internasional Tbk,INCI;INCI.JK;Intanwijaya Internasional Tbk;Intanwijaya Internasional,Indonesia,,INCI,Pengembangan,207656617,24 Jul 1990
+INCO.JK,Vale Indonesia Tbk.,INCO;INCO.JK;Vale Indonesia Tbk.;Vale Indonesia,Indonesia,,INCO,Utama,10539784534,16 Mei 1990
+INDF.JK,Indofood Sukses Makmur Tbk.,INDF;INDF.JK;Indofood Sukses Makmur Tbk.;Indofood Sukses Makmur,Indonesia,,INDF,Utama,8780426500,14 Jul 1994
+INDR.JK,Indo-Rama Synthetics Tbk.,INDR;INDR.JK;Indo-Rama Synthetics Tbk.;Indo-Rama Synthetics,Indonesia,,INDR,Pengembangan,654351707,03 Agt 1990
+INDS.JK,Indospring Tbk.,INDS;INDS.JK;Indospring Tbk.;Indospring,Indonesia,,INDS,Pengembangan,6562497100,10 Agt 1990
+INDX.JK,Tanah Laut Tbk,INDX;INDX.JK;Tanah Laut Tbk;Tanah Laut,Indonesia,,INDX,Pengembangan,437913588,17 Mei 2001
+INDY.JK,Indika Energy Tbk.,INDY;INDY.JK;Indika Energy Tbk.;Indika Energy,Indonesia,,INDY,Utama,5210192000,11 Jun 2008
+INKP.JK,Indah Kiat Pulp & Paper Tbk.,INKP;INKP.JK;Indah Kiat Pulp & Paper Tbk.;Indah Kiat Pulp & Paper,Indonesia,,INKP,Utama,5470982941,16 Jul 1990
+INPC.JK,Bank Artha Graha Internasional,INPC;INPC.JK;Bank Artha Graha Internasional,Indonesia,,INPC,Utama,20021178779,23 Agt 1990
+INPP.JK,Indonesian Paradise Property T,INPP;INPP.JK;Indonesian Paradise Property T,Indonesia,,INPP,Pengembangan,11181971732,12 Jan 2004
+INRU.JK,Toba Pulp Lestari Tbk.,INRU;INRU.JK;Toba Pulp Lestari Tbk.;Toba Pulp Lestari,Indonesia,,INRU,Pemantauan Khusus,1388883283,18 Jun 1990
+INTA.JK,Intraco Penta Tbk.,INTA;INTA.JK;Intraco Penta Tbk.;Intraco Penta,Indonesia,,INTA,Pemantauan Khusus,3343935022,23 Agt 1993
+INTD.JK,Inter Delta Tbk,INTD;INTD.JK;Inter Delta Tbk;Inter Delta,Indonesia,,INTD,Pengembangan,591828000,18 Des 1989
+INTP.JK,Indocement Tunggal Prakarsa Tb,INTP;INTP.JK;Indocement Tunggal Prakarsa Tb,Indonesia,,INTP,Utama,3515602799,05 Des 1989
+IPOL.JK,Indopoly Swakarsa Industry Tbk,IPOL;IPOL.JK;Indopoly Swakarsa Industry Tbk;Indopoly Swakarsa Industry,Indonesia,,IPOL,Pengembangan,6443379509,09 Jul 2010
+ISAT.JK,Indosat Tbk.,ISAT;ISAT.JK;Indosat Tbk.;Indosat,Indonesia,,ISAT,Utama,32250810957,19 Okt 1994
+ISSP.JK,Steel Pipe Industry of Indones,ISSP;ISSP.JK;Steel Pipe Industry of Indones,Indonesia,,ISSP,Utama,7185992035,22 Feb 2013
+ITMA.JK,Sumber Energi Andalan Tbk.,ITMA;ITMA.JK;Sumber Energi Andalan Tbk.;Sumber Energi Andalan,Indonesia,,ITMA,Pengembangan,999053167,10 Des 1990
+ITMG.JK,Indo Tambangraya Megah Tbk.,ITMG;ITMG.JK;Indo Tambangraya Megah Tbk.;Indo Tambangraya Megah,Indonesia,,ITMG,Utama,1129925000,18 Des 2007
+JAWA.JK,Jaya Agra Wattie Tbk.,JAWA;JAWA.JK;Jaya Agra Wattie Tbk.;Jaya Agra Wattie,Indonesia,,JAWA,Pengembangan,16232951842,30 Mei 2011
+JECC.JK,Jembo Cable Company Tbk.,JECC;JECC.JK;Jembo Cable Company Tbk.;Jembo Cable Company,Indonesia,,JECC,Pemantauan Khusus,756000000,18 Nov 1992
+JIHD.JK,Jakarta International Hotels &,JIHD;JIHD.JK;Jakarta International Hotels &,Indonesia,,JIHD,Utama,2329040482,29 Feb 1984
+JKON.JK,Jaya Konstruksi Manggala Prata,JKON;JKON.JK;Jaya Konstruksi Manggala Prata,Indonesia,,JKON,Utama,16308519860,04 Des 2007
+JPFA.JK,Japfa Comfeed Indonesia Tbk.,JPFA;JPFA.JK;Japfa Comfeed Indonesia Tbk.;Japfa Comfeed Indonesia,Indonesia,,JPFA,Utama,11726575201,23 Okt 1989
+JRPT.JK,Jaya Real Property Tbk.,JRPT;JRPT.JK;Jaya Real Property Tbk.;Jaya Real Property,Indonesia,,JRPT,Utama,12910719100,29 Jun 1994
+JSMR.JK,Jasa Marga (Persero) Tbk.,JSMR;JSMR.JK;Jasa Marga (Persero) Tbk.;Jasa Marga (),Indonesia,,JSMR,Utama,7257871200,12 Nov 2007
+JSPT.JK,Jakarta Setiabudi Internasiona,JSPT;JSPT.JK;Jakarta Setiabudi Internasiona,Indonesia,,JSPT,Utama,2318736000,12 Jan 1998
+JTPE.JK,Jasuindo Tiga Perkasa Tbk.,JTPE;JTPE.JK;Jasuindo Tiga Perkasa Tbk.;Jasuindo Tiga Perkasa,Indonesia,,JTPE,Utama,6852050000,16 Apr 2002
+KAEF.JK,Kimia Farma Tbk.,KAEF;KAEF.JK;Kimia Farma Tbk.;Kimia Farma,Indonesia,,KAEF,Pengembangan,5566589677,04 Jul 2001
+KARW.JK,Meratus Jasa Prima Tbk.,KARW;KARW.JK;Meratus Jasa Prima Tbk.;Meratus Jasa Prima,Indonesia,,KARW,Pemantauan Khusus,587152700,20 Des 1994
+KBLI.JK,KMI Wire & Cable Tbk.,KBLI;KBLI.JK;KMI Wire & Cable Tbk.;KMI Wire & Cable,Indonesia,,KBLI,Utama,4007235107,06 Jul 1992
+KBLM.JK,Kabelindo Murni Tbk.,KBLM;KBLM.JK;Kabelindo Murni Tbk.;Kabelindo Murni,Indonesia,,KBLM,Pengembangan,1120000000,01 Jun 1992
+KBLV.JK,First Media Tbk.,KBLV;KBLV.JK;First Media Tbk.;First Media,Indonesia,,KBLV,Pengembangan,1742167907,25 Feb 2000
+KBRI.JK,Kertas Basuki Rachmat Indonesi,KBRI;KBRI.JK;Kertas Basuki Rachmat Indonesi,Indonesia,,KBRI,Pemantauan Khusus,8687995734,11 Jul 2008
+KDSI.JK,Kedawung Setia Industrial Tbk.,KDSI;KDSI.JK;Kedawung Setia Industrial Tbk.;Kedawung Setia Industrial,Indonesia,,KDSI,Pengembangan,1620000000,29 Jul 1996
+KIAS.JK,Keramika Indonesia Assosiasi T,KIAS;KIAS.JK;Keramika Indonesia Assosiasi T,Indonesia,,KIAS,Pemantauan Khusus,14929100000,08 Des 1994
+KICI.JK,Kedaung Indah Can Tbk,KICI;KICI.JK;Kedaung Indah Can Tbk;Kedaung Indah Can,Indonesia,,KICI,Pengembangan,276000000,28 Okt 1993
+KIJA.JK,Kawasan Industri Jababeka Tbk.,KIJA;KIJA.JK;Kawasan Industri Jababeka Tbk.;Kawasan Industri Jababeka,Indonesia,,KIJA,Utama,20824888369,10 Jan 1995
+KKGI.JK,Resource Alam Indonesia Tbk.,KKGI;KKGI.JK;Resource Alam Indonesia Tbk.;Resource Alam Indonesia,Indonesia,,KKGI,Utama,5000000000,01 Jul 1991
+KLBF.JK,Kalbe Farma Tbk.,KLBF;KLBF.JK;Kalbe Farma Tbk.;Kalbe Farma,Indonesia,,KLBF,Utama,46813391540,30 Jul 1991
+KOBX.JK,Kobexindo Tractors Tbk.,KOBX;KOBX.JK;Kobexindo Tractors Tbk.;Kobexindo Tractors,Indonesia,,KOBX,Pengembangan,2272500000,05 Jul 2012
+KOIN.JK,Kokoh Inti Arebama Tbk,KOIN;KOIN.JK;Kokoh Inti Arebama Tbk;Kokoh Inti Arebama,Indonesia,,KOIN,Pemantauan Khusus,980843732,09 Apr 2008
+KONI.JK,Perdana Bangun Pusaka Tbk,KONI;KONI.JK;Perdana Bangun Pusaka Tbk;Perdana Bangun Pusaka,Indonesia,,KONI,Pengembangan,312000000,22 Agt 1995
+KOPI.JK,Mitra Energi Persada Tbk.,KOPI;KOPI.JK;Mitra Energi Persada Tbk.;Mitra Energi Persada,Indonesia,,KOPI,Pengembangan,697266668,04 Mei 2015
+KPIG.JK,MNC Tourism Indonesia Tbk.,KPIG;KPIG.JK;MNC Tourism Indonesia Tbk.;MNC Tourism Indonesia,Indonesia,,KPIG,Utama,99857559263,30 Mar 2000
+KRAS.JK,Krakatau Steel (Persero) Tbk.,KRAS;KRAS.JK;Krakatau Steel (Persero) Tbk.;Krakatau Steel (),Indonesia,,KRAS,Pengembangan,19346396900,10 Nov 2010
+KREN.JK,Quantum Clovera Investama Tbk.,KREN;KREN.JK;Quantum Clovera Investama Tbk.;Quantum Clovera Investama,Indonesia,,KREN,Pemantauan Khusus,18208470100,28 Jun 2002
+LAPD.JK,Leyand International Tbk.,LAPD;LAPD.JK;Leyand International Tbk.;Leyand International,Indonesia,,LAPD,Pengembangan,3966350139,17 Jul 2001
+LCGP.JK,Eureka Prima Jakarta Tbk.,LCGP;LCGP.JK;Eureka Prima Jakarta Tbk.;Eureka Prima Jakarta,Indonesia,,LCGP,Pemantauan Khusus,5630000914,13 Jul 2007
+LEAD.JK,Logindo Samudramakmur Tbk.,LEAD;LEAD.JK;Logindo Samudramakmur Tbk.;Logindo Samudramakmur,Indonesia,,LEAD,Pengembangan,5799616328,11 Des 2013
+LINK.JK,Link Net Tbk.,LINK;LINK.JK;Link Net Tbk.;Link Net,Indonesia,,LINK,Pengembangan,2863195484,02 Jun 2014
+LION.JK,Lion Metal Works Tbk.,LION;LION.JK;Lion Metal Works Tbk.;Lion Metal Works,Indonesia,,LION,Pengembangan,520160000,20 Agt 1993
+LMAS.JK,Limas Indonesia Makmur Tbk,LMAS;LMAS.JK;Limas Indonesia Makmur Tbk;Limas Indonesia Makmur,Indonesia,,LMAS,Pemantauan Khusus,787851525,28 Des 2001
+LMPI.JK,Langgeng Makmur Industri Tbk.,LMPI;LMPI.JK;Langgeng Makmur Industri Tbk.;Langgeng Makmur Industri,Indonesia,,LMPI,Pengembangan,1008517669,17 Okt 1994
+LMSH.JK,Lionmesh Prima Tbk.,LMSH;LMSH.JK;Lionmesh Prima Tbk.;Lionmesh Prima,Indonesia,,LMSH,Pemantauan Khusus,96000000,04 Jun 1990
+LPCK.JK,Lippo Cikarang Tbk,LPCK;LPCK.JK;Lippo Cikarang Tbk;Lippo Cikarang,Indonesia,,LPCK,Utama,5134685692,24 Jul 1997
+LPGI.JK,Lippo General Insurance Tbk.,LPGI;LPGI.JK;Lippo General Insurance Tbk.;Lippo General Insurance,Indonesia,,LPGI,Pengembangan,3000000000,22 Jul 1997
+LPIN.JK,Multi Prima Sejahtera Tbk,LPIN;LPIN.JK;Multi Prima Sejahtera Tbk;Multi Prima Sejahtera,Indonesia,,LPIN,Pengembangan,425000000,05 Feb 1990
+LPKR.JK,Lippo Karawaci Tbk.,LPKR;LPKR.JK;Lippo Karawaci Tbk.;Lippo Karawaci,Indonesia,,LPKR,Utama,70898018369,28 Jun 1996
+LPLI.JK,Star Pacific Tbk,LPLI;LPLI.JK;Star Pacific Tbk;Star Pacific,Indonesia,,LPLI,Pengembangan,1170432803,23 Okt 1989
+LPPF.JK,MDS Retailing Tbk.,LPPF;LPPF.JK;MDS Retailing Tbk.;MDS Retailing,Indonesia,,LPPF,Utama,2258279280,09 Okt 1989
+LPPS.JK,Lenox Pasifik Investama Tbk.,LPPS;LPPS.JK;Lenox Pasifik Investama Tbk.;Lenox Pasifik Investama,Indonesia,,LPPS,Pengembangan,2588250000,28 Mar 1994
+LRNA.JK,Eka Sari Lorena Transport Tbk.,LRNA;LRNA.JK;Eka Sari Lorena Transport Tbk.;Eka Sari Lorena Transport,Indonesia,,LRNA,Pengembangan,350000022,15 Apr 2014
+LSIP.JK,PP London Sumatra Indonesia Tb,LSIP;LSIP.JK;PP London Sumatra Indonesia Tb,Indonesia,,LSIP,Utama,6819963965,05 Jul 1996
+LTLS.JK,Lautan Luas Tbk.,LTLS;LTLS.JK;Lautan Luas Tbk.;Lautan Luas,Indonesia,,LTLS,Utama,1560000000,21 Jul 1997
+MAGP.JK,Multi Agro Gemilang Plantation,MAGP;MAGP.JK;Multi Agro Gemilang Plantation,Indonesia,,MAGP,Pemantauan Khusus,9000000004,16 Jan 2013
+MAIN.JK,Malindo Feedmill Tbk.,MAIN;MAIN.JK;Malindo Feedmill Tbk.;Malindo Feedmill,Indonesia,,MAIN,Utama,2238750000,10 Feb 2006
+MAPI.JK,Mitra Adiperkasa Tbk.,MAPI;MAPI.JK;Mitra Adiperkasa Tbk.;Mitra Adiperkasa,Indonesia,,MAPI,Utama,16600000000,10 Nov 2004
+MAYA.JK,Bank Mayapada Internasional Tb,MAYA;MAYA.JK;Bank Mayapada Internasional Tb,Indonesia,,MAYA,Utama,25906179152,29 Agt 1997
+MBAP.JK,Mitrabara Adiperdana Tbk.,MBAP;MBAP.JK;Mitrabara Adiperdana Tbk.;Mitrabara Adiperdana,Indonesia,,MBAP,Pengembangan,1227271952,10 Jul 2014
+MBSS.JK,Mitrabahtera Segara Sejati Tbk,MBSS;MBSS.JK;Mitrabahtera Segara Sejati Tbk;Mitrabahtera Segara Sejati,Indonesia,,MBSS,Utama,1750026639,06 Apr 2011
+MBTO.JK,Martina Berto Tbk.,MBTO;MBTO.JK;Martina Berto Tbk.;Martina Berto,Indonesia,,MBTO,Pengembangan,1070000000,13 Jan 2011
+MCOR.JK,Bank China Construction Bank I,MCOR;MCOR.JK;Bank China Construction Bank I,Indonesia,,MCOR,Utama,37540533209,03 Jul 2007
+MDIA.JK,Intermedia Capital Tbk.,MDIA;MDIA.JK;Intermedia Capital Tbk.;Intermedia Capital,Indonesia,,MDIA,Pengembangan,39215538400,11 Apr 2014
+MDKA.JK,Merdeka Copper Gold Tbk.,MDKA;MDKA.JK;Merdeka Copper Gold Tbk.;Merdeka Copper Gold,Indonesia,,MDKA,Utama,24472983771,19 Jun 2015
+MDLN.JK,Modernland Realty Tbk.,MDLN;MDLN.JK;Modernland Realty Tbk.;Modernland Realty,Indonesia,,MDLN,Pengembangan,12533067322,18 Jan 1993
+MDRN.JK,Modern Internasional Tbk.,MDRN;MDRN.JK;Modern Internasional Tbk.;Modern Internasional,Indonesia,,MDRN,Pemantauan Khusus,7632167798,16 Jul 1991
+MEDC.JK,Medco Energi Internasional Tbk,MEDC;MEDC.JK;Medco Energi Internasional Tbk;Medco Energi Internasional,Indonesia,,MEDC,Utama,25136231252,12 Okt 1994
+MEGA.JK,Bank Mega Tbk.,MEGA;MEGA.JK;Bank Mega Tbk.;Bank Mega,Indonesia,,MEGA,Utama,23247028262,17 Apr 2000
+MERK.JK,Merck Tbk.,MERK;MERK.JK;Merck Tbk.;Merck,Indonesia,,MERK,Utama,448000000,23 Jul 1981
+META.JK,Nusantara Infrastructure Tbk.,META;META.JK;Nusantara Infrastructure Tbk.;Nusantara Infrastructure,Indonesia,,META,Pengembangan,17710708194,18 Jul 2001
+MFMI.JK,Multifiling Mitra Indonesia Tb,MFMI;MFMI.JK;Multifiling Mitra Indonesia Tb,Indonesia,,MFMI,Pemantauan Khusus,757581000,29 Des 2010
+MGNA.JK,Magna Investama Mandiri Tbk.,MGNA;MGNA.JK;Magna Investama Mandiri Tbk.;Magna Investama Mandiri,Indonesia,,MGNA,Pengembangan,3411085926,08 Jul 2014
+MICE.JK,Multi Indocitra Tbk.,MICE;MICE.JK;Multi Indocitra Tbk.;Multi Indocitra,Indonesia,,MICE,Pengembangan,600000000,21 Des 2005
+MIDI.JK,Midi Utama Indonesia Tbk.,MIDI;MIDI.JK;Midi Utama Indonesia Tbk.;Midi Utama Indonesia,Indonesia,,MIDI,Utama,33435294800,30 Nov 2010
+MIKA.JK,Mitra Keluarga Karyasehat Tbk.,MIKA;MIKA.JK;Mitra Keluarga Karyasehat Tbk.;Mitra Keluarga Karyasehat,Indonesia,,MIKA,Utama,13907481500,24 Mar 2015
+MIRA.JK,Mitra International Resources,MIRA;MIRA.JK;Mitra International Resources,Indonesia,,MIRA,Pemantauan Khusus,3961452039,30 Jan 1997
+MITI.JK,Mitra Investindo Tbk.,MITI;MITI.JK;Mitra Investindo Tbk.;Mitra Investindo,Indonesia,,MITI,Pengembangan,3750526603,16 Jul 1997
+MKPI.JK,Metropolitan Kentjana Tbk.,MKPI;MKPI.JK;Metropolitan Kentjana Tbk.;Metropolitan Kentjana,Indonesia,,MKPI,Pengembangan,948194000,10 Jul 2009
+MLBI.JK,Multi Bintang Indonesia Tbk.,MLBI;MLBI.JK;Multi Bintang Indonesia Tbk.;Multi Bintang Indonesia,Indonesia,,MLBI,Utama,2107000000,15 Des 1981
+MLIA.JK,Mulia Industrindo Tbk,MLIA;MLIA.JK;Mulia Industrindo Tbk;Mulia Industrindo,Indonesia,,MLIA,Pemantauan Khusus,6615000000,17 Jan 1994
+MLPL.JK,Multipolar Tbk.,MLPL;MLPL.JK;Multipolar Tbk.;Multipolar,Indonesia,,MLPL,Utama,15682323987,06 Nov 1989
+MLPT.JK,Multipolar Technology Tbk.,MLPT;MLPT.JK;Multipolar Technology Tbk.;Multipolar Technology,Indonesia,,MLPT,Pengembangan,1875000000,08 Jul 2013
+MMLP.JK,Mega Manunggal Property Tbk.,MMLP;MMLP.JK;Mega Manunggal Property Tbk.;Mega Manunggal Property,Indonesia,,MMLP,Pengembangan,6889134608,12 Jun 2015
+MNCN.JK,Media Nusantara Citra Tbk.,MNCN;MNCN.JK;Media Nusantara Citra Tbk.;Media Nusantara Citra,Indonesia,,MNCN,Utama,15049787710,22 Jun 2007
+MPMX.JK,Mitra Pinasthika Mustika Tbk.,MPMX;MPMX.JK;Mitra Pinasthika Mustika Tbk.;Mitra Pinasthika Mustika,Indonesia,,MPMX,Utama,4386963276,29 Mei 2013
+MPPA.JK,Matahari Putra Prima Tbk.,MPPA;MPPA.JK;Matahari Putra Prima Tbk.;Matahari Putra Prima,Indonesia,,MPPA,Pemantauan Khusus,12966640084,21 Des 1992
+MRAT.JK,Mustika Ratu Tbk.,MRAT;MRAT.JK;Mustika Ratu Tbk.;Mustika Ratu,Indonesia,,MRAT,Pengembangan,428000000,27 Jul 1995
+MREI.JK,Maskapai Reasuransi Indonesia,MREI;MREI.JK;Maskapai Reasuransi Indonesia,Indonesia,,MREI,Pengembangan,517791681,04 Sep 1989
+MSKY.JK,MNC Sky Vision Tbk.,MSKY;MSKY.JK;MNC Sky Vision Tbk.;MNC Sky Vision,Indonesia,,MSKY,Pengembangan,1994370480,09 Jul 2012
+MTDL.JK,Metrodata Electronics Tbk.,MTDL;MTDL.JK;Metrodata Electronics Tbk.;Metrodata Electronics,Indonesia,,MTDL,Utama,12276884585,09 Apr 1990
+MTFN.JK,Capitalinc Investment Tbk.,MTFN;MTFN.JK;Capitalinc Investment Tbk.;Capitalinc Investment,Indonesia,,MTFN,Pemantauan Khusus,31842082852,16 Apr 1990
+MTLA.JK,Metropolitan Land Tbk.,MTLA;MTLA.JK;Metropolitan Land Tbk.;Metropolitan Land,Indonesia,,MTLA,Utama,7655126330,20 Jun 2011
+MTSM.JK,Metro Realty Tbk.,MTSM;MTSM.JK;Metro Realty Tbk.;Metro Realty,Indonesia,,MTSM,Pemantauan Khusus,232848000,08 Jan 1992
+MYOH.JK,Samindo Resources Tbk.,MYOH;MYOH.JK;Samindo Resources Tbk.;Samindo Resources,Indonesia,,MYOH,Pengembangan,2206312500,27 Jul 2000
+MYOR.JK,Mayora Indah Tbk.,MYOR;MYOR.JK;Mayora Indah Tbk.;Mayora Indah,Indonesia,,MYOR,Utama,22358699725,04 Jul 1990
+MYTX.JK,Asia Pacific Investama Tbk.,MYTX;MYTX.JK;Asia Pacific Investama Tbk.;Asia Pacific Investama,Indonesia,,MYTX,Pemantauan Khusus,7747281949,10 Okt 1989
+NELY.JK,Pelayaran Nelly Dwi Putri Tbk.,NELY;NELY.JK;Pelayaran Nelly Dwi Putri Tbk.;Pelayaran Nelly Dwi Putri,Indonesia,,NELY,Pengembangan,2350000000,11 Okt 2012
+NIKL.JK,Pelat Timah Nusantara Tbk.,NIKL;NIKL.JK;Pelat Timah Nusantara Tbk.;Pelat Timah Nusantara,Indonesia,,NIKL,Pengembangan,2523350000,14 Des 2009
+NIRO.JK,City Retail Developments Tbk.,NIRO;NIRO.JK;City Retail Developments Tbk.;City Retail Developments,Indonesia,,NIRO,Pengembangan,22198871804,13 Sep 2012
+NISP.JK,Bank OCBC NISP Tbk.,NISP;NISP.JK;Bank OCBC NISP Tbk.;Bank OCBC NISP,Indonesia,,NISP,Utama,22715776032,20 Okt 1994
+NOBU.JK,Bank Nationalnobu Tbk.,NOBU;NOBU.JK;Bank Nationalnobu Tbk.;Bank Nationalnobu,Indonesia,,NOBU,Utama,7403659460,20 Mei 2013
+NRCA.JK,Nusa Raya Cipta Tbk.,NRCA;NRCA.JK;Nusa Raya Cipta Tbk.;Nusa Raya Cipta,Indonesia,,NRCA,Pengembangan,2496258344,27 Jun 2013
+OCAP.JK,Onix Capital Tbk.,OCAP;OCAP.JK;Onix Capital Tbk.;Onix Capital,Indonesia,,OCAP,Pemantauan Khusus,273200000,10 Okt 2003
+OKAS.JK,Ancora Indonesia Resources Tbk,OKAS;OKAS.JK;Ancora Indonesia Resources Tbk;Ancora Indonesia Resources,Indonesia,,OKAS,Pengembangan,2373449165,29 Mar 2006
+OMRE.JK,Indonesia Prima Property Tbk,OMRE;OMRE.JK;Indonesia Prima Property Tbk;Indonesia Prima Property,Indonesia,,OMRE,Pengembangan,2945211000,22 Agt 1994
+PADI.JK,Minna Padi Investama Sekuritas,PADI;PADI.JK;Minna Padi Investama Sekuritas,Indonesia,,PADI,Pengembangan,11307246524,09 Jan 2012
+PALM.JK,Provident Investasi Bersama Tb,PALM;PALM.JK;Provident Investasi Bersama Tb,Indonesia,,PALM,Utama,15732874458,08 Okt 2012
+PANR.JK,Panorama Sentrawisata Tbk.,PANR;PANR.JK;Panorama Sentrawisata Tbk.;Panorama Sentrawisata,Indonesia,,PANR,Pengembangan,1387500000,18 Sep 2001
+PANS.JK,Panin Sekuritas Tbk.,PANS;PANS.JK;Panin Sekuritas Tbk.;Panin Sekuritas,Indonesia,,PANS,Utama,720000000,31 Mei 2000
+PBRX.JK,Pan Brothers Tbk.,PBRX;PBRX.JK;Pan Brothers Tbk.;Pan Brothers,Indonesia,,PBRX,Pemantauan Khusus,21482028246,16 Agt 1990
+PDES.JK,Destinasi Tirta Nusantara Tbk,PDES;PDES.JK;Destinasi Tirta Nusantara Tbk;Destinasi Tirta Nusantara,Indonesia,,PDES,Pengembangan,715000000,08 Jul 2008
+PEGE.JK,Panca Global Kapital Tbk.,PEGE;PEGE.JK;Panca Global Kapital Tbk.;Panca Global Kapital,Indonesia,,PEGE,Pengembangan,2833417056,24 Jun 2005
+PGAS.JK,Perusahaan Gas Negara (Persero,PGAS;PGAS.JK;Perusahaan Gas Negara (Persero;Perusahaan Gas Negara (,Indonesia,,PGAS,Utama,24241508196,15 Des 2003
+PGLI.JK,Pembangunan Graha Lestari Inda,PGLI;PGLI.JK;Pembangunan Graha Lestari Inda,Indonesia,,PGLI,Pengembangan,488000000,05 Apr 2000
+PICO.JK,Pelangi Indah Canindo Tbk,PICO;PICO.JK;Pelangi Indah Canindo Tbk;Pelangi Indah Canindo,Indonesia,,PICO,Pengembangan,568375000,23 Sep 1996
+PJAA.JK,Pembangunan Jaya Ancol Tbk.,PJAA;PJAA.JK;Pembangunan Jaya Ancol Tbk.;Pembangunan Jaya Ancol,Indonesia,,PJAA,Pengembangan,1599999996,02 Jul 2004
+PKPK.JK,Paragon Karya Perkasa Tbk.,PKPK;PKPK.JK;Paragon Karya Perkasa Tbk.;Paragon Karya Perkasa,Indonesia,,PKPK,Pengembangan,1200000000,11 Jul 2007
+PLAS.JK,Polaris Investama Tbk,PLAS;PLAS.JK;Polaris Investama Tbk;Polaris Investama,Indonesia,,PLAS,Pemantauan Khusus,1184200000,16 Mar 2001
+PLIN.JK,Plaza Indonesia Realty Tbk.,PLIN;PLIN.JK;Plaza Indonesia Realty Tbk.;Plaza Indonesia Realty,Indonesia,,PLIN,Pemantauan Khusus,3550000000,15 Jun 1992
+PNBN.JK,Bank Pan Indonesia Tbk,PNBN;PNBN.JK;Bank Pan Indonesia Tbk;Bank Pan Indonesia,Indonesia,,PNBN,Utama,23837645998,29 Des 1982
+PNBS.JK,Bank Panin Dubai Syariah Tbk.,PNBS;PNBS.JK;Bank Panin Dubai Syariah Tbk.;Bank Panin Dubai Syariah,Indonesia,,PNBS,Pengembangan,38425504906,15 Jan 2014
+PNIN.JK,Paninvest Tbk.,PNIN;PNIN.JK;Paninvest Tbk.;Paninvest,Indonesia,,PNIN,Utama,4068323920,20 Sep 1983
+PNLF.JK,Panin Financial Tbk.,PNLF;PNLF.JK;Panin Financial Tbk.;Panin Financial,Indonesia,,PNLF,Utama,32022073293,14 Jun 1983
+PSAB.JK,J Resources Asia Pasifik Tbk.,PSAB;PSAB.JK;J Resources Asia Pasifik Tbk.;J Resources Asia Pasifik,Indonesia,,PSAB,Pengembangan,26460000000,22 Apr 2003
+PSDN.JK,Prasidha Aneka Niaga Tbk,PSDN;PSDN.JK;Prasidha Aneka Niaga Tbk;Prasidha Aneka Niaga,Indonesia,,PSDN,Pengembangan,1440000000,18 Okt 1994
+PSKT.JK,Red Planet Indonesia Tbk.,PSKT;PSKT.JK;Red Planet Indonesia Tbk.;Red Planet Indonesia,Indonesia,,PSKT,Pengembangan,10351231636,19 Sep 1995
+PTBA.JK,Bukit Asam (Persero) Tbk.,PTBA;PTBA.JK;Bukit Asam (Persero) Tbk.;Bukit Asam (),Indonesia,,PTBA,Utama,11520659250,23 Des 2002
+PTIS.JK,Indo Straits Tbk.,PTIS;PTIS.JK;Indo Straits Tbk.;Indo Straits,Indonesia,,PTIS,Pengembangan,550165300,12 Jul 2011
+PTPP.JK,PP (Persero) Tbk.,PTPP;PTPP.JK;PP (Persero) Tbk.;PP (),Indonesia,,PTPP,Utama,6199897354,09 Feb 2010
+PTRO.JK,Petrosea Tbk.,PTRO;PTRO.JK;Petrosea Tbk.;Petrosea,Indonesia,,PTRO,Utama,10086050000,21 Mei 1990
+PTSN.JK,Sat Nusapersada Tbk,PTSN;PTSN.JK;Sat Nusapersada Tbk;Sat Nusapersada,Indonesia,,PTSN,Pengembangan,5314344000,08 Nov 2007
+PTSP.JK,Pioneerindo Gourmet Internatio,PTSP;PTSP.JK;Pioneerindo Gourmet Internatio,Indonesia,,PTSP,Pengembangan,220808000,30 Mei 1994
+PUDP.JK,Pudjiadi Prestige Tbk.,PUDP;PUDP.JK;Pudjiadi Prestige Tbk.;Pudjiadi Prestige,Indonesia,,PUDP,Pengembangan,659120000,18 Nov 1994
+PWON.JK,Pakuwon Jati Tbk.,PWON;PWON.JK;Pakuwon Jati Tbk.;Pakuwon Jati,Indonesia,,PWON,Utama,48159602400,09 Okt 1989
+PYFA.JK,Pyridam Farma Tbk,PYFA;PYFA.JK;Pyridam Farma Tbk;Pyridam Farma,Indonesia,,PYFA,Pengembangan,11236715320,16 Okt 2001
+RAJA.JK,Rukun Raharja Tbk.,RAJA;RAJA.JK;Rukun Raharja Tbk.;Rukun Raharja,Indonesia,,RAJA,Utama,4227082500,19 Apr 2006
+RALS.JK,Ramayana Lestari Sentosa Tbk.,RALS;RALS.JK;Ramayana Lestari Sentosa Tbk.;Ramayana Lestari Sentosa,Indonesia,,RALS,Utama,7096000000,24 Jul 1996
+RANC.JK,Supra Boga Lestari Tbk.,RANC;RANC.JK;Supra Boga Lestari Tbk.;Supra Boga Lestari,Indonesia,,RANC,Pengembangan,1564487500,07 Jun 2012
+RBMS.JK,Ristia Bintang Mahkotasejati T,RBMS;RBMS.JK;Ristia Bintang Mahkotasejati T,Indonesia,,RBMS,Pengembangan,2656212826,19 Des 1997
+RDTX.JK,Roda Vivatex Tbk,RDTX;RDTX.JK;Roda Vivatex Tbk;Roda Vivatex,Indonesia,,RDTX,Pengembangan,268800000,14 Mei 1990
+RELI.JK,Reliance Sekuritas Indonesia T,RELI;RELI.JK;Reliance Sekuritas Indonesia T,Indonesia,,RELI,Pengembangan,1800000000,13 Jul 2005
+RICY.JK,Ricky Putra Globalindo Tbk,RICY;RICY.JK;Ricky Putra Globalindo Tbk;Ricky Putra Globalindo,Indonesia,,RICY,Pengembangan,641717510,22 Jan 1998
+RIGS.JK,Rig Tenders Indonesia Tbk.,RIGS;RIGS.JK;Rig Tenders Indonesia Tbk.;Rig Tenders Indonesia,Indonesia,,RIGS,Pengembangan,609130000,05 Mar 1990
+RIMO.JK,Rimo International Lestari Tbk,RIMO;RIMO.JK;Rimo International Lestari Tbk;Rimo International Lestari,Indonesia,,RIMO,Pemantauan Khusus,45080600000,10 Nov 2000
+RODA.JK,Pikko Land Development Tbk.,RODA;RODA.JK;Pikko Land Development Tbk.;Pikko Land Development,Indonesia,,RODA,Pengembangan,13592128209,22 Okt 2001
+ROTI.JK,Nippon Indosari Corpindo Tbk.,ROTI;ROTI.JK;Nippon Indosari Corpindo Tbk.;Nippon Indosari Corpindo,Indonesia,,ROTI,Pengembangan,6186488888,28 Jun 2010
+RUIS.JK,Radiant Utama Interinsco Tbk.,RUIS;RUIS.JK;Radiant Utama Interinsco Tbk.;Radiant Utama Interinsco,Indonesia,,RUIS,Pengembangan,770000000,12 Jul 2006
+SAFE.JK,Steady Safe Tbk,SAFE;SAFE.JK;Steady Safe Tbk;Steady Safe,Indonesia,,SAFE,Pengembangan,821207512,15 Agt 1994
+SAME.JK,Sarana Meditama Metropolitan T,SAME;SAME.JK;Sarana Meditama Metropolitan T,Indonesia,,SAME,Utama,17164632545,11 Jan 2013
+SCCO.JK,Supreme Cable Manufacturing &,SCCO;SCCO.JK;Supreme Cable Manufacturing &,Indonesia,,SCCO,Pengembangan,822333600,20 Jul 1982
+SCMA.JK,Surya Citra Media Tbk.,SCMA;SCMA.JK;Surya Citra Media Tbk.;Surya Citra Media,Indonesia,,SCMA,Utama,73970569505,16 Jul 2002
+SCPI.JK,Organon Pharma Indonesia Tbk.,SCPI;SCPI.JK;Organon Pharma Indonesia Tbk.;Organon Pharma Indonesia,Indonesia,,SCPI,Pemantauan Khusus,3600000,08 Jun 1990
+SDMU.JK,Sidomulyo Selaras Tbk.,SDMU;SDMU.JK;Sidomulyo Selaras Tbk.;Sidomulyo Selaras,Indonesia,,SDMU,Pengembangan,2250691100,12 Jul 2011
+SDPC.JK,Millennium Pharmacon Internati,SDPC;SDPC.JK;Millennium Pharmacon Internati,Indonesia,,SDPC,Pengembangan,1274000000,07 Mei 1990
+SDRA.JK,Bank Woori Saudara Indonesia 1,SDRA;SDRA.JK;Bank Woori Saudara Indonesia 1,Indonesia,,SDRA,Pengembangan,14545267990,15 Des 2006
+SGRO.JK,Prime Agri Resources Tbk.,SGRO;SGRO.JK;Prime Agri Resources Tbk.;Prime Agri Resources,Indonesia,,SGRO,Utama,1818622000,18 Jun 2007
+SHID.JK,Hotel Sahid Jaya International,SHID;SHID.JK;Hotel Sahid Jaya International,Indonesia,,SHID,Pengembangan,1119326168,08 Mei 1990
+SIDO.JK,Industri Jamu dan Farmasi Sido,SIDO;SIDO.JK;Industri Jamu dan Farmasi Sido,Indonesia,,SIDO,Utama,30000000000,18 Des 2013
+SILO.JK,Siloam International Hospitals,SILO;SILO.JK;Siloam International Hospitals,Indonesia,,SILO,Utama,13006125000,12 Sep 2013
+SIMA.JK,Siwani Makmur Tbk,SIMA;SIMA.JK;Siwani Makmur Tbk;Siwani Makmur,Indonesia,,SIMA,Pemantauan Khusus,442589871,03 Jun 1994
+SIMP.JK,Salim Ivomas Pratama Tbk.,SIMP;SIMP.JK;Salim Ivomas Pratama Tbk.;Salim Ivomas Pratama,Indonesia,,SIMP,Utama,15501310000,09 Jun 2011
+SIPD.JK,Sreeya Sewu Indonesia Tbk.,SIPD;SIPD.JK;Sreeya Sewu Indonesia Tbk.;Sreeya Sewu Indonesia,Indonesia,,SIPD,Pengembangan,1839102056,27 Des 1996
+SKBM.JK,Sekar Bumi Tbk.,SKBM;SKBM.JK;Sekar Bumi Tbk.;Sekar Bumi,Indonesia,,SKBM,Pengembangan,1730103217,28 Sep 2012
+SKLT.JK,Sekar Laut Tbk.,SKLT;SKLT.JK;Sekar Laut Tbk.;Sekar Laut,Indonesia,,SKLT,Pengembangan,6907405000,08 Sep 1993
+SKYB.JK,Northcliff Citranusa Indonesia,SKYB;SKYB.JK;Northcliff Citranusa Indonesia,Indonesia,,SKYB,Pemantauan Khusus,585000000,07 Jul 2010
+SMAR.JK,Sinar Mas Agro Resources and T,SMAR;SMAR.JK;Sinar Mas Agro Resources and T,Indonesia,,SMAR,Utama,2872193366,20 Nov 1992
+SMBR.JK,Semen Baturaja (Persero) Tbk.,SMBR;SMBR.JK;Semen Baturaja (Persero) Tbk.;Semen Baturaja (),Indonesia,,SMBR,Utama,9932534336,28 Jun 2013
+SMCB.JK,Solusi Bangun Indonesia Tbk.,SMCB;SMCB.JK;Solusi Bangun Indonesia Tbk.;Solusi Bangun Indonesia,Indonesia,,SMCB,Pemantauan Khusus,9019381973,10 Agt 1977
+SMDM.JK,Suryamas Dutamakmur Tbk.,SMDM;SMDM.JK;Suryamas Dutamakmur Tbk.;Suryamas Dutamakmur,Indonesia,,SMDM,Pengembangan,4772138237,12 Okt 1995
+SMDR.JK,Samudera Indonesia Tbk.,SMDR;SMDR.JK;Samudera Indonesia Tbk.;Samudera Indonesia,Indonesia,,SMDR,Utama,16375600000,05 Jul 1999
+SMGR.JK,Semen Indonesia (Persero) Tbk.,SMGR;SMGR.JK;Semen Indonesia (Persero) Tbk.;Semen Indonesia (),Indonesia,,SMGR,Utama,6751540089,08 Jul 1991
+SMMA.JK,Sinarmas Multiartha Tbk.,SMMA;SMMA.JK;Sinarmas Multiartha Tbk.;Sinarmas Multiartha,Indonesia,,SMMA,Pengembangan,6367664717,05 Jul 1995
+SMMT.JK,Golden Eagle Energy Tbk.,SMMT;SMMT.JK;Golden Eagle Energy Tbk.;Golden Eagle Energy,Indonesia,,SMMT,Pengembangan,3425000000,01 Des 1997
+SMRA.JK,Summarecon Agung Tbk.,SMRA;SMRA.JK;Summarecon Agung Tbk.;Summarecon Agung,Indonesia,,SMRA,Utama,16508568358,07 Mei 1990
+SMRU.JK,SMR Utama Tbk.,SMRU;SMRU.JK;SMR Utama Tbk.;SMR Utama,Indonesia,,SMRU,Pemantauan Khusus,12499385782,10 Okt 2011
+SMSM.JK,Selamat Sempurna Tbk.,SMSM;SMSM.JK;Selamat Sempurna Tbk.;Selamat Sempurna,Indonesia,,SMSM,Utama,5758675440,09 Sep 1996
+SOCI.JK,Soechi Lines Tbk.,SOCI;SOCI.JK;Soechi Lines Tbk.;Soechi Lines,Indonesia,,SOCI,Pengembangan,7059000000,03 Des 2014
+SONA.JK,Sona Topas Tourism Industry Tb,SONA;SONA.JK;Sona Topas Tourism Industry Tb,Indonesia,,SONA,Pengembangan,662400000,21 Jul 1992
+SPMA.JK,Suparma Tbk.,SPMA;SPMA.JK;Suparma Tbk.;Suparma,Indonesia,,SPMA,Pengembangan,4100317438,16 Nov 1994
+SQMI.JK,Wilton Makmur Indonesia Tbk.,SQMI;SQMI.JK;Wilton Makmur Indonesia Tbk.;Wilton Makmur Indonesia,Indonesia,,SQMI,Pemantauan Khusus,15537591429,15 Jul 2004
+SRAJ.JK,Sejahteraraya Anugrahjaya Tbk.,SRAJ;SRAJ.JK;Sejahteraraya Anugrahjaya Tbk.;Sejahteraraya Anugrahjaya,Indonesia,,SRAJ,Pengembangan,12238959990,11 Apr 2011
+SRIL.JK,Sri Rejeki Isman Tbk.,SRIL;SRIL.JK;Sri Rejeki Isman Tbk.;Sri Rejeki Isman,Indonesia,,SRIL,Pemantauan Khusus,20452176844,17 Jun 2013
+SRSN.JK,Indo Acidatama Tbk,SRSN;SRSN.JK;Indo Acidatama Tbk;Indo Acidatama,Indonesia,,SRSN,Pengembangan,6020000000,11 Jan 1993
+SRTG.JK,Saratoga Investama Sedaya Tbk.,SRTG;SRTG.JK;Saratoga Investama Sedaya Tbk.;Saratoga Investama Sedaya,Indonesia,,SRTG,Utama,13564835000,26 Jun 2013
+SSIA.JK,Surya Semesta Internusa Tbk.,SSIA;SSIA.JK;Surya Semesta Internusa Tbk.;Surya Semesta Internusa,Indonesia,,SSIA,Utama,4705249440,27 Mar 1997
+SSMS.JK,Sawit Sumbermas Sarana Tbk.,SSMS;SSMS.JK;Sawit Sumbermas Sarana Tbk.;Sawit Sumbermas Sarana,Indonesia,,SSMS,Utama,9525000000,12 Des 2013
+SSTM.JK,Sunson Textile Manufacture Tbk,SSTM;SSTM.JK;Sunson Textile Manufacture Tbk;Sunson Textile Manufacture,Indonesia,,SSTM,Pengembangan,1170909181,20 Agt 1997
+STAR.JK,Calculus Global Ventures Tbk.,STAR;STAR.JK;Calculus Global Ventures Tbk.;Calculus Global Ventures,Indonesia,,STAR,Pengembangan,4800000602,13 Jul 2011
+STTP.JK,Siantar Top Tbk.,STTP;STTP.JK;Siantar Top Tbk.;Siantar Top,Indonesia,,STTP,Pengembangan,1310000000,16 Des 1996
+SUGI.JK,Sugih Energy Tbk.,SUGI;SUGI.JK;Sugih Energy Tbk.;Sugih Energy,Indonesia,,SUGI,Pemantauan Khusus,24811541414,19 Jun 2002
+SULI.JK,SLJ Global Tbk.,SULI;SULI.JK;SLJ Global Tbk.;SLJ Global,Indonesia,,SULI,Pengembangan,6320776836,21 Mar 1994
+SUPR.JK,Solusi Tunas Pratama Tbk.,SUPR;SUPR.JK;Solusi Tunas Pratama Tbk.;Solusi Tunas Pratama,Indonesia,,SUPR,Pemantauan Khusus,1137579698,11 Okt 2011
+TALF.JK,Tunas Alfin Tbk.,TALF;TALF.JK;Tunas Alfin Tbk.;Tunas Alfin,Indonesia,,TALF,Pengembangan,1353435000,17 Jan 2014
+TARA.JK,Agung Semesta Sejahtera Tbk.,TARA;TARA.JK;Agung Semesta Sejahtera Tbk.;Agung Semesta Sejahtera,Indonesia,,TARA,Pemantauan Khusus,10069645750,11 Jul 2014
+TAXI.JK,Express Transindo Utama Tbk.,TAXI;TAXI.JK;Express Transindo Utama Tbk.;Express Transindo Utama,Indonesia,,TAXI,Pemantauan Khusus,10223647156,02 Nov 2012
+TBIG.JK,Tower Bersama Infrastructure T,TBIG;TBIG.JK;Tower Bersama Infrastructure T,Indonesia,,TBIG,Utama,22656999445,26 Okt 2010
+TBLA.JK,Tunas Baru Lampung Tbk.,TBLA;TBLA.JK;Tunas Baru Lampung Tbk.;Tunas Baru Lampung,Indonesia,,TBLA,Utama,6025373372,14 Feb 2000
+TBMS.JK,Tembaga Mulia Semanan Tbk.,TBMS;TBMS.JK;Tembaga Mulia Semanan Tbk.;Tembaga Mulia Semanan,Indonesia,,TBMS,Pengembangan,734680000,23 Mei 1990
+TCID.JK,Mandom Indonesia Tbk.,TCID;TCID.JK;Mandom Indonesia Tbk.;Mandom Indonesia,Indonesia,,TCID,Pengembangan,402133334,30 Sep 1993
+TELE.JK,Omni Inovasi Indonesia Tbk.,TELE;TELE.JK;Omni Inovasi Indonesia Tbk.;Omni Inovasi Indonesia,Indonesia,,TELE,Pemantauan Khusus,7310929389,12 Jan 2012
+TFCO.JK,Tifico Fiber Indonesia Tbk.,TFCO;TFCO.JK;Tifico Fiber Indonesia Tbk.;Tifico Fiber Indonesia,Indonesia,,TFCO,Pemantauan Khusus,4823076400,26 Feb 1980
+TGKA.JK,Tigaraksa Satria Tbk.,TGKA;TGKA.JK;Tigaraksa Satria Tbk.;Tigaraksa Satria,Indonesia,,TGKA,Pengembangan,918492750,11 Jun 1990
+TIFA.JK,KDB Tifa Finance Tbk.,TIFA;TIFA.JK;KDB Tifa Finance Tbk.;KDB Tifa Finance,Indonesia,,TIFA,Pengembangan,3552213000,08 Jul 2011
+TINS.JK,Timah Tbk.,TINS;TINS.JK;Timah Tbk.;Timah,Indonesia,,TINS,Utama,7447753454,19 Okt 1995
+TIRA.JK,Tira Austenite Tbk,TIRA;TIRA.JK;Tira Austenite Tbk;Tira Austenite,Indonesia,,TIRA,Pengembangan,588000000,27 Jul 1993
+TIRT.JK,Tirta Mahakam Resources Tbk,TIRT;TIRT.JK;Tirta Mahakam Resources Tbk;Tirta Mahakam Resources,Indonesia,,TIRT,Pemantauan Khusus,1011774750,13 Des 1999
+TKIM.JK,Pabrik Kertas Tjiwi Kimia Tbk.,TKIM;TKIM.JK;Pabrik Kertas Tjiwi Kimia Tbk.;Pabrik Kertas Tjiwi Kimia,Indonesia,,TKIM,Utama,3113223570,03 Apr 1990
+TLKM.JK,Telkom Indonesia (Persero) Tbk,TLKM;TLKM.JK;Telkom Indonesia (Persero) Tbk;Telkom Indonesia (),Indonesia,,TLKM,Utama,99062216600,14 Nov 1995
+TMAS.JK,Temas Tbk.,TMAS;TMAS.JK;Temas Tbk.;Temas,Indonesia,,TMAS,Utama,57051500000,09 Jul 2003
+TMPO.JK,Tempo Intimedia Tbk.,TMPO;TMPO.JK;Tempo Intimedia Tbk.;Tempo Intimedia,Indonesia,,TMPO,Pengembangan,1058333250,08 Jan 2001
+TOBA.JK,TBS Energi Utama Tbk.,TOBA;TOBA.JK;TBS Energi Utama Tbk.;TBS Energi Utama,Indonesia,,TOBA,Utama,8319512975,06 Jul 2012
+TOTL.JK,Total Bangun Persada Tbk.,TOTL;TOTL.JK;Total Bangun Persada Tbk.;Total Bangun Persada,Indonesia,,TOTL,Utama,3410000000,25 Jul 2006
+TOTO.JK,Surya Toto Indonesia Tbk.,TOTO;TOTO.JK;Surya Toto Indonesia Tbk.;Surya Toto Indonesia,Indonesia,,TOTO,Utama,10320000000,30 Okt 1990
+TOWR.JK,Sarana Menara Nusantara Tbk.,TOWR;TOWR.JK;Sarana Menara Nusantara Tbk.;Sarana Menara Nusantara,Indonesia,,TOWR,Utama,59098103731,08 Mar 2010
+TPIA.JK,Chandra Asri Pacific Tbk.,TPIA;TPIA.JK;Chandra Asri Pacific Tbk.;Chandra Asri Pacific,Indonesia,,TPIA,Utama,86511545092,26 Mei 2008
+TPMA.JK,Trans Power Marine Tbk.,TPMA;TPMA.JK;Trans Power Marine Tbk.;Trans Power Marine,Indonesia,,TPMA,Utama,3507420034,20 Feb 2013
+TRAM.JK,Trada Alam Minera Tbk.,TRAM;TRAM.JK;Trada Alam Minera Tbk.;Trada Alam Minera,Indonesia,,TRAM,Pemantauan Khusus,49643627934,10 Sep 2008
+TRIL.JK,Triwira Insanlestari Tbk.,TRIL;TRIL.JK;Triwira Insanlestari Tbk.;Triwira Insanlestari,Indonesia,,TRIL,Pemantauan Khusus,1200000000,28 Jan 2008
+TRIM.JK,Trimegah Sekuritas Indonesia T,TRIM;TRIM.JK;Trimegah Sekuritas Indonesia T,Indonesia,,TRIM,Utama,7109300000,31 Jan 2000
+TRIO.JK,Trikomsel Oke Tbk.,TRIO;TRIO.JK;Trikomsel Oke Tbk.;Trikomsel Oke,Indonesia,,TRIO,Pemantauan Khusus,26007494645,14 Apr 2009
+TRIS.JK,Trisula International Tbk.,TRIS;TRIS.JK;Trisula International Tbk.;Trisula International,Indonesia,,TRIS,Pengembangan,3141443831,28 Jun 2012
+TRST.JK,Trias Sentosa Tbk.,TRST;TRST.JK;Trias Sentosa Tbk.;Trias Sentosa,Indonesia,,TRST,Pengembangan,2808000000,02 Jul 1990
+TRUS.JK,Trust Finance Indonesia Tbk,TRUS;TRUS.JK;Trust Finance Indonesia Tbk;Trust Finance Indonesia,Indonesia,,TRUS,Pengembangan,800000000,28 Nov 2002
+TSPC.JK,Tempo Scan Pacific Tbk.,TSPC;TSPC.JK;Tempo Scan Pacific Tbk.;Tempo Scan Pacific,Indonesia,,TSPC,Utama,4509864300,17 Jun 1994
+ULTJ.JK,Ultrajaya Milk Industry & Trad,ULTJ;ULTJ.JK;Ultrajaya Milk Industry & Trad,Indonesia,,ULTJ,Utama,10398175200,02 Jul 1990
+UNIC.JK,Unggul Indah Cahaya Tbk.,UNIC;UNIC.JK;Unggul Indah Cahaya Tbk.;Unggul Indah Cahaya,Indonesia,,UNIC,Utama,383331363,06 Nov 1989
+UNIT.JK,Nusantara Inti Corpora Tbk,UNIT;UNIT.JK;Nusantara Inti Corpora Tbk;Nusantara Inti Corpora,Indonesia,,UNIT,Pengembangan,75422200,18 Apr 2002
+UNSP.JK,Bakrie Sumatera Plantations Tb,UNSP;UNSP.JK;Bakrie Sumatera Plantations Tb,Indonesia,,UNSP,Pemantauan Khusus,2500162344,06 Mar 1990
+UNTR.JK,United Tractors Tbk.,UNTR;UNTR.JK;United Tractors Tbk.;United Tractors,Indonesia,,UNTR,Utama,3730135136,19 Sep 1989
+UNVR.JK,Unilever Indonesia Tbk.,UNVR;UNVR.JK;Unilever Indonesia Tbk.;Unilever Indonesia,Indonesia,,UNVR,Utama,38150000000,11 Jan 1982
+VICO.JK,Victoria Investama Tbk.,VICO;VICO.JK;Victoria Investama Tbk.;Victoria Investama,Indonesia,,VICO,Utama,15217075658,08 Jul 2013
+VINS.JK,Victoria Insurance Tbk.,VINS;VINS.JK;Victoria Insurance Tbk.;Victoria Insurance,Indonesia,,VINS,Pengembangan,1553430759,28 Sep 2015
+VIVA.JK,Visi Media Asia Tbk.,VIVA;VIVA.JK;Visi Media Asia Tbk.;Visi Media Asia,Indonesia,,VIVA,Pemantauan Khusus,16464270400,21 Nov 2011
+VOKS.JK,Voksel Electric Tbk.,VOKS;VOKS.JK;Voksel Electric Tbk.;Voksel Electric,Indonesia,,VOKS,Pengembangan,4155602595,20 Des 1990
+VRNA.JK,Mizuho Leasing Indonesia Tbk.,VRNA;VRNA.JK;Mizuho Leasing Indonesia Tbk.;Mizuho Leasing Indonesia,Indonesia,,VRNA,Pengembangan,5687353997,25 Jun 2008
+WAPO.JK,Wahana Pronatural Tbk.,WAPO;WAPO.JK;Wahana Pronatural Tbk.;Wahana Pronatural,Indonesia,,WAPO,Pengembangan,1240923111,22 Jun 2001
+WEHA.JK,WEHA Transportasi Indonesia Tb,WEHA;WEHA.JK;WEHA Transportasi Indonesia Tb,Indonesia,,WEHA,Pengembangan,1460554819,31 Mei 2007
+WICO.JK,Wicaksana Overseas Internation,WICO;WICO.JK;Wicaksana Overseas Internation,Indonesia,,WICO,Pemantauan Khusus,2393710348,08 Agt 1994
+WIIM.JK,Wismilak Inti Makmur Tbk.,WIIM;WIIM.JK;Wismilak Inti Makmur Tbk.;Wismilak Inti Makmur,Indonesia,,WIIM,Utama,2099873760,18 Des 2012
+WIKA.JK,Wijaya Karya (Persero) Tbk.,WIKA;WIKA.JK;Wijaya Karya (Persero) Tbk.;Wijaya Karya (),Indonesia,,WIKA,Pemantauan Khusus,39873063858,29 Okt 2007
+WINS.JK,Wintermar Offshore Marine Tbk.,WINS;WINS.JK;Wintermar Offshore Marine Tbk.;Wintermar Offshore Marine,Indonesia,,WINS,Utama,4460988262,29 Nov 2010
+WOMF.JK,Wahana Ottomitra Multiartha Tb,WOMF;WOMF.JK;Wahana Ottomitra Multiartha Tb,Indonesia,,WOMF,Pengembangan,3481481480,13 Des 2004
+WSKT.JK,Waskita Karya (Persero) Tbk.,WSKT;WSKT.JK;Waskita Karya (Persero) Tbk.;Waskita Karya (),Indonesia,,WSKT,Pemantauan Khusus,28806807016,19 Des 2012
+WTON.JK,Wijaya Karya Beton Tbk.,WTON;WTON.JK;Wijaya Karya Beton Tbk.;Wijaya Karya Beton,Indonesia,,WTON,Utama,8715466600,08 Apr 2014
+YPAS.JK,Yanaprima Hastapersada Tbk,YPAS;YPAS.JK;Yanaprima Hastapersada Tbk;Yanaprima Hastapersada,Indonesia,,YPAS,Pengembangan,668000089,05 Mar 2008
+YULE.JK,Yulie Sekuritas Indonesia Tbk.,YULE;YULE.JK;Yulie Sekuritas Indonesia Tbk.;Yulie Sekuritas Indonesia,Indonesia,,YULE,Pengembangan,1785000000,10 Des 2004
+ZBRA.JK,Dosni Roha Indonesia Tbk.,ZBRA;ZBRA.JK;Dosni Roha Indonesia Tbk.;Dosni Roha Indonesia,Indonesia,,ZBRA,Pemantauan Khusus,2510706263,01 Agt 1991
+SHIP.JK,Sillo Maritime Perdana Tbk.,SHIP;SHIP.JK;Sillo Maritime Perdana Tbk.;Sillo Maritime Perdana,Indonesia,,SHIP,Utama,2719790000,16 Jun 2016
+CASA.JK,Capital Financial Indonesia Tb,CASA;CASA.JK;Capital Financial Indonesia Tb,Indonesia,,CASA,Pengembangan,54476269803,19 Jul 2016
+DAYA.JK,Duta Intidaya Tbk.,DAYA;DAYA.JK;Duta Intidaya Tbk.;Duta Intidaya,Indonesia,,DAYA,Pengembangan,2420547025,28 Jun 2016
+DPUM.JK,Dua Putra Utama Makmur Tbk.,DPUM;DPUM.JK;Dua Putra Utama Makmur Tbk.;Dua Putra Utama Makmur,Indonesia,,DPUM,Pengembangan,4175000000,08 Des 2015
+IDPR.JK,Indonesia Pondasi Raya Tbk.,IDPR;IDPR.JK;Indonesia Pondasi Raya Tbk.;Indonesia Pondasi Raya,Indonesia,,IDPR,Pengembangan,2003000000,10 Des 2015
+JGLE.JK,Graha Andrasentra Propertindo,JGLE;JGLE.JK;Graha Andrasentra Propertindo,Indonesia,,JGLE,Pengembangan,22581909405,29 Jun 2016
+KINO.JK,Kino Indonesia Tbk.,KINO;KINO.JK;Kino Indonesia Tbk.;Kino Indonesia,Indonesia,,KINO,Pengembangan,1428571500,11 Des 2015
+MARI.JK,Mahaka Radio Integra Tbk.,MARI;MARI.JK;Mahaka Radio Integra Tbk.;Mahaka Radio Integra,Indonesia,,MARI,Pemantauan Khusus,5252644000,11 Feb 2016
+MKNT.JK,Mitra Komunikasi Nusantara Tbk,MKNT;MKNT.JK;Mitra Komunikasi Nusantara Tbk;Mitra Komunikasi Nusantara,Indonesia,,MKNT,Pemantauan Khusus,5500000000,26 Okt 2015
+MTRA.JK,Mitra Pemuda Tbk.,MTRA;MTRA.JK;Mitra Pemuda Tbk.;Mitra Pemuda,Indonesia,,MTRA,Pemantauan Khusus,770000000,10 Feb 2016
+OASA.JK,Maharaksa Biru Energi Tbk.,OASA;OASA.JK;Maharaksa Biru Energi Tbk.;Maharaksa Biru Energi,Indonesia,,OASA,Pengembangan,6347220000,18 Jul 2016
+POWR.JK,Cikarang Listrindo Tbk.,POWR;POWR.JK;Cikarang Listrindo Tbk.;Cikarang Listrindo,Indonesia,,POWR,Utama,16087156000,14 Jun 2016
+INCF.JK,Indo Komoditi Korpora Tbk.,INCF;INCF.JK;Indo Komoditi Korpora Tbk.;Indo Komoditi Korpora,Indonesia,,INCF,Pengembangan,1438370465,06 Sep 2016
+WSBP.JK,Waskita Beton Precast Tbk.,WSBP;WSBP.JK;Waskita Beton Precast Tbk.;Waskita Beton Precast,Indonesia,,WSBP,Pemantauan Khusus,56780478486,20 Sep 2016
+PBSA.JK,Paramita Bangun Sarana Tbk.,PBSA;PBSA.JK;Paramita Bangun Sarana Tbk.;Paramita Bangun Sarana,Indonesia,,PBSA,Pengembangan,3000000000,28 Sep 2016
+PRDA.JK,Prodia Widyahusada Tbk.,PRDA;PRDA.JK;Prodia Widyahusada Tbk.;Prodia Widyahusada,Indonesia,,PRDA,Utama,937500000,07 Des 2016
+BOGA.JK,Apollo Global Interactive Tbk.,BOGA;BOGA.JK;Apollo Global Interactive Tbk.;Apollo Global Interactive,Indonesia,,BOGA,Pengembangan,3803526210,19 Des 2016
+BRIS.JK,Bank Syariah Indonesia (Perser,BRIS;BRIS.JK;Bank Syariah Indonesia (Perser,Indonesia,,BRIS,Utama,45667877639,09 Mei 2018
+PORT.JK,Nusantara Pelabuhan Handal Tbk,PORT;PORT.JK;Nusantara Pelabuhan Handal Tbk;Nusantara Pelabuhan Handal,Indonesia,,PORT,Utama,2813941985,16 Mar 2017
+CARS.JK,Industri dan Perdagangan Bintr,CARS;CARS.JK;Industri dan Perdagangan Bintr,Indonesia,,CARS,Utama,15000000000,10 Apr 2017
+MINA.JK,Sanurhasta Mitra Tbk.,MINA;MINA.JK;Sanurhasta Mitra Tbk.;Sanurhasta Mitra,Indonesia,,MINA,Pengembangan,9843750000,28 Apr 2017
+CLEO.JK,Sariguna Primatirta Tbk.,CLEO;CLEO.JK;Sariguna Primatirta Tbk.;Sariguna Primatirta,Indonesia,,CLEO,Utama,24000000000,05 Mei 2017
+TAMU.JK,Pelayaran Tamarin Samudra Tbk.,TAMU;TAMU.JK;Pelayaran Tamarin Samudra Tbk.;Pelayaran Tamarin Samudra,Indonesia,,TAMU,Pemantauan Khusus,37500000000,10 Mei 2017
+CSIS.JK,Cahayasakti Investindo Sukses,CSIS;CSIS.JK;Cahayasakti Investindo Sukses,Indonesia,,CSIS,Pengembangan,1829800000,10 Mei 2017
+TGRA.JK,Terregra Asia Energy Tbk.,TGRA;TGRA.JK;Terregra Asia Energy Tbk.;Terregra Asia Energy,Indonesia,,TGRA,Pemantauan Khusus,2750000000,16 Mei 2017
+FIRE.JK,Alfa Energi Investama Tbk.,FIRE;FIRE.JK;Alfa Energi Investama Tbk.;Alfa Energi Investama,Indonesia,,FIRE,Pengembangan,1475363179,09 Jun 2017
+TOPS.JK,Totalindo Eka Persada Tbk.,TOPS;TOPS.JK;Totalindo Eka Persada Tbk.;Totalindo Eka Persada,Indonesia,,TOPS,Pemantauan Khusus,33330000000,16 Jun 2017
+KMTR.JK,Kirana Megatara Tbk.,KMTR;KMTR.JK;Kirana Megatara Tbk.;Kirana Megatara,Indonesia,,KMTR,Pengembangan,8215366379,19 Jun 2017
+ARMY.JK,Armidian Karyatama Tbk.,ARMY;ARMY.JK;Armidian Karyatama Tbk.;Armidian Karyatama,Indonesia,,ARMY,Pemantauan Khusus,9006250000,21 Jun 2017
+MAPB.JK,MAP Boga Adiperkasa Tbk.,MAPB;MAPB.JK;MAP Boga Adiperkasa Tbk.;MAP Boga Adiperkasa,Indonesia,,MAPB,Pemantauan Khusus,2387922900,21 Jun 2017
+WOOD.JK,Integra Indocabinet Tbk.,WOOD;WOOD.JK;Integra Indocabinet Tbk.;Integra Indocabinet,Indonesia,,WOOD,Utama,6437500000,21 Jun 2017
+HRTA.JK,Hartadinata Abadi Tbk.,HRTA;HRTA.JK;Hartadinata Abadi Tbk.;Hartadinata Abadi,Indonesia,,HRTA,Utama,4605262400,21 Jun 2017
+MABA.JK,Marga Abhinaya Abadi Tbk.,MABA;MABA.JK;Marga Abhinaya Abadi Tbk.;Marga Abhinaya Abadi,Indonesia,,MABA,Pemantauan Khusus,15365229912,22 Jun 2017
+HOKI.JK,Buyung Poetra Sembada Tbk.,HOKI;HOKI.JK;Buyung Poetra Sembada Tbk.;Buyung Poetra Sembada,Indonesia,,HOKI,Pengembangan,9677752680,22 Jun 2017
+MPOW.JK,Megapower Makmur Tbk.,MPOW;MPOW.JK;Megapower Makmur Tbk.;Megapower Makmur,Indonesia,,MPOW,Pengembangan,816997053,05 Jul 2017
+MARK.JK,Mark Dynamics Indonesia Tbk.,MARK;MARK.JK;Mark Dynamics Indonesia Tbk.;Mark Dynamics Indonesia,Indonesia,,MARK,Utama,3800000310,12 Jul 2017
+NASA.JK,Andalan Perkasa Abadi Tbk.,NASA;NASA.JK;Andalan Perkasa Abadi Tbk.;Andalan Perkasa Abadi,Indonesia,,NASA,Pemantauan Khusus,11004929322,07 Agt 2017
+MDKI.JK,Emdeki Utama Tbk.,MDKI;MDKI.JK;Emdeki Utama Tbk.;Emdeki Utama,Indonesia,,MDKI,Pengembangan,2530150002,25 Sep 2017
+BELL.JK,Trisula Textile Industries Tbk,BELL;BELL.JK;Trisula Textile Industries Tbk;Trisula Textile Industries,Indonesia,,BELL,Pengembangan,7250000000,03 Okt 2017
+KIOS.JK,Kioson Komersial Indonesia Tbk,KIOS;KIOS.JK;Kioson Komersial Indonesia Tbk;Kioson Komersial Indonesia,Indonesia,,KIOS,Pengembangan,1075862960,05 Okt 2017
+GMFI.JK,Garuda Maintenance Facility Ae,GMFI;GMFI.JK;Garuda Maintenance Facility Ae,Indonesia,,GMFI,Pengembangan,124835258434,10 Okt 2017
+MTWI.JK,Malacca Trust Wuwungan Insuran,MTWI;MTWI.JK;Malacca Trust Wuwungan Insuran,Indonesia,,MTWI,Pengembangan,2924486639,12 Okt 2017
+ZINC.JK,Kapuas Prima Coal Tbk.,ZINC;ZINC.JK;Kapuas Prima Coal Tbk.;Kapuas Prima Coal,Indonesia,,ZINC,Pemantauan Khusus,25250000000,16 Okt 2017
+MCAS.JK,M Cash Integrasi Tbk.,MCAS;MCAS.JK;M Cash Integrasi Tbk.;M Cash Integrasi,Indonesia,,MCAS,Pengembangan,867933300,01 Nov 2017
+PPRE.JK,PP Presisi Tbk.,PPRE;PPRE.JK;PP Presisi Tbk.;PP Presisi,Indonesia,,PPRE,Pengembangan,10224271000,24 Nov 2017
+WEGE.JK,Wijaya Karya Bangunan Gedung T,WEGE;WEGE.JK;Wijaya Karya Bangunan Gedung T,Indonesia,,WEGE,Pengembangan,9572000000,30 Nov 2017
+PSSI.JK,IMC Pelita Logistik Tbk.,PSSI;PSSI.JK;IMC Pelita Logistik Tbk.;IMC Pelita Logistik,Indonesia,,PSSI,Utama,5417063153,05 Des 2017
+MORA.JK,Ekamas Mora Republik Tbk.,MORA;MORA.JK;Ekamas Mora Republik Tbk.;Ekamas Mora Republik,Indonesia,,MORA,Utama,47774192736,08 Agt 2022
+DWGL.JK,Dwi Guna Laksana Tbk.,DWGL;DWGL.JK;Dwi Guna Laksana Tbk.;Dwi Guna Laksana,Indonesia,,DWGL,Pengembangan,9252820991,13 Des 2017
+PBID.JK,Panca Budi Idaman Tbk.,PBID;PBID.JK;Panca Budi Idaman Tbk.;Panca Budi Idaman,Indonesia,,PBID,Utama,7500000000,13 Des 2017
+JMAS.JK,Asuransi Jiwa Syariah Jasa Mit,JMAS;JMAS.JK;Asuransi Jiwa Syariah Jasa Mit,Indonesia,,JMAS,Pengembangan,1000000000,18 Des 2017
+CAMP.JK,Campina Ice Cream Industry Tbk,CAMP;CAMP.JK;Campina Ice Cream Industry Tbk;Campina Ice Cream Industry,Indonesia,,CAMP,Pengembangan,5885000000,19 Des 2017
+IPCM.JK,Jasa Armada Indonesia Tbk.,IPCM;IPCM.JK;Jasa Armada Indonesia Tbk.;Jasa Armada Indonesia,Indonesia,,IPCM,Utama,5284811100,22 Des 2017
+PCAR.JK,Prima Cakrawala Abadi Tbk.,PCAR;PCAR.JK;Prima Cakrawala Abadi Tbk.;Prima Cakrawala Abadi,Indonesia,,PCAR,Pemantauan Khusus,1166666700,29 Des 2017
+LCKM.JK,LCK Global Kedaton Tbk.,LCKM;LCKM.JK;LCK Global Kedaton Tbk.;LCK Global Kedaton,Indonesia,,LCKM,Pengembangan,1000000000,16 Jan 2018
+BOSS.JK,Borneo Olah Sarana Sukses Tbk.,BOSS;BOSS.JK;Borneo Olah Sarana Sukses Tbk.;Borneo Olah Sarana Sukses,Indonesia,,BOSS,Pemantauan Khusus,1400000000,15 Feb 2018
+HELI.JK,Jaya Trishindo Tbk.,HELI;HELI.JK;Jaya Trishindo Tbk.;Jaya Trishindo,Indonesia,,HELI,Pengembangan,832862387,27 Mar 2018
+JSKY.JK,Sky Energy Indonesia Tbk.,JSKY;JSKY.JK;Sky Energy Indonesia Tbk.;Sky Energy Indonesia,Indonesia,,JSKY,Pemantauan Khusus,2032540000,28 Mar 2018
+INPS.JK,Indah Prakasa Sentosa Tbk.,INPS;INPS.JK;Indah Prakasa Sentosa Tbk.;Indah Prakasa Sentosa,Indonesia,,INPS,Pemantauan Khusus,650000000,06 Apr 2018
+GHON.JK,Gihon Telekomunikasi Indonesia,GHON;GHON.JK;Gihon Telekomunikasi Indonesia,Indonesia,,GHON,Pengembangan,550000000,09 Apr 2018
+TDPM.JK,Tianrong Chemicals Industry Tb,TDPM;TDPM.JK;Tianrong Chemicals Industry Tb,Indonesia,,TDPM,Pemantauan Khusus,10485050500,09 Apr 2018
+DFAM.JK,Dafam Property Indonesia Tbk.,DFAM;DFAM.JK;Dafam Property Indonesia Tbk.;Dafam Property Indonesia,Indonesia,,DFAM,Pengembangan,1899852850,27 Apr 2018
+NICK.JK,Charnic Capital Tbk.,NICK;NICK.JK;Charnic Capital Tbk.;Charnic Capital,Indonesia,,NICK,Pengembangan,651150000,02 Mei 2018
+BTPS.JK,Bank BTPN Syariah Tbk.,BTPS;BTPS.JK;Bank BTPN Syariah Tbk.;Bank BTPN Syariah,Indonesia,,BTPS,Utama,7626663000,08 Mei 2018
+SPTO.JK,Surya Pertiwi Tbk.,SPTO;SPTO.JK;Surya Pertiwi Tbk.;Surya Pertiwi,Indonesia,,SPTO,Utama,2700000000,14 Mei 2018
+PRIM.JK,Royal Prima Tbk.,PRIM;PRIM.JK;Royal Prima Tbk.;Royal Prima,Indonesia,,PRIM,Pengembangan,3393434905,15 Mei 2018
+HEAL.JK,Medikaloka Hermina Tbk.,HEAL;HEAL.JK;Medikaloka Hermina Tbk.;Medikaloka Hermina,Indonesia,,HEAL,Utama,15365950000,16 Mei 2018
+TRUK.JK,Guna Timur Raya Tbk.,TRUK;TRUK.JK;Guna Timur Raya Tbk.;Guna Timur Raya,Indonesia,,TRUK,Pengembangan,435000000,23 Mei 2018
+PZZA.JK,Sarimelati Kencana Tbk.,PZZA;PZZA.JK;Sarimelati Kencana Tbk.;Sarimelati Kencana,Indonesia,,PZZA,Pengembangan,3021875000,23 Mei 2018
+TUGU.JK,Asuransi Tugu Pratama Indonesi,TUGU;TUGU.JK;Asuransi Tugu Pratama Indonesi,Indonesia,,TUGU,Utama,3555575600,28 Mei 2018
+MSIN.JK,MNC Digital Entertainment Tbk.,MSIN;MSIN.JK;MNC Digital Entertainment Tbk.;MNC Digital Entertainment,Indonesia,,MSIN,Utama,60676178205,08 Jun 2018
+SWAT.JK,Sriwahana Adityakarta Tbk.,SWAT;SWAT.JK;Sriwahana Adityakarta Tbk.;Sriwahana Adityakarta,Indonesia,,SWAT,Pemantauan Khusus,3019200000,08 Jun 2018
+TNCA.JK,Trimuda Nuansa Citra Tbk.,TNCA;TNCA.JK;Trimuda Nuansa Citra Tbk.;Trimuda Nuansa Citra,Indonesia,,TNCA,Pengembangan,421640000,28 Jun 2018
+MAPA.JK,Map Aktif Adiperkasa Tbk.,MAPA;MAPA.JK;Map Aktif Adiperkasa Tbk.;Map Aktif Adiperkasa,Indonesia,,MAPA,Utama,28504000000,05 Jul 2018
+TCPI.JK,Transcoal Pacific Tbk.,TCPI;TCPI.JK;Transcoal Pacific Tbk.;Transcoal Pacific,Indonesia,,TCPI,Pengembangan,5000000000,06 Jul 2018
+IPCC.JK,Indonesia Kendaraan Terminal T,IPCC;IPCC.JK;Indonesia Kendaraan Terminal T,Indonesia,,IPCC,Utama,1818384820,09 Jul 2018
+RISE.JK,Jaya Sukses Makmur Sentosa Tbk,RISE;RISE.JK;Jaya Sukses Makmur Sentosa Tbk;Jaya Sukses Makmur Sentosa,Indonesia,,RISE,Pengembangan,16198599990,09 Jul 2018
+BPTR.JK,Batavia Prosperindo Trans Tbk.,BPTR;BPTR.JK;Batavia Prosperindo Trans Tbk.;Batavia Prosperindo Trans,Indonesia,,BPTR,Pengembangan,3534000000,09 Jul 2018
+POLL.JK,Pollux Properties Indonesia Tb,POLL;POLL.JK;Pollux Properties Indonesia Tb,Indonesia,,POLL,Pemantauan Khusus,8318823600,11 Jul 2018
+NFCX.JK,NFC Indonesia Tbk.,NFCX;NFCX.JK;NFC Indonesia Tbk.;NFC Indonesia,Indonesia,,NFCX,Pengembangan,666667500,12 Jul 2018
+MGRO.JK,Mahkota Group Tbk.,MGRO;MGRO.JK;Mahkota Group Tbk.;Mahkota Group,Indonesia,,MGRO,Pengembangan,3554445700,12 Jul 2018
+NUSA.JK,Sinergi Megah Internusa Tbk.,NUSA;NUSA.JK;Sinergi Megah Internusa Tbk.;Sinergi Megah Internusa,Indonesia,,NUSA,Pemantauan Khusus,7700000148,12 Jul 2018
+FILM.JK,MD Entertainment Tbk.,FILM;FILM.JK;MD Entertainment Tbk.;MD Entertainment,Indonesia,,FILM,Utama,10887566758,07 Agt 2018
+ANDI.JK,Andira Agro Tbk.,ANDI;ANDI.JK;Andira Agro Tbk.;Andira Agro,Indonesia,,ANDI,Pemantauan Khusus,9350000000,16 Agt 2018
+LAND.JK,Trimitra Propertindo Tbk.,LAND;LAND.JK;Trimitra Propertindo Tbk.;Trimitra Propertindo,Indonesia,,LAND,Pengembangan,2792620000,23 Agt 2018
+MOLI.JK,Madusari Murni Indah Tbk.,MOLI;MOLI.JK;Madusari Murni Indah Tbk.;Madusari Murni Indah,Indonesia,,MOLI,Pengembangan,2724036581,30 Agt 2018
+PANI.JK,Pantai Indah Kapuk Dua Tbk.,PANI;PANI.JK;Pantai Indah Kapuk Dua Tbk.;Pantai Indah Kapuk Dua,Indonesia,,PANI,Utama,18117025598,18 Sep 2018
+DIGI.JK,Arkadia Digital Media Tbk.,DIGI;DIGI.JK;Arkadia Digital Media Tbk.;Arkadia Digital Media,Indonesia,,DIGI,Pemantauan Khusus,1625000000,18 Sep 2018
+CITY.JK,Natura City Developments Tbk.,CITY;CITY.JK;Natura City Developments Tbk.;Natura City Developments,Indonesia,,CITY,Pengembangan,5405188966,28 Sep 2018
+SAPX.JK,Satria Antaran Prima Tbk.,SAPX;SAPX.JK;Satria Antaran Prima Tbk.;Satria Antaran Prima,Indonesia,,SAPX,Pengembangan,833333300,03 Okt 2018
+SURE.JK,Super Energy Tbk.,SURE;SURE.JK;Super Energy Tbk.;Super Energy,Indonesia,,SURE,Pengembangan,1497576771,05 Okt 2018
+HKMU.JK,HK Metals Utama Tbk.,HKMU;HKMU.JK;HK Metals Utama Tbk.;HK Metals Utama,Indonesia,,HKMU,Pemantauan Khusus,3221750000,09 Okt 2018
+MPRO.JK,Maha Properti Indonesia Tbk.,MPRO;MPRO.JK;Maha Properti Indonesia Tbk.;Maha Properti Indonesia,Indonesia,,MPRO,Pengembangan,9942500000,09 Okt 2018
+DUCK.JK,Jaya Bersama Indo Tbk.,DUCK;DUCK.JK;Jaya Bersama Indo Tbk.;Jaya Bersama Indo,Indonesia,,DUCK,Pemantauan Khusus,1283330000,10 Okt 2018
+GOOD.JK,Garudafood Putra Putri Jaya Tb,GOOD;GOOD.JK;Garudafood Putra Putri Jaya Tb,Indonesia,,GOOD,Utama,36897901455,10 Okt 2018
+SKRN.JK,Superkrane Mitra Utama Tbk.,SKRN;SKRN.JK;Superkrane Mitra Utama Tbk.;Superkrane Mitra Utama,Indonesia,,SKRN,Utama,7500000000,11 Okt 2018
+YELO.JK,Yelooo Integra Datanet Tbk.,YELO;YELO.JK;Yelooo Integra Datanet Tbk.;Yelooo Integra Datanet,Indonesia,,YELO,Pengembangan,1912774405,29 Okt 2018
+CAKK.JK,Cahayaputra Asa Keramik Tbk.,CAKK;CAKK.JK;Cahayaputra Asa Keramik Tbk.;Cahayaputra Asa Keramik,Indonesia,,CAKK,Pengembangan,1203300219,31 Okt 2018
+SATU.JK,Kota Satu Properti Tbk.,SATU;SATU.JK;Kota Satu Properti Tbk.;Kota Satu Properti,Indonesia,,SATU,Pengembangan,1375000000,05 Nov 2018
+SOSS.JK,Shield On Service Tbk.,SOSS;SOSS.JK;Shield On Service Tbk.;Shield On Service,Indonesia,,SOSS,Pemantauan Khusus,974525743,06 Nov 2018
+DEAL.JK,Dewata Freightinternational Tb,DEAL;DEAL.JK;Dewata Freightinternational Tb,Indonesia,,DEAL,Pemantauan Khusus,1146170959,11 Nov 2018
+POLA.JK,Pool Advista Finance Tbk.,POLA;POLA.JK;Pool Advista Finance Tbk.;Pool Advista Finance,Indonesia,,POLA,Pengembangan,3351075600,16 Nov 2018
+DIVA.JK,Distribusi Voucher Nusantara T,DIVA;DIVA.JK;Distribusi Voucher Nusantara T,Indonesia,,DIVA,Pengembangan,1428571400,27 Nov 2018
+LUCK.JK,Sentral Mitra Informatika Tbk.,LUCK;LUCK.JK;Sentral Mitra Informatika Tbk.;Sentral Mitra Informatika,Indonesia,,LUCK,Pengembangan,715749640,28 Nov 2018
+URBN.JK,Urban Jakarta Propertindo Tbk.,URBN;URBN.JK;Urban Jakarta Propertindo Tbk.;Urban Jakarta Propertindo,Indonesia,,URBN,Pemantauan Khusus,3232122640,10 Des 2018
+SOTS.JK,Satria Mega Kencana Tbk.,SOTS;SOTS.JK;Satria Mega Kencana Tbk.;Satria Mega Kencana,Indonesia,,SOTS,Pengembangan,1000003979,10 Des 2018
+ZONE.JK,Mega Perintis Tbk.,ZONE;ZONE.JK;Mega Perintis Tbk.;Mega Perintis,Indonesia,,ZONE,Pengembangan,870171478,12 Des 2018
+PEHA.JK,Phapros Tbk.,PEHA;PEHA.JK;Phapros Tbk.;Phapros,Indonesia,,PEHA,Pengembangan,840000000,26 Des 2018
+FOOD.JK,Sentra Food Indonesia Tbk.,FOOD;FOOD.JK;Sentra Food Indonesia Tbk.;Sentra Food Indonesia,Indonesia,,FOOD,Pemantauan Khusus,650000000,08 Jan 2019
+BEEF.JK,Estika Tata Tiara Tbk.,BEEF;BEEF.JK;Estika Tata Tiara Tbk.;Estika Tata Tiara,Indonesia,,BEEF,Pengembangan,8120249598,10 Jan 2019
+POLI.JK,Pollux Hotels Group Tbk.,POLI;POLI.JK;Pollux Hotels Group Tbk.;Pollux Hotels Group,Indonesia,,POLI,Pengembangan,2010526400,10 Jan 2019
+CLAY.JK,Citra Putra Realty Tbk.,CLAY;CLAY.JK;Citra Putra Realty Tbk.;Citra Putra Realty,Indonesia,,CLAY,Pengembangan,2570000000,18 Jan 2019
+NATO.JK,Olympus Strategic Indonesia Tb,NATO;NATO.JK;Olympus Strategic Indonesia Tb,Indonesia,,NATO,Pengembangan,8001111504,18 Jan 2019
+JAYA.JK,Armada Berjaya Trans Tbk.,JAYA;JAYA.JK;Armada Berjaya Trans Tbk.;Armada Berjaya Trans,Indonesia,,JAYA,Pengembangan,798499394,21 Feb 2019
+COCO.JK,Wahana Interfood Nusantara Tbk,COCO;COCO.JK;Wahana Interfood Nusantara Tbk;Wahana Interfood Nusantara,Indonesia,,COCO,Pengembangan,3559455924,20 Mar 2019
+MTPS.JK,Meta Epsi Tbk.,MTPS;MTPS.JK;Meta Epsi Tbk.;Meta Epsi,Indonesia,,MTPS,Pemantauan Khusus,2084850829,10 Apr 2019
+CPRI.JK,Capri Nusa Satu Properti Tbk.,CPRI;CPRI.JK;Capri Nusa Satu Properti Tbk.;Capri Nusa Satu Properti,Indonesia,,CPRI,Pemantauan Khusus,2433379958,11 Apr 2019
+HRME.JK,Menteng Heritage Realty Tbk.,HRME;HRME.JK;Menteng Heritage Realty Tbk.;Menteng Heritage Realty,Indonesia,,HRME,Pemantauan Khusus,5958750000,12 Apr 2019
+POSA.JK,Bliss Properti Indonesia Tbk.,POSA;POSA.JK;Bliss Properti Indonesia Tbk.;Bliss Properti Indonesia,Indonesia,,POSA,Pemantauan Khusus,8388870206,10 Mei 2019
+JAST.JK,Jasnita Telekomindo Tbk.,JAST;JAST.JK;Jasnita Telekomindo Tbk.;Jasnita Telekomindo,Indonesia,,JAST,Pengembangan,1082575738,16 Mei 2019
+FITT.JK,Hotel Fitra International Tbk.,FITT;FITT.JK;Hotel Fitra International Tbk.;Hotel Fitra International,Indonesia,,FITT,Pengembangan,1304272051,11 Jun 2019
+BOLA.JK,Bali Bintang Sejahtera Tbk.,BOLA;BOLA.JK;Bali Bintang Sejahtera Tbk.;Bali Bintang Sejahtera,Indonesia,,BOLA,Utama,6000000000,17 Jun 2019
+CCSI.JK,Communication Cable Systems In,CCSI;CCSI.JK;Communication Cable Systems In,Indonesia,,CCSI,Pengembangan,1333333331,18 Jun 2019
+SFAN.JK,Surya Fajar Capital Tbk.,SFAN;SFAN.JK;Surya Fajar Capital Tbk.;Surya Fajar Capital,Indonesia,,SFAN,Pengembangan,1359934021,19 Jun 2019
+POLU.JK,Golden Flower Tbk.,POLU;POLU.JK;Golden Flower Tbk.;Golden Flower,Indonesia,,POLU,Pengembangan,750000000,26 Jun 2019
+KJEN.JK,Krida Jaringan Nusantara Tbk.,KJEN;KJEN.JK;Krida Jaringan Nusantara Tbk.;Krida Jaringan Nusantara,Indonesia,,KJEN,Pengembangan,500000000,01 Jul 2019
+KAYU.JK,Darmi Bersaudara Tbk.,KAYU;KAYU.JK;Darmi Bersaudara Tbk.;Darmi Bersaudara,Indonesia,,KAYU,Pemantauan Khusus,665000000,04 Jul 2019
+ITIC.JK,Indonesian Tobacco Tbk.,ITIC;ITIC.JK;Indonesian Tobacco Tbk.;Indonesian Tobacco,Indonesia,,ITIC,Pengembangan,940720000,04 Jul 2019
+PAMG.JK,Bima Sakti Pertiwi Tbk.,PAMG;PAMG.JK;Bima Sakti Pertiwi Tbk.;Bima Sakti Pertiwi,Indonesia,,PAMG,Pengembangan,3125000000,05 Jul 2019
+IPTV.JK,MNC Vision Networks Tbk.,IPTV;IPTV.JK;MNC Vision Networks Tbk.;MNC Vision Networks,Indonesia,,IPTV,Pemantauan Khusus,42197950841,08 Jul 2019
+BLUE.JK,Berkah Prima Perkasa Tbk.,BLUE;BLUE.JK;Berkah Prima Perkasa Tbk.;Berkah Prima Perkasa,Indonesia,,BLUE,Pengembangan,418000000,08 Jul 2019
+ENVY.JK,Envy Technologies Indonesia Tb,ENVY;ENVY.JK;Envy Technologies Indonesia Tb,Indonesia,,ENVY,Pemantauan Khusus,1800000000,08 Jul 2019
+EAST.JK,Eastparc Hotel Tbk.,EAST;EAST.JK;Eastparc Hotel Tbk.;Eastparc Hotel,Indonesia,,EAST,Pengembangan,4126405336,09 Jul 2019
+LIFE.JK,MSIG Life Insurance Indonesia,LIFE;LIFE.JK;MSIG Life Insurance Indonesia,Indonesia,,LIFE,Pengembangan,2100000000,09 Jul 2019
+FUJI.JK,Fuji Finance Indonesia Tbk.,FUJI;FUJI.JK;Fuji Finance Indonesia Tbk.;Fuji Finance Indonesia,Indonesia,,FUJI,Pengembangan,1300000000,09 Jul 2019
+KOTA.JK,DMS Propertindo Tbk.,KOTA;KOTA.JK;DMS Propertindo Tbk.;DMS Propertindo,Indonesia,,KOTA,Utama,10546185701,09 Jul 2019
+INOV.JK,Inocycle Technology Group Tbk.,INOV;INOV.JK;Inocycle Technology Group Tbk.;Inocycle Technology Group,Indonesia,,INOV,Pengembangan,1808221900,10 Jul 2019
+ARKA.JK,Arkha Jayanti Persada Tbk.,ARKA;ARKA.JK;Arkha Jayanti Persada Tbk.;Arkha Jayanti Persada,Indonesia,,ARKA,Pemantauan Khusus,2000000000,10 Jul 2019
+SMKL.JK,Satyamitra Kemas Lestari Tbk.,SMKL;SMKL.JK;Satyamitra Kemas Lestari Tbk.;Satyamitra Kemas Lestari,Indonesia,,SMKL,Pengembangan,3418085290,11 Jul 2019
+HDIT.JK,Hensel Davest Indonesia Tbk.,HDIT;HDIT.JK;Hensel Davest Indonesia Tbk.;Hensel Davest Indonesia,Indonesia,,HDIT,Pengembangan,1524680000,12 Jul 2019
+KEEN.JK,Kencana Energi Lestari Tbk.,KEEN;KEEN.JK;Kencana Energi Lestari Tbk.;Kencana Energi Lestari,Indonesia,,KEEN,Utama,3666312500,02 Sep 2019
+BAPI.JK,Bhakti Agung Propertindo Tbk.,BAPI;BAPI.JK;Bhakti Agung Propertindo Tbk.;Bhakti Agung Propertindo,Indonesia,,BAPI,Pemantauan Khusus,5591980103,16 Sep 2019
+TFAS.JK,Telefast Indonesia Tbk.,TFAS;TFAS.JK;Telefast Indonesia Tbk.;Telefast Indonesia,Indonesia,,TFAS,Pengembangan,1666666500,17 Sep 2019
+GGRP.JK,Gunung Raja Paksi Tbk.,GGRP;GGRP.JK;Gunung Raja Paksi Tbk.;Gunung Raja Paksi,Indonesia,,GGRP,Pengembangan,12111376157,19 Sep 2019
+OPMS.JK,Optima Prima Metal Sinergi Tbk,OPMS;OPMS.JK;Optima Prima Metal Sinergi Tbk;Optima Prima Metal Sinergi,Indonesia,,OPMS,Pengembangan,1000000000,23 Sep 2019
+NZIA.JK,Nusantara Almazia Tbk.,NZIA;NZIA.JK;Nusantara Almazia Tbk.;Nusantara Almazia,Indonesia,,NZIA,Pengembangan,2197540705,25 Sep 2019
+SLIS.JK,Gaya Abadi Sempurna Tbk.,SLIS;SLIS.JK;Gaya Abadi Sempurna Tbk.;Gaya Abadi Sempurna,Indonesia,,SLIS,Pengembangan,2463342139,07 Okt 2019
+PURE.JK,Trinitan Metals and Minerals T,PURE;PURE.JK;Trinitan Metals and Minerals T,Indonesia,,PURE,Pemantauan Khusus,1375181505,09 Okt 2019
+IRRA.JK,Itama Ranoraya Tbk.,IRRA;IRRA.JK;Itama Ranoraya Tbk.;Itama Ranoraya,Indonesia,,IRRA,Pengembangan,1600000000,15 Okt 2019
+DMMX.JK,Digital Mediatama Maxima Tbk.,DMMX;DMMX.JK;Digital Mediatama Maxima Tbk.;Digital Mediatama Maxima,Indonesia,,DMMX,Pengembangan,7692307700,21 Okt 2019
+SINI.JK,Singaraja Putra Tbk.,SINI;SINI.JK;Singaraja Putra Tbk.;Singaraja Putra,Indonesia,,SINI,Pemantauan Khusus,481000000,08 Nov 2019
+WOWS.JK,Ginting Jaya Energi Tbk.,WOWS;WOWS.JK;Ginting Jaya Energi Tbk.;Ginting Jaya Energi,Indonesia,,WOWS,Pengembangan,2475720000,08 Nov 2019
+ESIP.JK,Sinergi Inti Plastindo Tbk.,ESIP;ESIP.JK;Sinergi Inti Plastindo Tbk.;Sinergi Inti Plastindo,Indonesia,,ESIP,Pengembangan,1109953847,14 Nov 2019
+TEBE.JK,Dana Brata Luhur Tbk.,TEBE;TEBE.JK;Dana Brata Luhur Tbk.;Dana Brata Luhur,Indonesia,,TEBE,Utama,1285000000,18 Nov 2019
+KEJU.JK,Mulia Boga Raya Tbk.,KEJU;KEJU.JK;Mulia Boga Raya Tbk.;Mulia Boga Raya,Indonesia,,KEJU,Utama,5624999999,25 Nov 2019
+PSGO.JK,Palma Serasih Tbk.,PSGO;PSGO.JK;Palma Serasih Tbk.;Palma Serasih,Indonesia,,PSGO,Utama,18850000000,25 Nov 2019
+AGAR.JK,Asia Sejahtera Mina Tbk.,AGAR;AGAR.JK;Asia Sejahtera Mina Tbk.;Asia Sejahtera Mina,Indonesia,,AGAR,Pengembangan,1000000000,02 Des 2019
+IFSH.JK,Ifishdeco Tbk.,IFSH;IFSH.JK;Ifishdeco Tbk.;Ifishdeco,Indonesia,,IFSH,Pemantauan Khusus,2125000000,05 Des 2019
+REAL.JK,Repower Asia Indonesia Tbk.,REAL;REAL.JK;Repower Asia Indonesia Tbk.;Repower Asia Indonesia,Indonesia,,REAL,Pengembangan,6633610151,06 Des 2019
+IFII.JK,Indonesia Fibreboard Industry,IFII;IFII.JK;Indonesia Fibreboard Industry,Indonesia,,IFII,Pengembangan,9412000000,10 Des 2019
+PMJS.JK,Putra Mandiri Jembar Tbk.,PMJS;PMJS.JK;Putra Mandiri Jembar Tbk.;Putra Mandiri Jembar,Indonesia,,PMJS,Pengembangan,13755600000,18 Des 2019
+UCID.JK,Uni-Charm Indonesia Tbk.,UCID;UCID.JK;Uni-Charm Indonesia Tbk.;Uni-Charm Indonesia,Indonesia,,UCID,Utama,4156572300,20 Des 2019
+GLVA.JK,Galva Technologies Tbk.,GLVA;GLVA.JK;Galva Technologies Tbk.;Galva Technologies,Indonesia,,GLVA,Utama,1500000000,23 Des 2019
+PGJO.JK,Bahtera Bumi Raya Tbk.,PGJO;PGJO.JK;Bahtera Bumi Raya Tbk.;Bahtera Bumi Raya,Indonesia,,PGJO,Pemantauan Khusus,795859095,08 Jan 2020
+AMAR.JK,Bank Amar Indonesia Tbk.,AMAR;AMAR.JK;Bank Amar Indonesia Tbk.;Bank Amar Indonesia,Indonesia,,AMAR,Utama,18197283760,09 Jan 2020
+CSRA.JK,Cisadane Sawit Raya Tbk.,CSRA;CSRA.JK;Cisadane Sawit Raya Tbk.;Cisadane Sawit Raya,Indonesia,,CSRA,Pengembangan,2050000000,09 Jan 2020
+INDO.JK,Royalindo Investa Wijaya Tbk.,INDO;INDO.JK;Royalindo Investa Wijaya Tbk.;Royalindo Investa Wijaya,Indonesia,,INDO,Pengembangan,4480741638,13 Jan 2020
+AMOR.JK,Ashmore Asset Management Indon,AMOR;AMOR.JK;Ashmore Asset Management Indon,Indonesia,,AMOR,Pengembangan,2222222400,14 Jan 2020
+TRIN.JK,Perintis Triniti Properti Tbk.,TRIN;TRIN.JK;Perintis Triniti Properti Tbk.;Perintis Triniti Properti,Indonesia,,TRIN,Pengembangan,4551457789,15 Jan 2020
+DMND.JK,Diamond Food Indonesia Tbk.,DMND;DMND.JK;Diamond Food Indonesia Tbk.;Diamond Food Indonesia,Indonesia,,DMND,Utama,9468359000,22 Jan 2020
+PURA.JK,Putra Rajawali Kencana Tbk.,PURA;PURA.JK;Putra Rajawali Kencana Tbk.;Putra Rajawali Kencana,Indonesia,,PURA,Pemantauan Khusus,6301930902,29 Jan 2020
+PTPW.JK,Pratama Widya Tbk.,PTPW;PTPW.JK;Pratama Widya Tbk.;Pratama Widya,Indonesia,,PTPW,Pengembangan,878187500,07 Feb 2020
+TAMA.JK,Lancartama Sejati Tbk.,TAMA;TAMA.JK;Lancartama Sejati Tbk.;Lancartama Sejati,Indonesia,,TAMA,Pengembangan,1200000696,10 Feb 2020
+IKAN.JK,Era Mandiri Cemerlang Tbk.,IKAN;IKAN.JK;Era Mandiri Cemerlang Tbk.;Era Mandiri Cemerlang,Indonesia,,IKAN,Pengembangan,833333000,12 Feb 2020
+SAMF.JK,Saraswanti Anugerah Makmur Tbk,SAMF;SAMF.JK;Saraswanti Anugerah Makmur Tbk;Saraswanti Anugerah Makmur,Indonesia,,SAMF,Utama,10250000000,31 Mar 2020
+SBAT.JK,Sejahtera Bintang Abadi Textil,SBAT;SBAT.JK;Sejahtera Bintang Abadi Textil,Indonesia,,SBAT,Pemantauan Khusus,4752982378,08 Apr 2020
+KBAG.JK,Karya Bersama Anugerah Tbk.,KBAG;KBAG.JK;Karya Bersama Anugerah Tbk.;Karya Bersama Anugerah,Indonesia,,KBAG,Pemantauan Khusus,7150002603,08 Apr 2020
+CBMF.JK,Cahaya Bintang Medan Tbk.,CBMF;CBMF.JK;Cahaya Bintang Medan Tbk.;Cahaya Bintang Medan,Indonesia,,CBMF,Pemantauan Khusus,1875000000,09 Apr 2020
+RONY.JK,Aracord Nusantara Group Tbk.,RONY;RONY.JK;Aracord Nusantara Group Tbk.;Aracord Nusantara Group,Indonesia,,RONY,Pengembangan,1250000000,09 Apr 2020
+CSMI.JK,Cipta Selera Murni Tbk.,CSMI;CSMI.JK;Cipta Selera Murni Tbk.;Cipta Selera Murni,Indonesia,,CSMI,Pengembangan,816061500,09 Apr 2020
+BBSS.JK,Bumi Benowo Sukses Sejahtera T,BBSS;BBSS.JK;Bumi Benowo Sukses Sejahtera T,Indonesia,,BBSS,Pengembangan,4800016020,15 Apr 2020
+BHAT.JK,Bhakti Multi Artha Tbk.,BHAT;BHAT.JK;Bhakti Multi Artha Tbk.;Bhakti Multi Artha,Indonesia,,BHAT,Pengembangan,5000000000,15 Apr 2020
+CASH.JK,Cashlez Worldwide Indonesia Tb,CASH;CASH.JK;Cashlez Worldwide Indonesia Tb,Indonesia,,CASH,Akselerasi,1431125517,04 Mei 2020
+TECH.JK,Indosterling Technomedia Tbk.,TECH;TECH.JK;Indosterling Technomedia Tbk.;Indosterling Technomedia,Indonesia,,TECH,Pemantauan Khusus,1256300000,04 Jun 2020
+EPAC.JK,Megalestari Epack Sentosaraya,EPAC;EPAC.JK;Megalestari Epack Sentosaraya,Indonesia,,EPAC,Pengembangan,3303400000,01 Jul 2020
+UANG.JK,Pakuan Tbk.,UANG;UANG.JK;Pakuan Tbk.;Pakuan,Indonesia,,UANG,Pengembangan,1210000000,06 Jul 2020
+PGUN.JK,Pradiksi Gunatama Tbk.,PGUN;PGUN.JK;Pradiksi Gunatama Tbk.;Pradiksi Gunatama,Indonesia,,PGUN,Pengembangan,5737848882,07 Jul 2020
+SOFA.JK,Solusi Environment Asia Tbk.,SOFA;SOFA.JK;Solusi Environment Asia Tbk.;Solusi Environment Asia,Indonesia,,SOFA,Akselerasi,1653574499,07 Jul 2020
+PPGL.JK,Prima Globalindo Logistik Tbk.,PPGL;PPGL.JK;Prima Globalindo Logistik Tbk.;Prima Globalindo Logistik,Indonesia,,PPGL,Akselerasi,771178020,20 Jul 2020
+TOYS.JK,Sunindo Adipersada Tbk.,TOYS;TOYS.JK;Sunindo Adipersada Tbk.;Sunindo Adipersada,Indonesia,,TOYS,Pemantauan Khusus,1435000712,06 Agt 2020
+SGER.JK,Sumber Global Energy Tbk.,SGER;SGER.JK;Sumber Global Energy Tbk.;Sumber Global Energy,Indonesia,,SGER,Utama,15586909438,10 Agt 2020
+TRJA.JK,Transkon Jaya Tbk.,TRJA;TRJA.JK;Transkon Jaya Tbk.;Transkon Jaya,Indonesia,,TRJA,Pengembangan,1510200000,27 Agt 2020
+PNGO.JK,Pinago Utama Tbk.,PNGO;PNGO.JK;Pinago Utama Tbk.;Pinago Utama,Indonesia,,PNGO,Utama,781250000,31 Agt 2020
+SCNP.JK,Selaras Citra Nusantara Perkas,SCNP;SCNP.JK;Selaras Citra Nusantara Perkas,Indonesia,,SCNP,Pengembangan,2500000000,07 Sep 2020
+BBSI.JK,Krom Bank Indonesia Tbk.,BBSI;BBSI.JK;Krom Bank Indonesia Tbk.;Krom Bank Indonesia,Indonesia,,BBSI,Utama,3637976068,07 Sep 2020
+KMDS.JK,Kurniamitra Duta Sentosa Tbk.,KMDS;KMDS.JK;Kurniamitra Duta Sentosa Tbk.;Kurniamitra Duta Sentosa,Indonesia,,KMDS,Pengembangan,800000000,07 Sep 2020
+PURI.JK,Puri Global Sukses Tbk.,PURI;PURI.JK;Puri Global Sukses Tbk.;Puri Global Sukses,Indonesia,,PURI,Pengembangan,1000000000,08 Sep 2020
+SOHO.JK,Soho Global Health Tbk.,SOHO;SOHO.JK;Soho Global Health Tbk.;Soho Global Health,Indonesia,,SOHO,Pengembangan,12691682390,08 Sep 2020
+HOMI.JK,Grand House Mulia Tbk.,HOMI;HOMI.JK;Grand House Mulia Tbk.;Grand House Mulia,Indonesia,,HOMI,Pengembangan,1575000000,10 Sep 2020
+ROCK.JK,Rockfields Properti Indonesia,ROCK;ROCK.JK;Rockfields Properti Indonesia,Indonesia,,ROCK,Pengembangan,1435185100,10 Sep 2020
+ENZO.JK,Morenzo Abadi Perkasa Tbk.,ENZO;ENZO.JK;Morenzo Abadi Perkasa Tbk.;Morenzo Abadi Perkasa,Indonesia,,ENZO,Pengembangan,2162547122,14 Sep 2020
+PLAN.JK,Planet Properindo Jaya Tbk.,PLAN;PLAN.JK;Planet Properindo Jaya Tbk.;Planet Properindo Jaya,Indonesia,,PLAN,Akselerasi,896709596,15 Sep 2020
+PTDU.JK,Djasa Ubersakti Tbk.,PTDU;PTDU.JK;Djasa Ubersakti Tbk.;Djasa Ubersakti,Indonesia,,PTDU,Pemantauan Khusus,1500000000,08 Des 2020
+ATAP.JK,Trimitra Prawara Goldland Tbk.,ATAP;ATAP.JK;Trimitra Prawara Goldland Tbk.;Trimitra Prawara Goldland,Indonesia,,ATAP,Pengembangan,1250000000,11 Des 2020
+VICI.JK,Victoria Care Indonesia Tbk.,VICI;VICI.JK;Victoria Care Indonesia Tbk.;Victoria Care Indonesia,Indonesia,,VICI,Utama,6708000000,17 Des 2020
+PMMP.JK,Panca Mitra Multiperdana Tbk.,PMMP;PMMP.JK;Panca Mitra Multiperdana Tbk.;Panca Mitra Multiperdana,Indonesia,,PMMP,Pemantauan Khusus,2588300000,18 Des 2020
+BANK.JK,Bank Aladin Syariah Tbk.,BANK;BANK.JK;Bank Aladin Syariah Tbk.;Bank Aladin Syariah,Indonesia,,BANK,Pengembangan,14793174908,01 Feb 2021
+WMUU.JK,Widodo Makmur Unggas Tbk.,WMUU;WMUU.JK;Widodo Makmur Unggas Tbk.;Widodo Makmur Unggas,Indonesia,,WMUU,Pengembangan,12941176500,02 Feb 2021
+EDGE.JK,Indointernet Tbk.,EDGE;EDGE.JK;Indointernet Tbk.;Indointernet,Indonesia,,EDGE,Pengembangan,2020250000,08 Feb 2021
+UNIQ.JK,Ulima Nitra Tbk.,UNIQ;UNIQ.JK;Ulima Nitra Tbk.;Ulima Nitra,Indonesia,,UNIQ,Pengembangan,3138983000,08 Mar 2021
+BEBS.JK,Berkah Beton Sadaya Tbk.,BEBS;BEBS.JK;Berkah Beton Sadaya Tbk.;Berkah Beton Sadaya,Indonesia,,BEBS,Pemantauan Khusus,45000000000,10 Mar 2021
+SNLK.JK,Sunter Lakeside Hotel Tbk.,SNLK;SNLK.JK;Sunter Lakeside Hotel Tbk.;Sunter Lakeside Hotel,Indonesia,,SNLK,Pengembangan,450000000,29 Mar 2021
+ZYRX.JK,Zyrexindo Mandiri Buana Tbk.,ZYRX;ZYRX.JK;Zyrexindo Mandiri Buana Tbk.;Zyrexindo Mandiri Buana,Indonesia,,ZYRX,Pengembangan,1333334556,30 Mar 2021
+LFLO.JK,Imago Mulia Persada Tbk.,LFLO;LFLO.JK;Imago Mulia Persada Tbk.;Imago Mulia Persada,Indonesia,,LFLO,Akselerasi,1307734937,07 Apr 2021
+FIMP.JK,Fimperkasa Utama Tbk.,FIMP;FIMP.JK;Fimperkasa Utama Tbk.;Fimperkasa Utama,Indonesia,,FIMP,Pemantauan Khusus,400000975,09 Apr 2021
+TAPG.JK,Triputra Agro Persada Tbk.,TAPG;TAPG.JK;Triputra Agro Persada Tbk.;Triputra Agro Persada,Indonesia,,TAPG,Utama,19852540000,12 Apr 2021
+NPGF.JK,Nusa Palapa Gemilang Tbk.,NPGF;NPGF.JK;Nusa Palapa Gemilang Tbk.;Nusa Palapa Gemilang,Indonesia,,NPGF,Pengembangan,3240235840,14 Apr 2021
+LUCY.JK,Lima Dua Lima Tiga Tbk.,LUCY;LUCY.JK;Lima Dua Lima Tiga Tbk.;Lima Dua Lima Tiga,Indonesia,,LUCY,Akselerasi,1514773893,05 Mei 2021
+ADCP.JK,Adhi Commuter Properti Tbk.,ADCP;ADCP.JK;Adhi Commuter Properti Tbk.;Adhi Commuter Properti,Indonesia,,ADCP,Pengembangan,22222222200,21 Mei 2021
+HOPE.JK,Harapan Duta Pertiwi Tbk.,HOPE;HOPE.JK;Harapan Duta Pertiwi Tbk.;Harapan Duta Pertiwi,Indonesia,,HOPE,Pengembangan,2130360203,24 Mei 2021
+MGLV.JK,Panca Anugrah Wisesa Tbk.,MGLV;MGLV.JK;Panca Anugrah Wisesa Tbk.;Panca Anugrah Wisesa,Indonesia,,MGLV,Akselerasi,1904883411,08 Jun 2021
+TRUE.JK,Triniti Dinamik Tbk.,TRUE;TRUE.JK;Triniti Dinamik Tbk.;Triniti Dinamik,Indonesia,,TRUE,Pengembangan,7571107860,10 Jun 2021
+LABA.JK,Green Power Group Tbk.,LABA;LABA.JK;Green Power Group Tbk.;Green Power Group,Indonesia,,LABA,Pengembangan,1103402553,10 Jun 2021
+ARCI.JK,Archi Indonesia Tbk.,ARCI;ARCI.JK;Archi Indonesia Tbk.;Archi Indonesia,Indonesia,,ARCI,Pengembangan,25235000000,28 Jun 2021
+IPAC.JK,Era Graharealty Tbk.,IPAC;IPAC.JK;Era Graharealty Tbk.;Era Graharealty,Indonesia,,IPAC,Akselerasi,949868500,30 Jun 2021
+MASB.JK,Bank Multiarta Sentosa Tbk.,MASB;MASB.JK;Bank Multiarta Sentosa Tbk.;Bank Multiarta Sentosa,Indonesia,,MASB,Utama,1387737233,30 Jun 2021
+BMHS.JK,Bundamedik Tbk.,BMHS;BMHS.JK;Bundamedik Tbk.;Bundamedik,Indonesia,,BMHS,Utama,8603416176,06 Jul 2021
+FLMC.JK,Falmaco Nonwoven Industri Tbk.,FLMC;FLMC.JK;Falmaco Nonwoven Industri Tbk.;Falmaco Nonwoven Industri,Indonesia,,FLMC,Akselerasi,781250000,08 Jul 2021
+NICL.JK,PAM Mineral Tbk.,NICL;NICL.JK;PAM Mineral Tbk.;PAM Mineral,Indonesia,,NICL,Pengembangan,10635644907,09 Jul 2021
+UVCR.JK,Trimegah Karya Pratama Tbk.,UVCR;UVCR.JK;Trimegah Karya Pratama Tbk.;Trimegah Karya Pratama,Indonesia,,UVCR,Pengembangan,2000144838,27 Jul 2021
+BUKA.JK,Bukalapak.com Tbk.,BUKA;BUKA.JK;Bukalapak.com Tbk.;Bukalapak.com,Indonesia,,BUKA,Ekonomi Baru,103167090767,06 Agt 2021
+HAIS.JK,Hasnur Internasional Shipping,HAIS;HAIS.JK;Hasnur Internasional Shipping,Indonesia,,HAIS,Pengembangan,2626250000,01 Sep 2021
+OILS.JK,Indo Oil Perkasa Tbk.,OILS;OILS.JK;Indo Oil Perkasa Tbk.;Indo Oil Perkasa,Indonesia,,OILS,Pengembangan,454056563,06 Sep 2021
+GPSO.JK,Geoprima Solusi Tbk.,GPSO;GPSO.JK;Geoprima Solusi Tbk.;Geoprima Solusi,Indonesia,,GPSO,Pengembangan,666741103,06 Sep 2021
+MCOL.JK,Prima Andalan Mandiri Tbk.,MCOL;MCOL.JK;Prima Andalan Mandiri Tbk.;Prima Andalan Mandiri,Indonesia,,MCOL,Utama,3555560000,07 Sep 2021
+RSGK.JK,Kedoya Adyaraya Tbk.,RSGK;RSGK.JK;Kedoya Adyaraya Tbk.;Kedoya Adyaraya,Indonesia,,RSGK,Pengembangan,929675000,08 Sep 2021
+RUNS.JK,Global Sukses Solusi Tbk.,RUNS;RUNS.JK;Global Sukses Solusi Tbk.;Global Sukses Solusi,Indonesia,,RUNS,Akselerasi,983557875,08 Sep 2021
+SBMA.JK,Surya Biru Murni Acetylene Tbk,SBMA;SBMA.JK;Surya Biru Murni Acetylene Tbk;Surya Biru Murni Acetylene,Indonesia,,SBMA,Pengembangan,929926282,08 Sep 2021
+CMNT.JK,Cemindo Gemilang Tbk.,CMNT;CMNT.JK;Cemindo Gemilang Tbk.;Cemindo Gemilang,Indonesia,,CMNT,Pengembangan,17125504000,08 Sep 2021
+GTSI.JK,GTS Internasional Tbk.,GTSI;GTSI.JK;GTS Internasional Tbk.;GTS Internasional,Indonesia,,GTSI,Pengembangan,15819142767,08 Sep 2021
+IDEA.JK,Idea Indonesia Akademi Tbk.,IDEA;IDEA.JK;Idea Indonesia Akademi Tbk.;Idea Indonesia Akademi,Indonesia,,IDEA,Akselerasi,1062437500,09 Sep 2021
+KUAS.JK,Ace Oldfields Tbk.,KUAS;KUAS.JK;Ace Oldfields Tbk.;Ace Oldfields,Indonesia,,KUAS,Pengembangan,1292808150,25 Okt 2021
+BOBA.JK,Formosa Ingredient Factory Tbk,BOBA;BOBA.JK;Formosa Ingredient Factory Tbk;Formosa Ingredient Factory,Indonesia,,BOBA,Pengembangan,1155750000,01 Nov 2021
+MTEL.JK,Dayamitra Telekomunikasi Tbk.,MTEL;MTEL.JK;Dayamitra Telekomunikasi Tbk.;Dayamitra Telekomunikasi,Indonesia,,MTEL,Utama,83559677444,22 Nov 2021
+DEPO.JK,Caturkarda Depo Bangunan Tbk.,DEPO;DEPO.JK;Caturkarda Depo Bangunan Tbk.;Caturkarda Depo Bangunan,Indonesia,,DEPO,Pengembangan,6790000000,25 Nov 2021
+BINO.JK,Perma Plasindo Tbk.,BINO;BINO.JK;Perma Plasindo Tbk.;Perma Plasindo,Indonesia,,BINO,Pengembangan,2275316111,25 Nov 2021
+CMRY.JK,Cisarua Mountain Dairy Tbk.,CMRY;CMRY.JK;Cisarua Mountain Dairy Tbk.;Cisarua Mountain Dairy,Indonesia,,CMRY,Utama,7934683000,06 Des 2021
+WGSH.JK,Wira Global Solusi Tbk.,WGSH;WGSH.JK;Wira Global Solusi Tbk.;Wira Global Solusi,Indonesia,,WGSH,Akselerasi,2085000000,06 Des 2021
+TAYS.JK,Jaya Swarasa Agung Tbk.,TAYS;TAYS.JK;Jaya Swarasa Agung Tbk.;Jaya Swarasa Agung,Indonesia,,TAYS,Pengembangan,1098920000,06 Des 2021
+WMPP.JK,Widodo Makmur Perkasa Tbk.,WMPP;WMPP.JK;Widodo Makmur Perkasa Tbk.;Widodo Makmur Perkasa,Indonesia,,WMPP,Pemantauan Khusus,29419000000,06 Des 2021
+RMKE.JK,RMK Energy Tbk.,RMKE;RMKE.JK;RMK Energy Tbk.;RMK Energy,Indonesia,,RMKE,Utama,4375000000,07 Des 2021
+OBMD.JK,OBM Drilchem Tbk.,OBMD;OBMD.JK;OBM Drilchem Tbk.;OBM Drilchem,Indonesia,,OBMD,Pengembangan,805992931,08 Des 2021
+AVIA.JK,Avia Avian Tbk.,AVIA;AVIA.JK;Avia Avian Tbk.;Avia Avian,Indonesia,,AVIA,Utama,61953555600,08 Des 2021
+IPPE.JK,Indo Pureco Pratama Tbk.,IPPE;IPPE.JK;Indo Pureco Pratama Tbk.;Indo Pureco Pratama,Indonesia,,IPPE,Pemantauan Khusus,4600000000,09 Des 2021
+NASI.JK,Wahana Inti Makmur Tbk.,NASI;NASI.JK;Wahana Inti Makmur Tbk.;Wahana Inti Makmur,Indonesia,,NASI,Pengembangan,807400000,13 Des 2021
+BSML.JK,Bintang Samudera Mandiri Lines,BSML;BSML.JK;Bintang Samudera Mandiri Lines,Indonesia,,BSML,Pengembangan,1850225000,16 Des 2021
+DRMA.JK,Dharma Polimetal Tbk.,DRMA;DRMA.JK;Dharma Polimetal Tbk.;Dharma Polimetal,Indonesia,,DRMA,Utama,4705882300,20 Des 2021
+ADMR.JK,Alamtri Minerals Indonesia Tbk,ADMR;ADMR.JK;Alamtri Minerals Indonesia Tbk;Alamtri Minerals Indonesia,Indonesia,,ADMR,Utama,40882331500,03 Jan 2022
+SEMA.JK,Semacom Integrated Tbk.,SEMA;SEMA.JK;Semacom Integrated Tbk.;Semacom Integrated,Indonesia,,SEMA,Pengembangan,1347258842,10 Jan 2022
+ASLC.JK,Autopedia Sukses Lestari Tbk.,ASLC;ASLC.JK;Autopedia Sukses Lestari Tbk.;Autopedia Sukses Lestari,Indonesia,,ASLC,Pengembangan,12746354780,25 Jan 2022
+NETV.JK,MDTV Media Technologies Tbk.,NETV;NETV.JK;MDTV Media Technologies Tbk.;MDTV Media Technologies,Indonesia,,NETV,Pengembangan,41360517722,26 Jan 2022
+BAUT.JK,Mitra Angkasa Sejahtera Tbk.,BAUT;BAUT.JK;Mitra Angkasa Sejahtera Tbk.;Mitra Angkasa Sejahtera,Indonesia,,BAUT,Pemantauan Khusus,4800182969,28 Jan 2022
+ENAK.JK,Champ Resto Indonesia Tbk.,ENAK;ENAK.JK;Champ Resto Indonesia Tbk.;Champ Resto Indonesia,Indonesia,,ENAK,Pengembangan,2166666800,08 Feb 2022
+NTBK.JK,Nusatama Berkah Tbk.,NTBK;NTBK.JK;Nusatama Berkah Tbk.;Nusatama Berkah,Indonesia,,NTBK,Pengembangan,2700064877,09 Feb 2022
+SMKM.JK,Sumber Mas Konstruksi Tbk.,SMKM;SMKM.JK;Sumber Mas Konstruksi Tbk.;Sumber Mas Konstruksi,Indonesia,,SMKM,Akselerasi,1253000000,09 Mar 2022
+STAA.JK,Sumber Tani Agung Resources Tb,STAA;STAA.JK;Sumber Tani Agung Resources Tb,Indonesia,,STAA,Utama,10903372600,10 Mar 2022
+NANO.JK,Nanotech Indonesia Global Tbk.,NANO;NANO.JK;Nanotech Indonesia Global Tbk.;Nanotech Indonesia Global,Indonesia,,NANO,Akselerasi,4285440269,10 Mar 2022
+BIKE.JK,Sepeda Bersama Indonesia Tbk.,BIKE;BIKE.JK;Sepeda Bersama Indonesia Tbk.;Sepeda Bersama Indonesia,Indonesia,,BIKE,Pengembangan,1293916404,21 Mar 2022
+WIRG.JK,WIR ASIA Tbk.,WIRG;WIRG.JK;WIR ASIA Tbk.;WIR ASIA,Indonesia,,WIRG,Pengembangan,11938622394,04 Apr 2022
+SICO.JK,Sigma Energy Compressindo Tbk.,SICO;SICO.JK;Sigma Energy Compressindo Tbk.;Sigma Energy Compressindo,Indonesia,,SICO,Pengembangan,910077764,08 Apr 2022
+GOTO.JK,GoTo Gojek Tokopedia Tbk.,GOTO;GOTO.JK;GoTo Gojek Tokopedia Tbk.;GoTo Gojek Tokopedia,Indonesia,,GOTO,Pengembangan,1140573267220,11 Apr 2022
+TLDN.JK,Teladan Prima Agro Tbk.,TLDN;TLDN.JK;Teladan Prima Agro Tbk.;Teladan Prima Agro,Indonesia,,TLDN,Utama,12946530200,12 Apr 2022
+MTMH.JK,Murni Sadar Tbk.,MTMH;MTMH.JK;Murni Sadar Tbk.;Murni Sadar,Indonesia,,MTMH,Utama,2068526950,20 Apr 2022
+WINR.JK,Winner Nusantara Jaya Tbk.,WINR;WINR.JK;Winner Nusantara Jaya Tbk.;Winner Nusantara Jaya,Indonesia,,WINR,Pemantauan Khusus,5235316030,25 Apr 2022
+IBOS.JK,Indo Boga Sukses Tbk.,IBOS;IBOS.JK;Indo Boga Sukses Tbk.;Indo Boga Sukses,Indonesia,,IBOS,Akselerasi,8065789529,25 Apr 2022
+OLIV.JK,Oscar Mitra Sukses Sejahtera T,OLIV;OLIV.JK;Oscar Mitra Sukses Sejahtera T,Indonesia,,OLIV,Akselerasi,1900073314,17 Mei 2022
+ASHA.JK,Cilacap Samudera Fishing Indus,ASHA;ASHA.JK;Cilacap Samudera Fishing Indus,Indonesia,,ASHA,Pengembangan,5000000000,27 Mei 2022
+SWID.JK,Saraswanti Indoland Developmen,SWID;SWID.JK;Saraswanti Indoland Developmen,Indonesia,,SWID,Pengembangan,5385019201,07 Jul 2022
+TRGU.JK,Cerestar Indonesia Tbk.,TRGU;TRGU.JK;Cerestar Indonesia Tbk.;Cerestar Indonesia,Indonesia,,TRGU,Utama,7945412700,08 Jul 2022
+ARKO.JK,Arkora Hydro Tbk.,ARKO;ARKO.JK;Arkora Hydro Tbk.;Arkora Hydro,Indonesia,,ARKO,Pengembangan,2928495000,08 Jul 2022
+CHEM.JK,Chemstar Indonesia Tbk.,CHEM;CHEM.JK;Chemstar Indonesia Tbk.;Chemstar Indonesia,Indonesia,,CHEM,Pengembangan,1700014594,08 Jul 2022
+DEWI.JK,Dewi Shri Farmindo Tbk.,DEWI;DEWI.JK;Dewi Shri Farmindo Tbk.;Dewi Shri Farmindo,Indonesia,,DEWI,Pengembangan,2000000000,18 Jul 2022
+AXIO.JK,Tera Data Indonusa Tbk.,AXIO;AXIO.JK;Tera Data Indonusa Tbk.;Tera Data Indonusa,Indonesia,,AXIO,Pengembangan,5840126500,20 Jul 2022
+KRYA.JK,Bangun Karya Perkasa Jaya Tbk.,KRYA;KRYA.JK;Bangun Karya Perkasa Jaya Tbk.;Bangun Karya Perkasa Jaya,Indonesia,,KRYA,Pengembangan,1663943474,25 Jul 2022
+HATM.JK,Habco Trans Maritima Tbk.,HATM;HATM.JK;Habco Trans Maritima Tbk.;Habco Trans Maritima,Indonesia,,HATM,Utama,8680000000,26 Jul 2022
+RCCC.JK,Utama Radar Cahaya Tbk.,RCCC;RCCC.JK;Utama Radar Cahaya Tbk.;Utama Radar Cahaya,Indonesia,,RCCC,Akselerasi,787500000,02 Agt 2022
+GULA.JK,Aman Agrindo Tbk.,GULA;GULA.JK;Aman Agrindo Tbk.;Aman Agrindo,Indonesia,,GULA,Pengembangan,1070362500,03 Agt 2022
+JARR.JK,Jhonlin Agro Raya Tbk.,JARR;JARR.JK;Jhonlin Agro Raya Tbk.;Jhonlin Agro Raya,Indonesia,,JARR,Utama,9230665050,04 Agt 2022
+AMMS.JK,Agung Menjangan Mas Tbk.,AMMS;AMMS.JK;Agung Menjangan Mas Tbk.;Agung Menjangan Mas,Indonesia,,AMMS,Akselerasi,1235296802,04 Agt 2022
+RAFI.JK,Sari Kreasi Boga Tbk.,RAFI;RAFI.JK;Sari Kreasi Boga Tbk.;Sari Kreasi Boga,Indonesia,,RAFI,Pemantauan Khusus,3128140475,05 Agt 2022
+KKES.JK,Kusuma Kemindo Sentosa Tbk.,KKES;KKES.JK;Kusuma Kemindo Sentosa Tbk.;Kusuma Kemindo Sentosa,Indonesia,,KKES,Pemantauan Khusus,1500000000,08 Agt 2022
+ELPI.JK,Pelayaran Nasional Ekalya Purn,ELPI;ELPI.JK;Pelayaran Nasional Ekalya Purn,Indonesia,,ELPI,Utama,7412000000,08 Agt 2022
+EURO.JK,Estee Gold Feet Tbk.,EURO;EURO.JK;Estee Gold Feet Tbk.;Estee Gold Feet,Indonesia,,EURO,Akselerasi,2548826428,08 Agt 2022
+KLIN.JK,Klinko Karya Imaji Tbk.,KLIN;KLIN.JK;Klinko Karya Imaji Tbk.;Klinko Karya Imaji,Indonesia,,KLIN,Akselerasi,1307530330,09 Agt 2022
+TOOL.JK,Rohartindo Nusantara Luas Tbk.,TOOL;TOOL.JK;Rohartindo Nusantara Luas Tbk.;Rohartindo Nusantara Luas,Indonesia,,TOOL,Pengembangan,2050020320,09 Agt 2022
+BUAH.JK,Segar Kumala Indonesia Tbk.,BUAH;BUAH.JK;Segar Kumala Indonesia Tbk.;Segar Kumala Indonesia,Indonesia,,BUAH,Pengembangan,2000000000,09 Agt 2022
+CRAB.JK,Toba Surimi Industries Tbk.,CRAB;CRAB.JK;Toba Surimi Industries Tbk.;Toba Surimi Industries,Indonesia,,CRAB,Pengembangan,1950000000,10 Agt 2022
+MEDS.JK,Hetzer Medical Indonesia Tbk.,MEDS;MEDS.JK;Hetzer Medical Indonesia Tbk.;Hetzer Medical Indonesia,Indonesia,,MEDS,Pengembangan,1562500000,10 Agt 2022
+COAL.JK,Black Diamond Resources Tbk.,COAL;COAL.JK;Black Diamond Resources Tbk.;Black Diamond Resources,Indonesia,,COAL,Pemantauan Khusus,6250000000,07 Sep 2022
+PRAY.JK,Famon Awal Bros Sedaya Tbk.,PRAY;PRAY.JK;Famon Awal Bros Sedaya Tbk.;Famon Awal Bros Sedaya,Indonesia,,PRAY,Utama,13959422300,08 Nov 2022
+CBUT.JK,Citra Borneo Utama Tbk.,CBUT;CBUT.JK;Citra Borneo Utama Tbk.;Citra Borneo Utama,Indonesia,,CBUT,Utama,3125000000,08 Nov 2022
+BELI.JK,Global Digital Niaga Tbk.,BELI;BELI.JK;Global Digital Niaga Tbk.;Global Digital Niaga,Indonesia,,BELI,Pengembangan,137218985689,08 Nov 2022
+MKTR.JK,Menthobi Karyatama Raya Tbk.,MKTR;MKTR.JK;Menthobi Karyatama Raya Tbk.;Menthobi Karyatama Raya,Indonesia,,MKTR,Utama,12060428584,08 Nov 2022
+OMED.JK,Jayamas Medica Industri Tbk.,OMED;OMED.JK;Jayamas Medica Industri Tbk.;Jayamas Medica Industri,Indonesia,,OMED,Utama,27058850000,08 Nov 2022
+BSBK.JK,Wulandari Bangun Laksana Tbk.,BSBK;BSBK.JK;Wulandari Bangun Laksana Tbk.;Wulandari Bangun Laksana,Indonesia,,BSBK,Pengembangan,25091882375,08 Nov 2022
+PDPP.JK,Primadaya Plastisindo Tbk.,PDPP;PDPP.JK;Primadaya Plastisindo Tbk.;Primadaya Plastisindo,Indonesia,,PDPP,Pengembangan,3061341438,09 Nov 2022
+KDTN.JK,Puri Sentul Permai Tbk.,KDTN;KDTN.JK;Puri Sentul Permai Tbk.;Puri Sentul Permai,Indonesia,,KDTN,Pengembangan,1250023298,09 Nov 2022
+ZATA.JK,Bersama Zatta Jaya Tbk.,ZATA;ZATA.JK;Bersama Zatta Jaya Tbk.;Bersama Zatta Jaya,Indonesia,,ZATA,Pengembangan,8496000000,10 Nov 2022
+NINE.JK,Techno9 Indonesia Tbk.,NINE;NINE.JK;Techno9 Indonesia Tbk.;Techno9 Indonesia,Indonesia,,NINE,Akselerasi,2157000000,05 Des 2022
+MMIX.JK,Multi Medika Internasional Tbk,MMIX;MMIX.JK;Multi Medika Internasional Tbk;Multi Medika Internasional,Indonesia,,MMIX,Pengembangan,4800425380,06 Des 2022
+PADA.JK,Personel Alih Daya Tbk.,PADA;PADA.JK;Personel Alih Daya Tbk.;Personel Alih Daya,Indonesia,,PADA,Pengembangan,3150000000,08 Des 2022
+ISAP.JK,Isra Presisi Indonesia Tbk.,ISAP;ISAP.JK;Isra Presisi Indonesia Tbk.;Isra Presisi Indonesia,Indonesia,,ISAP,Akselerasi,4020352605,09 Des 2022
+VTNY.JK,Venteny Fortuna International,VTNY;VTNY.JK;Venteny Fortuna International,Indonesia,,VTNY,Pengembangan,6265193445,15 Des 2022
+SOUL.JK,Mitra Tirta Buwana Tbk.,SOUL;SOUL.JK;Mitra Tirta Buwana Tbk.;Mitra Tirta Buwana,Indonesia,,SOUL,Akselerasi,1082526223,06 Jan 2023
+ELIT.JK,Data Sinergitama Jaya Tbk.,ELIT;ELIT.JK;Data Sinergitama Jaya Tbk.;Data Sinergitama Jaya,Indonesia,,ELIT,Pengembangan,2031643057,06 Jan 2023
+BEER.JK,Jobubu Jarum Minahasa Tbk.,BEER;BEER.JK;Jobubu Jarum Minahasa Tbk.;Jobubu Jarum Minahasa,Indonesia,,BEER,Pengembangan,4000000000,06 Jan 2023
+CBPE.JK,Citra Buana Prasida Tbk.,CBPE;CBPE.JK;Citra Buana Prasida Tbk.;Citra Buana Prasida,Indonesia,,CBPE,Pengembangan,1356250000,06 Jan 2023
+SUNI.JK,Sunindo Pratama Tbk.,SUNI;SUNI.JK;Sunindo Pratama Tbk.;Sunindo Pratama,Indonesia,,SUNI,Utama,2500000000,09 Jan 2023
+CBRE.JK,Cakra Buana Resources Energi T,CBRE;CBRE.JK;Cakra Buana Resources Energi T,Indonesia,,CBRE,Pengembangan,4538067441,09 Jan 2023
+WINE.JK,Hatten Bali Tbk.,WINE;WINE.JK;Hatten Bali Tbk.;Hatten Bali,Indonesia,,WINE,Pengembangan,2710000000,10 Jan 2023
+BMBL.JK,Lavender Bina Cendikia Tbk.,BMBL;BMBL.JK;Lavender Bina Cendikia Tbk.;Lavender Bina Cendikia,Indonesia,,BMBL,Akselerasi,1030080995,11 Jan 2023
+PEVE.JK,Penta Valent Tbk.,PEVE;PEVE.JK;Penta Valent Tbk.;Penta Valent,Indonesia,,PEVE,Pengembangan,1765625000,24 Jan 2023
+LAJU.JK,Jasa Berdikari Logistics Tbk.,LAJU;LAJU.JK;Jasa Berdikari Logistics Tbk.;Jasa Berdikari Logistics,Indonesia,,LAJU,Pengembangan,2149942974,27 Jan 2023
+FWCT.JK,Wijaya Cahaya Timber Tbk.,FWCT;FWCT.JK;Wijaya Cahaya Timber Tbk.;Wijaya Cahaya Timber,Indonesia,,FWCT,Pengembangan,1963000000,01 Feb 2023
+NAYZ.JK,Hassana Boga Sejahtera Tbk.,NAYZ;NAYZ.JK;Hassana Boga Sejahtera Tbk.;Hassana Boga Sejahtera,Indonesia,,NAYZ,Akselerasi,2550011472,06 Feb 2023
+IRSX.JK,Folago Global Nusantara Tbk.,IRSX;IRSX.JK;Folago Global Nusantara Tbk.;Folago Global Nusantara,Indonesia,,IRSX,Pengembangan,6195047377,07 Feb 2023
+PACK.JK,Abadi Nusantara Hijau Investam,PACK;PACK.JK;Abadi Nusantara Hijau Investam,Indonesia,,PACK,Akselerasi,32376276879,08 Feb 2023
+VAST.JK,Vastland Indonesia Tbk.,VAST;VAST.JK;Vastland Indonesia Tbk.;Vastland Indonesia,Indonesia,,VAST,Pengembangan,3055737049,08 Feb 2023
+CHIP.JK,Pelita Teknologi Global Tbk.,CHIP;CHIP.JK;Pelita Teknologi Global Tbk.;Pelita Teknologi Global,Indonesia,,CHIP,Akselerasi,806000000,08 Feb 2023
+HALO.JK,Haloni Jane Tbk.,HALO;HALO.JK;Haloni Jane Tbk.;Haloni Jane,Indonesia,,HALO,Pengembangan,6078729117,08 Feb 2023
+KING.JK,Hoffmen Cleanindo Tbk.,KING;KING.JK;Hoffmen Cleanindo Tbk.;Hoffmen Cleanindo,Indonesia,,KING,Akselerasi,2602852170,16 Feb 2023
+PGEO.JK,Pertamina Geothermal Energy Tb,PGEO;PGEO.JK;Pertamina Geothermal Energy Tb,Indonesia,,PGEO,Utama,41899535623,24 Feb 2023
+FUTR.JK,Futura Energi Global Tbk.,FUTR;FUTR.JK;Futura Energi Global Tbk.;Futura Energi Global,Indonesia,,FUTR,Pengembangan,6635551959,27 Feb 2023
+HILL.JK,Hillcon Tbk.,HILL;HILL.JK;Hillcon Tbk.;Hillcon,Indonesia,,HILL,Pemantauan Khusus,14741500000,01 Mar 2023
+BDKR.JK,Berdikari Pondasi Perkasa Tbk.,BDKR;BDKR.JK;Berdikari Pondasi Perkasa Tbk.;Berdikari Pondasi Perkasa,Indonesia,,BDKR,Utama,4725101522,03 Mar 2023
+PTMP.JK,Mitra Pack Tbk.,PTMP;PTMP.JK;Mitra Pack Tbk.;Mitra Pack,Indonesia,,PTMP,Pengembangan,3169200000,06 Mar 2023
+SAGE.JK,Saptausaha Gemilangindah Tbk.,SAGE;SAGE.JK;Saptausaha Gemilangindah Tbk.;Saptausaha Gemilangindah,Indonesia,,SAGE,Pemantauan Khusus,8033527260,08 Mar 2023
+TRON.JK,Teknologi Karya Digital Nusa T,TRON;TRON.JK;Teknologi Karya Digital Nusa T,Indonesia,,TRON,Pengembangan,2951328448,08 Mar 2023
+CUAN.JK,Petrindo Jaya Kreasi Tbk.,CUAN;CUAN.JK;Petrindo Jaya Kreasi Tbk.;Petrindo Jaya Kreasi,Indonesia,,CUAN,Utama,112418900000,08 Mar 2023
+NSSS.JK,Nusantara Sawit Sejahtera Tbk.,NSSS;NSSS.JK;Nusantara Sawit Sejahtera Tbk.;Nusantara Sawit Sejahtera,Indonesia,,NSSS,Pengembangan,23801568645,10 Mar 2023
+GTRA.JK,Grahaprima Suksesmandiri Tbk.,GTRA;GTRA.JK;Grahaprima Suksesmandiri Tbk.;Grahaprima Suksesmandiri,Indonesia,,GTRA,Pengembangan,1894375000,30 Mar 2023
+HAJJ.JK,Arsy Buana Travelindo Tbk.,HAJJ;HAJJ.JK;Arsy Buana Travelindo Tbk.;Arsy Buana Travelindo,Indonesia,,HAJJ,Akselerasi,2468527572,05 Apr 2023
+JATI.JK,Informasi Teknologi Indonesia,JATI;JATI.JK;Informasi Teknologi Indonesia,Indonesia,,JATI,Pengembangan,3262520106,08 Mei 2023
+TYRE.JK,King Tire Indonesia Tbk.,TYRE;TYRE.JK;King Tire Indonesia Tbk.;King Tire Indonesia,Indonesia,,TYRE,Pengembangan,3480581727,08 Mei 2023
+MPXL.JK,MPX Logistics International Tb,MPXL;MPXL.JK;MPX Logistics International Tb,Indonesia,,MPXL,Pengembangan,2000014587,09 Mei 2023
+SMIL.JK,Sarana Mitra Luas Tbk.,SMIL;SMIL.JK;Sarana Mitra Luas Tbk.;Sarana Mitra Luas,Indonesia,,SMIL,Utama,8751668239,12 Mei 2023
+KLAS.JK,Pelayaran Kurnia Lautan Semest,KLAS;KLAS.JK;Pelayaran Kurnia Lautan Semest,Indonesia,,KLAS,Pengembangan,3644415975,12 Jun 2023
+MAXI.JK,Maxindo Karya Anugerah Tbk.,MAXI;MAXI.JK;Maxindo Karya Anugerah Tbk.;Maxindo Karya Anugerah,Indonesia,,MAXI,Pengembangan,9610099981,12 Jun 2023
+VKTR.JK,VKTR Teknologi Mobilitas Tbk.,VKTR;VKTR.JK;VKTR Teknologi Mobilitas Tbk.;VKTR Teknologi Mobilitas,Indonesia,,VKTR,Pengembangan,43750000000,19 Jun 2023
+RELF.JK,Graha Mitra Asia Tbk.,RELF;RELF.JK;Graha Mitra Asia Tbk.;Graha Mitra Asia,Indonesia,,RELF,Akselerasi,5727832195,22 Jun 2023
+AMMN.JK,Amman Mineral Internasional Tb,AMMN;AMMN.JK;Amman Mineral Internasional Tb,Indonesia,,AMMN,Utama,72518217656,07 Jul 2023
+CRSN.JK,Carsurin Tbk.,CRSN;CRSN.JK;Carsurin Tbk.;Carsurin,Indonesia,,CRSN,Pengembangan,2892000000,10 Jul 2023
+GRPM.JK,Graha Prima Mentari Tbk.,GRPM;GRPM.JK;Graha Prima Mentari Tbk.;Graha Prima Mentari,Indonesia,,GRPM,Akselerasi,1549073131,10 Jul 2023
+WIDI.JK,Widiant Jaya Krenindo Tbk.,WIDI;WIDI.JK;Widiant Jaya Krenindo Tbk.;Widiant Jaya Krenindo,Indonesia,,WIDI,Akselerasi,1600031683,10 Jul 2023
+TGUK.JK,Platinum Wahab Nusantara Tbk.,TGUK;TGUK.JK;Platinum Wahab Nusantara Tbk.;Platinum Wahab Nusantara,Indonesia,,TGUK,Pemantauan Khusus,3571451815,10 Jul 2023
+INET.JK,Sinergi Inti Andalan Prima Tbk,INET;INET.JK;Sinergi Inti Andalan Prima Tbk;Sinergi Inti Andalan Prima,Indonesia,,INET,Pengembangan,22374111088,24 Jul 2023
+MAHA.JK,Mandiri Herindo Adiperkasa Tbk,MAHA;MAHA.JK;Mandiri Herindo Adiperkasa Tbk;Mandiri Herindo Adiperkasa,Indonesia,,MAHA,Utama,16666000000,25 Jul 2023
+RMKO.JK,Royaltama Mulia Kontraktorindo,RMKO;RMKO.JK;Royaltama Mulia Kontraktorindo,Indonesia,,RMKO,Pengembangan,1250000000,31 Jul 2023
+CNMA.JK,Nusantara Sejahtera Raya Tbk.,CNMA;CNMA.JK;Nusantara Sejahtera Raya Tbk.;Nusantara Sejahtera Raya,Indonesia,,CNMA,Pengembangan,83345000000,02 Agt 2023
+FOLK.JK,Multi Garam Utama Tbk.,FOLK;FOLK.JK;Multi Garam Utama Tbk.;Multi Garam Utama,Indonesia,,FOLK,Pengembangan,4091357544,07 Agt 2023
+HBAT.JK,Minahasa Membangun Hebat Tbk.,HBAT;HBAT.JK;Minahasa Membangun Hebat Tbk.;Minahasa Membangun Hebat,Indonesia,,HBAT,Akselerasi,1040740800,07 Agt 2023
+GRIA.JK,Ingria Pratama Capitalindo Tbk,GRIA;GRIA.JK;Ingria Pratama Capitalindo Tbk;Ingria Pratama Capitalindo,Indonesia,,GRIA,Pengembangan,7375720674,08 Agt 2023
+PPRI.JK,Paperocks Indonesia Tbk.,PPRI;PPRI.JK;Paperocks Indonesia Tbk.;Paperocks Indonesia,Indonesia,,PPRI,Pengembangan,1075027288,08 Agt 2023
+ERAL.JK,Sinar Eka Selaras Tbk.,ERAL;ERAL.JK;Sinar Eka Selaras Tbk.;Sinar Eka Selaras,Indonesia,,ERAL,Utama,5187500000,08 Agt 2023
+CYBR.JK,ITSEC Asia Tbk.,CYBR;CYBR.JK;ITSEC Asia Tbk.;ITSEC Asia,Indonesia,,CYBR,Pengembangan,13467212996,08 Agt 2023
+MUTU.JK,Mutuagung Lestari Tbk.,MUTU;MUTU.JK;Mutuagung Lestari Tbk.;Mutuagung Lestari,Indonesia,,MUTU,Pengembangan,3142950585,09 Agt 2023
+LMAX.JK,Lupromax Pelumas Indonesia Tbk,LMAX;LMAX.JK;Lupromax Pelumas Indonesia Tbk;Lupromax Pelumas Indonesia,Indonesia,,LMAX,Akselerasi,650008775,09 Agt 2023
+HUMI.JK,Humpuss Maritim Internasional,HUMI;HUMI.JK;Humpuss Maritim Internasional,Indonesia,,HUMI,Pengembangan,18062665474,09 Agt 2023
+MSIE.JK,Multisarana Intan Eduka Tbk.,MSIE;MSIE.JK;Multisarana Intan Eduka Tbk.;Multisarana Intan Eduka,Indonesia,,MSIE,Pemantauan Khusus,1460007754,10 Agt 2023
+RSCH.JK,Charlie Hospital Semarang Tbk.,RSCH;RSCH.JK;Charlie Hospital Semarang Tbk.;Charlie Hospital Semarang,Indonesia,,RSCH,Pengembangan,2650000000,28 Agt 2023
+BABY.JK,Multitrend Indo Tbk.,BABY;BABY.JK;Multitrend Indo Tbk.;Multitrend Indo,Indonesia,,BABY,Pengembangan,2854826582,07 Sep 2023
+AEGS.JK,Anugerah Spareparts Sejahtera,AEGS;AEGS.JK;Anugerah Spareparts Sejahtera,Indonesia,,AEGS,Akselerasi,1006080721,11 Sep 2023
+IOTF.JK,Sumber Sinergi Makmur Tbk.,IOTF;IOTF.JK;Sumber Sinergi Makmur Tbk.;Sumber Sinergi Makmur,Indonesia,,IOTF,Pengembangan,5290298067,06 Okt 2023
+KOCI.JK,Kokoh Exa Nusantara Tbk.,KOCI;KOCI.JK;Kokoh Exa Nusantara Tbk.;Kokoh Exa Nusantara,Indonesia,,KOCI,Pengembangan,4467423219,07 Okt 2023
+PTPS.JK,Pulau Subur Tbk.,PTPS;PTPS.JK;Pulau Subur Tbk.;Pulau Subur,Indonesia,,PTPS,Pengembangan,2167514856,09 Okt 2023
+BREN.JK,Barito Renewables Energy Tbk.,BREN;BREN.JK;Barito Renewables Energy Tbk.;Barito Renewables Energy,Indonesia,,BREN,Utama,133786220000,09 Okt 2023
+STRK.JK,Lovina Beach Brewery Tbk.,STRK;STRK.JK;Lovina Beach Brewery Tbk.;Lovina Beach Brewery,Indonesia,,STRK,Pengembangan,10721835562,10 Okt 2023
+KOKA.JK,Koka Indonesia Tbk.,KOKA;KOKA.JK;Koka Indonesia Tbk.;Koka Indonesia,Indonesia,,KOKA,Pengembangan,2861333000,11 Okt 2023
+LOPI.JK,Logisticsplus International Tb,LOPI;LOPI.JK;Logisticsplus International Tb,Indonesia,,LOPI,Akselerasi,1100011289,11 Okt 2023
+UDNG.JK,Agro Bahari Nusantara Tbk.,UDNG;UDNG.JK;Agro Bahari Nusantara Tbk.;Agro Bahari Nusantara,Indonesia,,UDNG,Akselerasi,1750040072,31 Okt 2023
+RGAS.JK,Kian Santang Muliatama Tbk.,RGAS;RGAS.JK;Kian Santang Muliatama Tbk.;Kian Santang Muliatama,Indonesia,,RGAS,Pengembangan,1459234110,08 Nov 2023
+MSTI.JK,Mastersystem Infotama Tbk.,MSTI;MSTI.JK;Mastersystem Infotama Tbk.;Mastersystem Infotama,Indonesia,,MSTI,Utama,3139416200,08 Nov 2023
+IKPM.JK,Ikapharmindo Putramas Tbk.,IKPM;IKPM.JK;Ikapharmindo Putramas Tbk.;Ikapharmindo Putramas,Indonesia,,IKPM,Pengembangan,1684662500,08 Nov 2023
+AYAM.JK,Janu Putra Sejahtera Tbk.,AYAM;AYAM.JK;Janu Putra Sejahtera Tbk.;Janu Putra Sejahtera,Indonesia,,AYAM,Pengembangan,4000000000,30 Nov 2023
+SURI.JK,Maja Agung Latexindo Tbk.,SURI;SURI.JK;Maja Agung Latexindo Tbk.;Maja Agung Latexindo,Indonesia,,SURI,Pengembangan,6334375000,07 Des 2023
+ASLI.JK,Asri Karya Lestari Tbk.,ASLI;ASLI.JK;Asri Karya Lestari Tbk.;Asri Karya Lestari,Indonesia,,ASLI,Pengembangan,6250000000,05 Jan 2024
+GRPH.JK,Griptha Putra Persada Tbk.,GRPH;GRPH.JK;Griptha Putra Persada Tbk.;Griptha Putra Persada,Indonesia,,GRPH,Pengembangan,1000000000,17 Jan 2024
+SMGA.JK,Sumber Mineral Global Abadi Tb,SMGA;SMGA.JK;Sumber Mineral Global Abadi Tb,Indonesia,,SMGA,Pengembangan,8750000000,30 Jan 2024
+UNTD.JK,Terang Dunia Internusa Tbk.,UNTD;UNTD.JK;Terang Dunia Internusa Tbk.;Terang Dunia Internusa,Indonesia,,UNTD,Pengembangan,6666666700,07 Feb 2024
+TOSK.JK,Topindo Solusi Komunika Tbk.,TOSK;TOSK.JK;Topindo Solusi Komunika Tbk.;Topindo Solusi Komunika,Indonesia,,TOSK,Pengembangan,4375277300,07 Feb 2024
+MPIX.JK,Mitra Pedagang Indonesia Tbk.,MPIX;MPIX.JK;Mitra Pedagang Indonesia Tbk.;Mitra Pedagang Indonesia,Indonesia,,MPIX,Pengembangan,1562574308,07 Feb 2024
+ALII.JK,Ancara Logistics Indonesia Tbk,ALII;ALII.JK;Ancara Logistics Indonesia Tbk;Ancara Logistics Indonesia,Indonesia,,ALII,Utama,15825800000,07 Feb 2024
+MKAP.JK,Multikarya Asia Pasifik Raya T,MKAP;MKAP.JK;Multikarya Asia Pasifik Raya T,Indonesia,,MKAP,Pengembangan,3250000000,12 Feb 2024
+MEJA.JK,Harta Djaya Karya Tbk.,MEJA;MEJA.JK;Harta Djaya Karya Tbk.;Harta Djaya Karya,Indonesia,,MEJA,Akselerasi,2608081058,12 Feb 2024
+LIVE.JK,Homeco Victoria Makmur Tbk.,LIVE;LIVE.JK;Homeco Victoria Makmur Tbk.;Homeco Victoria Makmur,Indonesia,,LIVE,Pengembangan,4593005014,12 Feb 2024
+HYGN.JK,Ecocare Indo Pasifik Tbk.,HYGN;HYGN.JK;Ecocare Indo Pasifik Tbk.;Ecocare Indo Pasifik,Indonesia,,HYGN,Pengembangan,2525000000,13 Feb 2024
+BAIK.JK,Bersama Mencapai Puncak Tbk.,BAIK;BAIK.JK;Bersama Mencapai Puncak Tbk.;Bersama Mencapai Puncak,Indonesia,,BAIK,Pengembangan,1127497572,15 Feb 2024
+VISI.JK,Satu Visi Putra Tbk.,VISI;VISI.JK;Satu Visi Putra Tbk.;Satu Visi Putra,Indonesia,,VISI,Pengembangan,3075000000,27 Feb 2024
+AREA.JK,Dunia Virtual Online Tbk.,AREA;AREA.JK;Dunia Virtual Online Tbk.;Dunia Virtual Online,Indonesia,,AREA,Pengembangan,2539601000,01 Apr 2024
+MHKI.JK,Multi Hanna Kreasindo Tbk.,MHKI;MHKI.JK;Multi Hanna Kreasindo Tbk.;Multi Hanna Kreasindo,Indonesia,,MHKI,Pengembangan,3750000000,16 Apr 2024
+ATLA.JK,Atlantis Subsea Indonesia Tbk.,ATLA;ATLA.JK;Atlantis Subsea Indonesia Tbk.;Atlantis Subsea Indonesia,Indonesia,,ATLA,Pengembangan,6199577693,16 Apr 2024
+DATA.JK,Remala Abadi Tbk.,DATA;DATA.JK;Remala Abadi Tbk.;Remala Abadi,Indonesia,,DATA,Pengembangan,1375000000,07 Mei 2024
+SOLA.JK,Xolare RCR Energy Tbk.,SOLA;SOLA.JK;Xolare RCR Energy Tbk.;Xolare RCR Energy,Indonesia,,SOLA,Pengembangan,3287375000,08 Mei 2024
+BATR.JK,Benteng Api Technic Tbk.,BATR;BATR.JK;Benteng Api Technic Tbk.;Benteng Api Technic,Indonesia,,BATR,Pengembangan,3025037353,10 Jun 2024
+SPRE.JK,Soraya Berjaya Indonesia Tbk.,SPRE;SPRE.JK;Soraya Berjaya Indonesia Tbk.;Soraya Berjaya Indonesia,Indonesia,,SPRE,Akselerasi,800000000,03 Jul 2024
+PART.JK,Cipta Perdana Lancar Tbk.,PART;PART.JK;Cipta Perdana Lancar Tbk.;Cipta Perdana Lancar,Indonesia,,PART,Pengembangan,2815145086,05 Jul 2024
+GOLF.JK,Intra Golflink Resorts Tbk.,GOLF;GOLF.JK;Intra Golflink Resorts Tbk.;Intra Golflink Resorts,Indonesia,,GOLF,Utama,19486760000,08 Jul 2024
+ISEA.JK,Indo American Seafoods Tbk.,ISEA;ISEA.JK;Indo American Seafoods Tbk.;Indo American Seafoods,Indonesia,,ISEA,Pengembangan,1390013370,08 Jul 2024
+BLES.JK,Superior Prima Sukses Tbk.,BLES;BLES.JK;Superior Prima Sukses Tbk.;Superior Prima Sukses,Indonesia,,BLES,Pengembangan,8890206400,08 Jul 2024
+GUNA.JK,Gunanusa Eramandiri Tbk.,GUNA;GUNA.JK;Gunanusa Eramandiri Tbk.;Gunanusa Eramandiri,Indonesia,,GUNA,Pengembangan,2500000000,09 Jul 2024
+LABS.JK,UBC Medical Indonesia Tbk.,LABS;LABS.JK;UBC Medical Indonesia Tbk.;UBC Medical Indonesia,Indonesia,,LABS,Pengembangan,3950000000,10 Jul 2024
+DOSS.JK,Global Sukses Digital Tbk.,DOSS;DOSS.JK;Global Sukses Digital Tbk.;Global Sukses Digital,Indonesia,,DOSS,Pengembangan,1725000000,07 Agt 2024
+NEST.JK,Esta Indonesia Tbk.,NEST;NEST.JK;Esta Indonesia Tbk.;Esta Indonesia,Indonesia,,NEST,Pengembangan,4112500000,08 Agt 2024
+PTMR.JK,Master Print Tbk.,PTMR;PTMR.JK;Master Print Tbk.;Master Print,Indonesia,,PTMR,Pemantauan Khusus,1907000000,08 Okt 2024
+VERN.JK,Verona Indah Pictures Tbk.,VERN;VERN.JK;Verona Indah Pictures Tbk.;Verona Indah Pictures,Indonesia,,VERN,Pengembangan,4765648183,08 Okt 2024
+DAAZ.JK,Daaz Bara Lestari Tbk.,DAAZ;DAAZ.JK;Daaz Bara Lestari Tbk.;Daaz Bara Lestari,Indonesia,,DAAZ,Utama,1997000000,11 Nov 2024
+BOAT.JK,Newport Marine Services Tbk.,BOAT;BOAT.JK;Newport Marine Services Tbk.;Newport Marine Services,Indonesia,,BOAT,Pengembangan,3501680000,12 Nov 2024
+NAIK.JK,Adiwarna Anugerah Abadi Tbk.,NAIK;NAIK.JK;Adiwarna Anugerah Abadi Tbk.;Adiwarna Anugerah Abadi,Indonesia,,NAIK,Pengembangan,3329422047,13 Nov 2024
+AADI.JK,Adaro Andalan Indonesia Tbk.,AADI;AADI.JK;Adaro Andalan Indonesia Tbk.;Adaro Andalan Indonesia,Indonesia,,AADI,Utama,7786891760,05 Des 2024
+MDIY.JK,Daya Intiguna Yasa Tbk.,MDIY;MDIY.JK;Daya Intiguna Yasa Tbk.;Daya Intiguna Yasa,Indonesia,,MDIY,Utama,25190392000,19 Des 2024
+KSIX.JK,Kentanix Supra International T,KSIX;KSIX.JK;Kentanix Supra International T,Indonesia,,KSIX,Pengembangan,2137831800,08 Jan 2025
+RATU.JK,Raharja Energi Cepu Tbk.,RATU;RATU.JK;Raharja Energi Cepu Tbk.;Raharja Energi Cepu,Indonesia,,RATU,Pengembangan,2715053800,08 Jan 2025
+YOII.JK,Asuransi Digital Bersama Tbk.,YOII;YOII.JK;Asuransi Digital Bersama Tbk.;Asuransi Digital Bersama,Indonesia,,YOII,Pengembangan,3424687500,08 Jan 2025
+HGII.JK,Hero Global Investment Tbk.,HGII;HGII.JK;Hero Global Investment Tbk.;Hero Global Investment,Indonesia,,HGII,Pengembangan,6500000000,09 Jan 2025
+BRRC.JK,Raja Roti Cemerlang Tbk.,BRRC;BRRC.JK;Raja Roti Cemerlang Tbk.;Raja Roti Cemerlang,Indonesia,,BRRC,Pengembangan,994603036,09 Jan 2025
+DGWG.JK,Delta Giri Wacana Tbk.,DGWG;DGWG.JK;Delta Giri Wacana Tbk.;Delta Giri Wacana,Indonesia,,DGWG,Utama,5882353000,13 Jan 2025
+CBDK.JK,Bangun Kosambi Sukses Tbk.,CBDK;CBDK.JK;Bangun Kosambi Sukses Tbk.;Bangun Kosambi Sukses,Indonesia,,CBDK,Utama,5668944500,13 Jan 2025
+OBAT.JK,Brigit Biofarmaka Teknologi Tb,OBAT;OBAT.JK;Brigit Biofarmaka Teknologi Tb,Indonesia,,OBAT,Pengembangan,680376575,13 Jan 2025
+MINE.JK,Sinar Terang Mandiri Tbk.,MINE;MINE.JK;Sinar Terang Mandiri Tbk.;Sinar Terang Mandiri,Indonesia,,MINE,Pengembangan,4084435300,10 Mar 2025
+ASPR.JK,Asia Pramulia Tbk.,ASPR;ASPR.JK;Asia Pramulia Tbk.;Asia Pramulia,Indonesia,,ASPR,Pengembangan,2712000000,08 Jul 2025
+PSAT.JK,Pancaran Samudera Transport Tb,PSAT;PSAT.JK;Pancaran Samudera Transport Tb,Indonesia,,PSAT,Pengembangan,1482353000,08 Jul 2025
+COIN.JK,Indokripto Koin Semesta Tbk.,COIN;COIN.JK;Indokripto Koin Semesta Tbk.;Indokripto Koin Semesta,Indonesia,,COIN,Pengembangan,14705882400,09 Jul 2025
+CDIA.JK,Chandra Daya Investasi Tbk.,CDIA;CDIA.JK;Chandra Daya Investasi Tbk.;Chandra Daya Investasi,Indonesia,,CDIA,Pengembangan,124829374700,09 Jul 2025
+BLOG.JK,Trimitra Trans Persada Tbk.,BLOG;BLOG.JK;Trimitra Trans Persada Tbk.;Trimitra Trans Persada,Indonesia,,BLOG,Utama,3379487200,10 Jul 2025
+MERI.JK,Merry Riana Edukasi Tbk.,MERI;MERI.JK;Merry Riana Edukasi Tbk.;Merry Riana Edukasi,Indonesia,,MERI,Pengembangan,1035132500,10 Jul 2025
+KAQI.JK,Jantra Grupo Indonesia Tbk.,KAQI;KAQI.JK;Jantra Grupo Indonesia Tbk.;Jantra Grupo Indonesia,Indonesia,,KAQI,Pengembangan,2075800000,10 Mar 2025
+YUPI.JK,Yupi Indo Jelly Gum Tbk.,YUPI;YUPI.JK;Yupi Indo Jelly Gum Tbk.;Yupi Indo Jelly Gum,Indonesia,,YUPI,Utama,8544488700,25 Mar 2025
+FORE.JK,Fore Kopi Indonesia Tbk.,FORE;FORE.JK;Fore Kopi Indonesia Tbk.;Fore Kopi Indonesia,Indonesia,,FORE,Pengembangan,8918359270,14 Apr 2025
+MDLA.JK,Medela Potentia Tbk.,MDLA;MDLA.JK;Medela Potentia Tbk.;Medela Potentia,Indonesia,,MDLA,Utama,14012825000,15 Apr 2025
+DKHH.JK,Cipta Sarana Medika Tbk.,DKHH;DKHH.JK;Cipta Sarana Medika Tbk.;Cipta Sarana Medika,Indonesia,,DKHH,Pengembangan,2550312624,08 Mei 2025
+AYLS.JK,Arkayana Lestari Grup Tbk.,AYLS;AYLS.JK;Arkayana Lestari Grup Tbk.;Arkayana Lestari Grup,Indonesia,,AYLS,Pengembangan,853423236,12 Feb 2020
+DADA.JK,Diamond Citra Propertindo Tbk.,DADA;DADA.JK;Diamond Citra Propertindo Tbk.;Diamond Citra Propertindo,Indonesia,,DADA,Pengembangan,7431530800,14 Feb 2020
+ASPI.JK,Andalan Sakti Primaindo Tbk.,ASPI;ASPI.JK;Andalan Sakti Primaindo Tbk.;Andalan Sakti Primaindo,Indonesia,,ASPI,Pengembangan,681823317,17 Feb 2020
+ESTA.JK,Esta Multi Usaha Tbk.,ESTA;ESTA.JK;Esta Multi Usaha Tbk.;Esta Multi Usaha,Indonesia,,ESTA,Pengembangan,2425354179,09 Mar 2020
+BESS.JK,Batulicin Nusantara Maritim Tb,BESS;BESS.JK;Batulicin Nusantara Maritim Tb,Indonesia,,BESS,Pengembangan,3440455528,09 Mar 2020
+AMAN.JK,Makmur Berkah Amanda Tbk.,AMAN;AMAN.JK;Makmur Berkah Amanda Tbk.;Makmur Berkah Amanda,Indonesia,,AMAN,Pengembangan,3873500000,13 Mar 2020
+CARE.JK,Metro Healthcare Indonesia Tbk,CARE;CARE.JK;Metro Healthcare Indonesia Tbk;Metro Healthcare Indonesia,Indonesia,,CARE,Pengembangan,33250000000,13 Mar 2020
+PIPA.JK,Multi Makmur Lemindo Tbk.,PIPA;PIPA.JK;Multi Makmur Lemindo Tbk.;Multi Makmur Lemindo,Indonesia,,PIPA,Pengembangan,3426097190,10 Apr 2023
+NCKL.JK,Trimegah Bangun Persada Tbk.,NCKL;NCKL.JK;Trimegah Bangun Persada Tbk.;Trimegah Bangun Persada,Indonesia,,NCKL,Pengembangan,63098600000,12 Apr 2023
+MENN.JK,Menn Teknologi Indonesia Tbk.,MENN;MENN.JK;Menn Teknologi Indonesia Tbk.;Menn Teknologi Indonesia,Indonesia,,MENN,Pemantauan Khusus,1434052006,18 Apr 2023
+AWAN.JK,Era Digital Media Tbk.,AWAN;AWAN.JK;Era Digital Media Tbk.;Era Digital Media,Indonesia,,AWAN,Pengembangan,3435000000,18 Apr 2023
+MBMA.JK,Merdeka Battery Materials Tbk.,MBMA;MBMA.JK;Merdeka Battery Materials Tbk.;Merdeka Battery Materials,Indonesia,,MBMA,Utama,107995419900,18 Apr 2023
+RAAM.JK,Tripar Multivision Plus Tbk.,RAAM;RAAM.JK;Tripar Multivision Plus Tbk.;Tripar Multivision Plus,Indonesia,,RAAM,Utama,6813620000,08 Mei 2023
+DOOH.JK,Era Media Sejahtera Tbk.,DOOH;DOOH.JK;Era Media Sejahtera Tbk.;Era Media Sejahtera,Indonesia,,DOOH,Pengembangan,7738891036,08 Mei 2023
+CGAS.JK,Citra Nusantara Gemilang Tbk.,CGAS;CGAS.JK;Citra Nusantara Gemilang Tbk.;Citra Nusantara Gemilang,Indonesia,,CGAS,Pengembangan,1771499039,08 Jan 2024
+NICE.JK,Adhi Kartiko Pratama Tbk.,NICE;NICE.JK;Adhi Kartiko Pratama Tbk.;Adhi Kartiko Pratama,Indonesia,,NICE,Pengembangan,6082020000,09 Jan 2024
+MSJA.JK,Multi Spunindo Jaya Tbk.,MSJA;MSJA.JK;Multi Spunindo Jaya Tbk.;Multi Spunindo Jaya,Indonesia,,MSJA,Pengembangan,5882352900,10 Jan 2024
+SMLE.JK,Sinergi Multi Lestarindo Tbk.,SMLE;SMLE.JK;Sinergi Multi Lestarindo Tbk.;Sinergi Multi Lestarindo,Indonesia,,SMLE,Pengembangan,2328153048,10 Jan 2024
+ACRO.JK,Samcro Hyosung Adilestari Tbk.,ACRO;ACRO.JK;Samcro Hyosung Adilestari Tbk.;Samcro Hyosung Adilestari,Indonesia,,ACRO,Pengembangan,3469345537,11 Jan 2024
+MANG.JK,Manggung Polahraya Tbk.,MANG;MANG.JK;Manggung Polahraya Tbk.;Manggung Polahraya,Indonesia,,MANG,Akselerasi,3812603512,11 Jan 2024
+WIFI.JK,Solusi Sinergi Digital Tbk.,WIFI;WIFI.JK;Solusi Sinergi Digital Tbk.;Solusi Sinergi Digital,Indonesia,,WIFI,Pengembangan,5308549015,30 Des 2020
+FAPA.JK,FAP Agri Tbk.,FAPA;FAPA.JK;FAP Agri Tbk.;FAP Agri,Indonesia,,FAPA,Pengembangan,3629411800,04 Jan 2021
+DCII.JK,DCI Indonesia Tbk.,DCII;DCII.JK;DCI Indonesia Tbk.;DCI Indonesia,Indonesia,,DCII,Pengembangan,2383745900,06 Jan 2021
+KETR.JK,Ketrosden Triasmitra Tbk.,KETR;KETR.JK;Ketrosden Triasmitra Tbk.;Ketrosden Triasmitra,Indonesia,,KETR,Pengembangan,2841262838,11 Jan 2021
+DGNS.JK,Diagnos Laboratorium Utama Tbk,DGNS;DGNS.JK;Diagnos Laboratorium Utama Tbk;Diagnos Laboratorium Utama,Indonesia,,DGNS,Pengembangan,1375000000,15 Jan 2021
+UFOE.JK,Damai Sejahtera Abadi Tbk.,UFOE;UFOE.JK;Damai Sejahtera Abadi Tbk.;Damai Sejahtera Abadi,Indonesia,,UFOE,Pengembangan,2898261693,01 Feb 2021
+CHEK.JK,Diastika Biotekindo Tbk.,CHEK;CHEK.JK;Diastika Biotekindo Tbk.;Diastika Biotekindo,Indonesia,,CHEK,Pengembangan,4113331485,10 Jul 2025
+PMUI.JK,Prima Multi Usaha Indonesia Tb,PMUI;PMUI.JK;Prima Multi Usaha Indonesia Tb,Indonesia,,PMUI,Pengembangan,5800000000,10 Jul 2025
+EMAS.JK,Merdeka Gold Resources Tbk.,EMAS;EMAS.JK;Merdeka Gold Resources Tbk.;Merdeka Gold Resources,Indonesia,,EMAS,Pengembangan,14731366060,23 Sep 2025
+PJHB.JK,Pelayaran Jaya Hidup Baru Tbk.,PJHB;PJHB.JK;Pelayaran Jaya Hidup Baru Tbk.;Pelayaran Jaya Hidup Baru,Indonesia,,PJHB,Pengembangan,1920237009,06 Nov 2025
+RLCO.JK,Abadi Lestari Indonesia Tbk.,RLCO;RLCO.JK;Abadi Lestari Indonesia Tbk.;Abadi Lestari Indonesia,Indonesia,,RLCO,Pengembangan,3125000000,08 Des 2025
+SUPA.JK,Super Bank Indonesia Tbk.,SUPA;SUPA.JK;Super Bank Indonesia Tbk.;Super Bank Indonesia,Indonesia,,SUPA,Pengembangan,33558047450,17 Des 2025
+WBSA.JK,BSA Logistics Indonesia Tbk.,WBSA;WBSA.JK;BSA Logistics Indonesia Tbk.;BSA Logistics Indonesia,Indonesia,,WBSA,Pengembangan,8675000000,10 Apr 2026
+ADMF.JK,Adira Dinamika Multi Finance T,ADMF;ADMF.JK;Adira Dinamika Multi Finance T,Indonesia,,ADMF,Pengembangan,1235803109,31 Mar 2004
+ADMG.JK,Polychem Indonesia Tbk,ADMG;ADMG.JK;Polychem Indonesia Tbk;Polychem Indonesia,Indonesia,,ADMG,Pengembangan,3889179559,20 Okt 1993
+ADRO.JK,Alamtri Resources Indonesia Tb,ADRO;ADRO.JK;Alamtri Resources Indonesia Tb,Indonesia,,ADRO,Utama,29389689400,16 Jul 2008
+AGII.JK,Samator Indo Gas Tbk.,AGII;AGII.JK;Samator Indo Gas Tbk.;Samator Indo Gas,Indonesia,,AGII,Pengembangan,3066660000,28 Sep 2016
+AGRO.JK,Bank Raya Indonesia Tbk.,AGRO;AGRO.JK;Bank Raya Indonesia Tbk.;Bank Raya Indonesia,Indonesia,,AGRO,Utama,24493093216,08 Agt 2003
+AGRS.JK,Bank IBK Indonesia Tbk.,AGRS;AGRS.JK;Bank IBK Indonesia Tbk.;Bank IBK Indonesia,Indonesia,,AGRS,Pengembangan,47367057874,22 Des 2014
+AHAP.JK,Asuransi Harta Aman Pratama Tb,AHAP;AHAP.JK;Asuransi Harta Aman Pratama Tb,Indonesia,,AHAP,Pengembangan,4900000000,14 Sep 1990
+AIMS.JK,Artha Mahiya Investama Tbk.,AIMS;AIMS.JK;Artha Mahiya Investama Tbk.;Artha Mahiya Investama,Indonesia,,AIMS,Pengembangan,220000000,20 Jul 2001
+PNSE.JK,Pudjiadi & Sons Tbk.,PNSE;PNSE.JK;Pudjiadi & Sons Tbk.;Pudjiadi & Sons,Indonesia,,PNSE,Pengembangan,797813496,01 Mei 1990
+POLY.JK,Asia Pacific Fibers Tbk,POLY;POLY.JK;Asia Pacific Fibers Tbk;Asia Pacific Fibers,Indonesia,,POLY,Pemantauan Khusus,2495753334,12 Mar 1991
+POOL.JK,Pool Advista Indonesia Tbk.,POOL;POOL.JK;Pool Advista Indonesia Tbk.;Pool Advista Indonesia,Indonesia,,POOL,Pemantauan Khusus,2341366264,20 Mei 1991
+PPRO.JK,PP Properti Tbk.,PPRO;PPRO.JK;PP Properti Tbk.;PP Properti,Indonesia,,PPRO,Pemantauan Khusus,61675671883,19 Mei 2015

@@ -1,0 +1,10 @@
+ticker,company,aliases,country,sector
+BBCA.JK,Bank Central Asia,"BCA;PT Bank Central Asia Tbk;BBCA",Indonesia,Bank
+BBRI.JK,Bank Rakyat Indonesia,"BRI;PT Bank Rakyat Indonesia Tbk;BBRI",Indonesia,Bank
+TLKM.JK,Telkom Indonesia,"Telkom;PT Telkom Indonesia Tbk;TLKM",Indonesia,Telecom
+ASII.JK,Astra International,"Astra;PT Astra International Tbk;ASII",Indonesia,Conglomerate
+UNVR.JK,Unilever Indonesia,"Unilever Indonesia;PT Unilever Indonesia Tbk;UNVR",Indonesia,Consumer Staples
+AAPL,Apple,"Apple Inc;AAPL",United States,Technology
+MSFT,Microsoft,"Microsoft Corporation;MSFT",United States,Technology
+NVDA,NVIDIA,"Nvidia Corporation;NVDA",United States,Semiconductor
+
